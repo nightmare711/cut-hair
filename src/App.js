@@ -1,5 +1,5 @@
 import Banner from 'assets/banner.jpeg'
-import { Header } from 'components'
+import { Header, Navbar, IncomingCall } from 'components'
 import './App.css'
 
 function App() {
@@ -7,6 +7,8 @@ function App() {
 		<div className='App'>
 			<img className='banner-img' src={Banner} alt='Banner' />
 			<Header />
+			<Navbar />
+			<IncomingCall />
 		</div>
 	)
 }
