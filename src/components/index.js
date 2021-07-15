@@ -1,3 +1,6 @@
 export * from './Header/Header'
 export * from './Navbar/Navbar'
 export * from './IncomingCall/IncomingCall'
+export * from './StickyCall/StickyCall'
+export * from './Footer/Footer'
+export * from './Contact/Contact'

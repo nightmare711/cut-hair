@@ -1,0 +1,19 @@
+.contact {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+    background-color: var(--primary);
+    padding: 10px 0px;
+}
+.contact .container-contact {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    font-size: 17px;
+    color: white;
+}
+.contact .container-contact svg {
+    margin-right: 10px;;
+}

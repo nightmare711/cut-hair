@@ -1,14 +1,20 @@
-import Banner from 'assets/banner.jpeg'
-import { Header, Navbar, IncomingCall } from 'components'
+import { Header, Navbar, IncomingCall, StickyCall, Footer, Contact } from 'components'
+import { Switch, Route } from 'react-router-dom'
+import { Home } from 'page'
 import './App.css'
 
 function App() {
 	return (
 		<div className='App'>
-			<img className='banner-img' src={Banner} alt='Banner' />
+			<Contact />
 			<Header />
 			<Navbar />
+			<Switch>
+				<Route component={Home} path='/' />
+			</Switch>
 			<IncomingCall />
+			<StickyCall />
+			<Footer />
 		</div>
 	)
 }

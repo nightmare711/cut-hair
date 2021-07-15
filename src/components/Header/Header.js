@@ -1,5 +1,5 @@
 import React from 'react'
-import Logo from 'assets/logo-loke.svg'
+import Logo from 'assets/LOGO.jpeg'
 import { TextField } from '@material-ui/core'
 import './Header.css'
 

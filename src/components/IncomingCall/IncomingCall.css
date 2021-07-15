@@ -3,7 +3,7 @@
     width: 60px;
     height: 60px;
     position: fixed;
-    bottom:20px;
+    bottom:80px;
     left:20px;
     margin: 0 auto;
     border-radius: 100%;
@@ -13,7 +13,12 @@
     -moz-backface-visibility: hidden;
     -ms-backface-visibility: hidden;
     backface-visibility: hidden;
+    cursor: pointer;
   
+}
+.call-animation svg {
+    font-size: 30px;
+    color:white;
 }
 .img-circle{
         width: 60px;

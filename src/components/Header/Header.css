@@ -4,6 +4,8 @@
     padding:20px;
     justify-content: space-around;
     align-items: center;
+    background-image: url('http://trungtambaohanhnguyenkimhcm.com/wp-content/uploads/2020/09/backbanner.jpg');
+    background-size: cover;
 }
 .header img {
     width:150px;
