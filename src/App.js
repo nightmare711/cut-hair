@@ -1,12 +1,13 @@
 import { Header, Navbar, IncomingCall, StickyCall, Footer, Contact } from 'components'
 import { Switch, Route } from 'react-router-dom'
-import { Home } from 'page'
+import { Home, Post } from 'page'
+import { listPost } from 'constants/list-post'
 import './App.css'
 
 function App() {
 	return (
 		<div className='App'>
-			<Contact />
+			{/* <Contact />
 			<Header />
 			<Navbar />
 			<Switch>
@@ -14,7 +15,16 @@ function App() {
 			</Switch>
 			<IncomingCall />
 			<StickyCall />
-			<Footer />
+			<Footer /> */}
+			<Switch>
+				{listPost.map((list, index) => {
+					return (
+						<Route key={index} exact path={`/services/${list.href}`}>
+							<Post list={list} />
+						</Route>
+					)
+				})}
+			</Switch>
 		</div>
 	)
 }
