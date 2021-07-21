@@ -1,6 +1,7 @@
 import React from 'react'
 import { Link } from 'react-router-dom'
 import MenuIcon from '@material-ui/icons/Menu'
+import { listPost } from 'constants/list-post'
 import './Navbar.css'
 
 const listNavbar = [
@@ -40,13 +41,15 @@ export const Navbar = () => {
 						<MenuIcon />
 					</Link>
 				</li>
-				{listNavbar.map((nav, index) => (
-					<li className='item'>
-						<Link key={index} to={nav.href}>
-							{nav.name}
-						</Link>
-					</li>
-				))}
+				{listPost
+					.filter((post, index) => index <= 4)
+					.map((post, index) => (
+						<li className='item'>
+							<Link key={index} to={`/services/${post.href}`}>
+								{post.header.content}
+							</Link>
+						</li>
+					))}
 			</ul>
 		</div>
 	)

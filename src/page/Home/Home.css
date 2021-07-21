@@ -18,10 +18,13 @@
 }
 .home-page .container-flex {
     background: url('http://trungtambaohanhnguyenkimhcm.com/wp-content/uploads/2020/09/backvs-1.jpg');  
-    background-size:contain;
+    background-size: 100%;
+    background-repeat: no-repeat;
     margin:0;
     padding:50px 40px;
     color: white;
+    min-height: 350px;
+    height: max-content;
 
 }
 .home-page .container-flex .title-extend {

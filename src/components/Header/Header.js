@@ -5,7 +5,7 @@ import './Header.css'
 
 export const Header = () => {
 	return (
-		<div className='header'>
+		<div className='header-container'>
 			<img src={Logo} alt='Logo' />
 			<TextField
 				autoComplete='off'

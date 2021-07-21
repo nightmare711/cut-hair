@@ -1,4 +1,4 @@
-.header {
+.header-container {
     display: flex;
     flex-direction: row;
     padding:20px;
@@ -7,9 +7,9 @@
     background-image: url('http://trungtambaohanhnguyenkimhcm.com/wp-content/uploads/2020/09/backbanner.jpg');
     background-size: cover;
 }
-.header img {
+.header-container img {
     width:150px;
 }
-.header .MuiFormControl-root {
+.header-container .MuiFormControl-root {
     width:30%;
 }
