@@ -1,7 +1,7 @@
 export const listPost = [
 	{
 		header: {
-			content: 'SỬA MÁY LẠNH',
+			content: 'Sửa Máy lạnh',
 			className: 'header',
 		},
 		headTitle: {
@@ -134,7 +134,7 @@ export const listPost = [
 	},
 	{
 		header: {
-			content: 'THỢ SỬA TIVI TẠI NHÀ',
+			content: 'Thợ sửa TIVI tại nhà',
 			className: 'header',
 		},
 		headTitle: {
@@ -246,7 +246,7 @@ export const listPost = [
 	},
 	{
 		header: {
-			content: 'SỬA MÁY GIẶT',
+			content: 'Sửa Máy giặt',
 			className: 'header',
 		},
 		headTitle: {
@@ -361,7 +361,7 @@ export const listPost = [
 	},
 	{
 		header: {
-			content: 'VỆ SINH MÁY LẠNH',
+			content: 'Vệ sinh Máy lạnh',
 			className: 'header',
 		},
 		headTitle: {
@@ -474,7 +474,7 @@ export const listPost = [
 	},
 	{
 		header: {
-			content: 'SỬA TỦ LẠNH',
+			content: 'Sửa Tủ lạnh',
 			className: 'header',
 		},
 		headTitle: {
@@ -597,7 +597,7 @@ export const listPost = [
 	},
 	{
 		header: {
-			content: 'SỬA QUẠT HƠI NƯỚC HCM',
+			content: 'Sửa quạt hơi nước',
 			className: 'header',
 		},
 		headTitle: {
@@ -696,7 +696,7 @@ export const listPost = [
 	},
 	{
 		header: {
-			content: 'SỬA LAPTOP',
+			content: 'Sửa LAPTOP',
 			className: 'header',
 		},
 		headTitle: {
@@ -805,7 +805,7 @@ export const listPost = [
 	},
 	{
 		header: {
-			content: 'SỬA LÒ VI SÓNG',
+			content: 'Sửa Lò vi sóng',
 			className: 'header',
 		},
 		headTitle: {

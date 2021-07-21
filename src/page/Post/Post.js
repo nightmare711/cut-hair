@@ -1,6 +1,5 @@
 import React from 'react'
 import './Post.css'
-import { listPost } from 'constants/list-post'
 
 export const Post = ({ list }) => {
 	const [listContent, setListContent] = React.useState(null)
