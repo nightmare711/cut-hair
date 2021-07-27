@@ -18,7 +18,7 @@
 }
 .home-page .container-flex {
     background: url('http://trungtambaohanhnguyenkimhcm.com/wp-content/uploads/2020/09/backvs-1.jpg');  
-    background-size: 100%;
+    background-size: 100% 100%;
     background-repeat: no-repeat;
     margin:0;
     padding:50px 40px;
@@ -61,3 +61,29 @@
     margin-top:20px
 }
 /* url(http://trungtambaohanhnguyenkimhcm.com/wp-content/uploads/2020/09/backvs-1.jpg) */
+@media only screen and (max-width: 890px) {
+    .home-page .container-flex h1 {
+        font-size: 18px;
+    }
+    .home-page .container-flex {
+        background:none;
+        background-color: #466085;
+        padding:20px;
+    }
+    .home-page .container-grid-2 {
+        display: flex;
+        flex-direction: column;
+    }
+    .home-page .container-flex .left-side  {
+        width: 100%;
+    }
+    .home-page .container-flex .title {
+        font-size: 15px !important;
+    }
+    .home-page .container-banner .banner-2 {
+        width: 100%;
+    }
+    .home-page .container-flex .container-grid-2 span {
+        font-size: 12px;
+    }
+}

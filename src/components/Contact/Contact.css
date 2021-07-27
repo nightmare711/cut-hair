@@ -17,3 +17,11 @@
 .contact .container-contact svg {
     margin-right: 10px;;
 }
+@media only screen and (max-width: 890px) {
+    .contact .container-contact:first-child {
+        display: none;
+    }
+    .contact .container-contact:last-child {
+        display: none;
+    }
+}

@@ -4,36 +4,49 @@ import MenuIcon from '@material-ui/icons/Menu'
 import { listPost } from 'constants/list-post'
 import './Navbar.css'
 
-const listNavbar = [
-	{
-		name: 'Sản phẩm loa',
-		href: 'sanphamloa',
-	},
-	{
-		name: 'Sản phẩm loa',
-		href: 'sanphamloa',
-	},
-	{
-		name: 'Sản phẩm loa',
-		href: 'sanphamloa',
-	},
-	{
-		name: 'Sản phẩm loa',
-		href: 'sanphamloa',
-	},
-	{
-		name: 'Sản phẩm loa',
-		href: 'sanphamloa',
-	},
-	{
-		name: 'Sản phẩm loa',
-		href: 'sanphamloa',
-	},
-]
+// const listNavbar = [
+// 	{
+// 		name: 'Sản phẩm loa',
+// 		href: 'sanphamloa',
+// 	},
+// 	{
+// 		name: 'Sản phẩm loa',
+// 		href: 'sanphamloa',
+// 	},
+// 	{
+// 		name: 'Sản phẩm loa',
+// 		href: 'sanphamloa',
+// 	},
+// 	{
+// 		name: 'Sản phẩm loa',
+// 		href: 'sanphamloa',
+// 	},
+// 	{
+// 		name: 'Sản phẩm loa',
+// 		href: 'sanphamloa',
+// 	},
+// 	{
+// 		name: 'Sản phẩm loa',
+// 		href: 'sanphamloa',
+// 	},
+// ]
 
 export const Navbar = () => {
 	return (
 		<div className='navbar'>
+			<div
+				onClick={() => {
+					const listMenu = document.querySelector('.list-item')
+					if (listMenu.style.height === '0px') {
+						listMenu.style.height = '200px'
+					} else {
+						listMenu.style.height = '0px'
+					}
+				}}
+				className='menu-mobile'
+			>
+				<MenuIcon />
+			</div>
 			<ul className='list-item'>
 				<li className='item menu-item'>
 					<Link to='/'>

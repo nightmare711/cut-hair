@@ -13,3 +13,11 @@
 .header-container .MuiFormControl-root {
     width:30%;
 }
+@media only screen and (max-width: 890px) {
+    .header-container {
+        background: none;
+    }
+    .header-container .MuiFormControl-root  {
+        display: none;
+    }
+}

@@ -63,3 +63,15 @@
   font-size: 30px;
   color: white;
 }
+@media only screen and (max-width: 890px) {
+  .footer {
+    display: flex;
+    flex-direction: column;
+  }
+}
+@media only screen and (max-width: 380px) {
+  .footer {
+    padding:30px;
+    font-size: 12px;
+  }
+}

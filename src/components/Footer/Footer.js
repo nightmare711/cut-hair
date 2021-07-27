@@ -7,13 +7,7 @@ import PublicIcon from '@material-ui/icons/Public'
 import { listPost } from 'constants/list-post'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import './Footer.css'
-import {
-	faFacebook,
-	faInstagram,
-	faLinkedin,
-	faTwitter,
-	faYoutube,
-} from '@fortawesome/free-brands-svg-icons'
+import { faFacebook, faInstagram, faYoutube } from '@fortawesome/free-brands-svg-icons'
 
 export const Footer = () => {
 	return (
@@ -76,12 +70,6 @@ export const Footer = () => {
 					</a>
 					<a href='/' className='item instagram'>
 						<FontAwesomeIcon className='icon' icon={faInstagram} />
-					</a>
-					<a href='/' className='item twiter'>
-						<FontAwesomeIcon className='icon' icon={faTwitter} />
-					</a>
-					<a href='/' className=' item link'>
-						<FontAwesomeIcon className='icon' icon={faLinkedin} />
 					</a>
 					<a href='/' className=' item youtube'>
 						<FontAwesomeIcon className='icon' icon={faYoutube} />

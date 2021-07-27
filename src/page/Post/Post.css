@@ -49,3 +49,9 @@
 .posts-page li {
   margin-bottom: 5px;
 }
+@media only screen and (max-width: 890px) {
+  .posts-page {
+    margin-left:10px;
+    margin-right: 10px;
+  }
+}
