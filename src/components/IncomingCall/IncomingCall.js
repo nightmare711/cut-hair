@@ -8,7 +8,7 @@ export const IncomingCall = () => {
 			<div onClick={() => window.open('tel:0888262052', '_self')} className=' call-animation'>
 				<PhoneInTalkIcon />
 			</div>
-			<span className='phone'>0888262052</span>
+			<span className='phone'>0888262052 - 0899302728</span>
 		</div>
 	)
 }

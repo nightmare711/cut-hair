@@ -13,7 +13,7 @@ export const Contact = () => {
 			</div>
 			<div className='container-contact'>
 				<PhoneIcon />
-				Hotline: 02866606664
+				Hotline: 0888262052 - 0899302728
 			</div>
 			<div className='container-contact'>
 				<AccessAlarmIcon />

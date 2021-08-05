@@ -21,7 +21,7 @@ export const Home = () => {
 					<div className='container-grid-2'>
 						<div className='item item-1'>
 							<img
-								src='http://trungtambaohanhnguyenkimhcm.com/wp-content/uploads/2020/09/support.png'
+								src='https://res.cloudinary.com/danhpq17/image/upload/v1628132613/support_scvoli.png'
 								alt='support'
 							/>
 							<div className='content'>
@@ -34,7 +34,7 @@ export const Home = () => {
 						</div>
 						<div className='item item-1'>
 							<img
-								src='http://trungtambaohanhnguyenkimhcm.com/wp-content/uploads/2020/09/support.png'
+								src='https://res.cloudinary.com/danhpq17/image/upload/v1628132613/support_scvoli.png'
 								alt='support'
 							/>
 							<div className='content'>
@@ -47,7 +47,7 @@ export const Home = () => {
 						</div>
 						<div className='item item-1'>
 							<img
-								src='http://trungtambaohanhnguyenkimhcm.com/wp-content/uploads/2020/09/support.png'
+								src='https://res.cloudinary.com/danhpq17/image/upload/v1628132613/support_scvoli.png'
 								alt='support'
 							/>
 							<div className='content'>
@@ -60,7 +60,7 @@ export const Home = () => {
 						</div>
 						<div className='item item-1'>
 							<img
-								src='http://trungtambaohanhnguyenkimhcm.com/wp-content/uploads/2020/09/support.png'
+								src='https://res.cloudinary.com/danhpq17/image/upload/v1628132613/support_scvoli.png'
 								alt='support'
 							/>
 							<div className='content'>
@@ -76,7 +76,7 @@ export const Home = () => {
 			</div>
 			<div className='container-banner'>
 				<img
-					src='http://trungtambaohanhnguyenkimhcm.com/wp-content/uploads/2020/09/2banner.jpg'
+					src='https://res.cloudinary.com/danhpq17/image/upload/v1628132686/bannerNK2_cqw4fy.jpg'
 					alt='Banner'
 					className='banner-2'
 				/>
