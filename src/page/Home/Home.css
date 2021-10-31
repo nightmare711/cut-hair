@@ -58,6 +58,28 @@
   grid-template-columns: 1fr 1fr;
   margin-top: 20px;
 }
+.home-page .home-service,
+.home-quality,
+.home-intro {
+  text-align: center;
+}
+.home-page .home-service .service {
+  margin: 10px;
+}
+.home-page .home-quality img,
+.home-intro img {
+  width: 50%;
+}
+.home-page .home-quality .list-quanlity {
+  text-align: left;
+  width: 35%;
+  margin: 10px auto;
+}
+.home-page .home-intro p {
+  width: 60%;
+  margin: 10px auto;
+  text-align: left;
+}
 /* url(http://trungtambaohanhnguyenkimhcm.com/wp-content/uploads/2020/09/backvs-1.jpg) */
 @media only screen and (max-width: 890px) {
   .home-page .container-flex h1 {
@@ -83,5 +105,19 @@
   }
   .home-page .container-flex .container-grid-2 span {
     font-size: 12px;
+  }
+  .home-page .home-quality img,
+  .home-intro img {
+    width: 80%;
+  }
+  .home-page .home-quality .list-quanlity {
+    text-align: left;
+    width: 60%;
+    margin: 10px auto;
+  }
+  .home-page .home-intro p {
+    width: 80%;
+    margin: 10px auto;
+    text-align: left;
   }
 }

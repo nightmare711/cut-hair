@@ -22,7 +22,7 @@ export const Footer = () => {
 					</li>
 					<li className='content'>
 						<PhoneIcon />
-						0888262052
+						0775811523
 					</li>
 					<li className='content'>
 						<EmailIcon />

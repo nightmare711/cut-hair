@@ -49,10 +49,10 @@ export const Post = ({ list }) => {
 						<b>Quốc gia:</b>Việt Nam
 					</span>
 					<span>
-						<b>Hotline:</b> 0888262052
+						<b>Hotline:</b> 0775811523
 					</span>
 					<span>
-						<b>Điện thoại:</b> 0899302728
+						<b>Điện thoại:</b> 0775811523
 					</span>
 					<span>
 						<b>E-mail:</b> suachua-@gmail.com

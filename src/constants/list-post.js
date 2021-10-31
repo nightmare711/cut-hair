@@ -134,12 +134,12 @@ export const listPost = [
 	},
 	{
 		header: {
-			content: 'Thợ sửa TIVI tại nhà',
+			content: 'Thợ sửa Tivi tại nhà',
 			className: 'header',
 		},
 		headTitle: {
 			content:
-				'Với 13 năm hoạt động sửa tivi tại nhà, chúng tôi nhận được sự tin tưởng và ủng hộ của khách hàng để dịch vụ sửa tivi tại Điện máy Xanh sẽ phát triển hơn nữa.',
+				'Bạn đang tìm kiếm một đơn vị sửa tivi tại nhà chuyên nghiệp, uy tín chất lượng ,giá rẻ tại Hồ Chí Minh? Đừng ngần ngại, hãy đến với chúng tôi. Dịch vụ sửa chữa Nguyễn Kim – chuyên Sửa tivi của các hãng: SONY.SAMSUNG, LG, PANASONIC, SHARP, TCL, …',
 			className: 'head-title',
 		},
 		title1: {
