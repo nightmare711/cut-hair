@@ -152,7 +152,7 @@ export const listPost = [
 			className: 'content',
 		},
 		picture1: {
-			imgUrl: 'https://res.cloudinary.com/danhpq17/image/upload/v1624422187/suativimoi3_gptqdn.jpg',
+			imgUrl: 'https://res.cloudinary.com/danhpq17/image/upload/v1635664739/quality_oteqju.jpg',
 			className: 'img',
 		},
 		title2: {
@@ -168,7 +168,7 @@ export const listPost = [
 			className: 'content',
 		},
 		picture2: {
-			imgUrl: 'https://res.cloudinary.com/danhpq17/image/upload/v1624420693/suativimoi1_bms5xf.jpg',
+			imgUrl: 'https://res.cloudinary.com/danhpq17/image/upload/v1619771743/suativi4_arevio.jpg',
 			className: 'img',
 		},
 		title3: {
@@ -185,7 +185,7 @@ export const listPost = [
 			className: 'content',
 		},
 		picture3: {
-			imgUrl: 'https://res.cloudinary.com/danhpq17/image/upload/v1620795397/suativi_e9fjpn.jpg',
+			imgUrl: 'https://res.cloudinary.com/danhpq17/image/upload/v1635667463/kithuat_mlwju9.jpg',
 			className: 'img',
 		},
 		title4: {
@@ -239,7 +239,7 @@ export const listPost = [
 			className: 'content',
 		},
 		picture6: {
-			imgUrl: 'https://res.cloudinary.com/danhpq17/image/upload/v1624422787/tivimoi4_dup8ht.jpg',
+			imgUrl: 'https://res.cloudinary.com/danhpq17/image/upload/v1619771746/suativi6_xtauz7.jpg',
 			className: 'img',
 		},
 		href: 'tho-sua-tivi-tai-nha',

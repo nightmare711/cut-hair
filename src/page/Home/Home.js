@@ -6,7 +6,7 @@ export const Home = () => {
 		<div className='home-page'>
 			<img
 				className='banner'
-				src='https://res.cloudinary.com/danhpq17/image/upload/v1626860692/banner_pcleib.jpg'
+				src='https://res.cloudinary.com/danhpq17/image/upload/v1635668962/banner1_xmicf8.jpg'
 				alt='Banner'
 			/>
 			<div className='container-flex'>
