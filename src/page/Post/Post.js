@@ -55,10 +55,10 @@ export const Post = ({ list }) => {
 						<b>Điện thoại:</b> 0775811523
 					</span>
 					<span>
-						<b>E-mail:</b> suachua-@gmail.com
+						<b>E-mail:</b> trungtambaohanh-nguyenkim@gmail.com
 					</span>
 					<span>
-						<b>Website: </b> suachua-dienmayxanh.vn
+						<b>Website: </b> trungtambaohanh-nguyenkim.com
 					</span>
 				</div>
 			</div>
