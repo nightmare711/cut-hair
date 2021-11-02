@@ -133,7 +133,7 @@ export const listPost = [
 	},
 	{
 		header: {
-			content: 'Thợ sửa Tivi tại nhà',
+			content: 'Sửa Tivi tại nhà',
 			className: 'header',
 		},
 		headTitle: {
