@@ -52,7 +52,7 @@ export const Post = ({ list }) => {
 						<b>Hotline:</b> 0775811523
 					</span>
 					<span>
-						<b>Điện thoại:</b> 0775811523
+						<b>Điện thoại:</b> 02822432939
 					</span>
 					<span>
 						<b>E-mail:</b> trungtambaohanh-nguyenkim@gmail.com
