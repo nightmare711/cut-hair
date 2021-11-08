@@ -196,8 +196,8 @@ export const listContentServices = [
 			className: 'content1',
 		},
 		picture1: {
-			imgUrl: '',
-			className: '',
+			imgUrl: 'https://res.cloudinary.com/danhpq17/image/upload/v1635929819/lcd1_khw29e.jpg',
+			className: 'img',
 		},
 		title2: {
 			content: '',
@@ -209,8 +209,8 @@ export const listContentServices = [
 			className: 'content',
 		},
 		picture2: {
-			imgUrl: '',
-			className: '',
+			imgUrl: 'https://res.cloudinary.com/danhpq17/image/upload/v1636265963/tivi1_wgpoza.jpg',
+			className: 'img',
 		},
 		title3: {
 			content: '',
@@ -284,8 +284,8 @@ export const listContentServices = [
 			className: 'content',
 		},
 		picture1: {
-			imgUrl: '',
-			className: '',
+			imgUrl: 'https://res.cloudinary.com/danhpq17/image/upload/v1636265963/tivi1_wgpoza.jpg',
+			className: 'img',
 		},
 		title2: {
 			content:
@@ -323,8 +323,8 @@ export const listContentServices = [
 			className: 'content',
 		},
 		picture4: {
-			imgUrl: '',
-			className: '',
+			imgUrl: 'https://res.cloudinary.com/danhpq17/image/upload/v1636265174/tivisoc2_cohm4g.jpg',
+			className: 'img',
 		},
 		title5: {
 			content: 'Tivi không thể kết nối được với mạng Internet',
@@ -1341,7 +1341,7 @@ export const listContentServices = [
 		},
 		headTitle: {
 			content:
-				'Phục vụ tất cả các nhu cầu sửa chữa và dịch vụ về TV của khách hàng, TV của quý khách sẽ hoạt động lại tốt như mới trong thời gian ngắn. Còn mong đợi gì hơn chất lượng, dịch vụ sửa ti vi tại nhà Quận 1 chuyên nghiệp cho tất cả các nhãn hiệu và kiểu dáng. Cho dù quý khách cần sửa chữa một chiếc tivi hộp cũ mà quý khách đã mua từ nhiều năm trước hay là một màn hình plasma mới – Trung tâm Bảo hành Điện máy xanh đều có thể sửa nó!',
+				'Phục vụ tất cả các nhu cầu sửa chữa và dịch vụ về TV của khách hàng, TV của quý khách sẽ hoạt động lại tốt như mới trong thời gian ngắn. Còn mong đợi gì hơn chất lượng, dịch vụ sửa ti vi tại nhà Quận 1 chuyên nghiệp cho tất cả các nhãn hiệu và kiểu dáng. Cho dù quý khách cần sửa chữa một chiếc tivi hộp cũ mà quý khách đã mua từ nhiều năm trước hay là một màn hình plasma mới – Trung tâm Bảo hành Nguyễn Kim đều có thể sửa nó!',
 			className: 'head-title',
 		},
 		title1: {
@@ -1451,7 +1451,7 @@ export const listContentServices = [
 		},
 		headTitle: {
 			content:
-				'Bạn đang có nhu cầu sửa tivi tại nhà quận 2 nhưng không biết lựa chọn địa chỉ nào. Hãy liên hệ ngay với với chúng tôi. Trung tâm Bảo Hành Điện Máy Xanh chuyên sửa tivi tại nhà quận 2 nhanh chóng, giá rẻ. Chúng tôi làm việc chuyên nghiệp, uy tín, chất lượng và hiệu quả. Hãy cùng chúng tôi tìm hiểu về dịch vụ này nhé!',
+				'Bạn đang có nhu cầu sửa tivi tại nhà quận 2 nhưng không biết lựa chọn địa chỉ nào. Hãy liên hệ ngay với với chúng tôi. Trung tâm Bảo Hành Nguyễn Kim chuyên sửa tivi tại nhà quận 2 nhanh chóng, giá rẻ. Chúng tôi làm việc chuyên nghiệp, uy tín, chất lượng và hiệu quả. Hãy cùng chúng tôi tìm hiểu về dịch vụ này nhé!',
 			className: 'head-title',
 		},
 		title1: {
@@ -1488,8 +1488,8 @@ export const listContentServices = [
 		},
 		content3: {
 			content: [
-				'Trong những địa chỉ sửa chữa tivi tại nhà quận 2 hiện nay, Trung tâm Bảo Hành Điện Máy Xanh tự hào là một địa chỉ uy tín, được nhiều khách hàng tin cậy trong nhiều năm. Với đội ngũ kỹ thuật đông đảo, phục vụ chuyên nghiệp, có nhiều năm kinh nghiệm trong lĩnh vực sửa tivi, chúng tôi chuyên sửa tivi tại nhà quận 2 nhanh chóng, giá tốt và chất lượng đảm bảo.  ',
-				'Chúng tôi luôn lấy chữ tín làm đầu, đảm bảo chất lượng dịch vụ tốt nhất và chuyên nghiệp, chúng tôi rất hân hạnh được là đối tác tin cậy của quý khách hàng. Hãy liên hệ ngay với Trung tâm bảo hành Điện máy xanh chúng tôi khi quý khách gặp vấn đề với chiếc tivi của mình. Chúng tôi sẽ hỗ trợ quý khách sửa tivi tại nhà quận 2 trong thời gian nhanh nhất và với chi phí hợp lý nhất.',
+				'Trong những địa chỉ sửa chữa tivi tại nhà quận 2 hiện nay, Trung tâm Bảo Hành Nguyễn Kim tự hào là một địa chỉ uy tín, được nhiều khách hàng tin cậy trong nhiều năm. Với đội ngũ kỹ thuật đông đảo, phục vụ chuyên nghiệp, có nhiều năm kinh nghiệm trong lĩnh vực sửa tivi, chúng tôi chuyên sửa tivi tại nhà quận 2 nhanh chóng, giá tốt và chất lượng đảm bảo.  ',
+				'Chúng tôi luôn lấy chữ tín làm đầu, đảm bảo chất lượng dịch vụ tốt nhất và chuyên nghiệp, chúng tôi rất hân hạnh được là đối tác tin cậy của quý khách hàng. Hãy liên hệ ngay với Trung tâm bảo hành Nguyễn Kim chúng tôi khi quý khách gặp vấn đề với chiếc tivi của mình. Chúng tôi sẽ hỗ trợ quý khách sửa tivi tại nhà quận 2 trong thời gian nhanh nhất và với chi phí hợp lý nhất.',
 			],
 			className: 'content',
 		},
@@ -1576,7 +1576,7 @@ export const listContentServices = [
 		},
 		title2: {
 			content:
-				'2. Trung tâm bảo hành Điện máy xanh đã có bề dày lịch sử trong lĩnh vực sửa chữa đồ điện tử',
+				'2. Trung tâm bảo hành Nguyễn Kim đã có bề dày lịch sử trong lĩnh vực sửa chữa đồ điện tử',
 			className: 'title',
 		},
 		content2: {
@@ -1591,7 +1591,7 @@ export const listContentServices = [
 			className: '',
 		},
 		title3: {
-			content: '3. Tại sao bạn nên lựa chọn sửa tivi tại Trung tâm bảo hành Điện máy xanh?',
+			content: '3. Tại sao bạn nên lựa chọn sửa tivi tại Trung tâm bảo hành Nguyễn Kim?',
 			className: 'title',
 		},
 		content3: {
@@ -1659,7 +1659,7 @@ export const listContentServices = [
 		},
 		headTitle: {
 			content:
-				'Bạn đang có nhu cầu sửa tivi tại nhà quận 6 nhưng không biết lựa chọn địa chỉ nào. Hãy liên hệ ngay với với chúng tôi. Trung tâm Bảo Hành Điện Máy Xanh chuyên sửa tivi tại nhà quận 6 nhanh chóng, giá rẻ. Chúng tôi làm việc chuyên nghiệp, uy tín, chất lượng và hiệu quả. Hãy cùng chúng tôi tìm hiểu về dịch vụ này nhé!',
+				'Bạn đang có nhu cầu sửa tivi tại nhà quận 6 nhưng không biết lựa chọn địa chỉ nào. Hãy liên hệ ngay với với chúng tôi. Trung tâm Bảo Hành Nguyễn Kim chuyên sửa tivi tại nhà quận 6 nhanh chóng, giá rẻ. Chúng tôi làm việc chuyên nghiệp, uy tín, chất lượng và hiệu quả. Hãy cùng chúng tôi tìm hiểu về dịch vụ này nhé!',
 			className: 'head-title',
 		},
 		title1: {
@@ -1696,8 +1696,8 @@ export const listContentServices = [
 		},
 		content3: {
 			content: [
-				'Trong những địa chỉ sửa chữa tivi tại nhà quận 6 hiện nay, Trung tâm Bảo Hành Điện Máy Xanh tự hào là một địa chỉ uy tín, được nhiều khách hàng tin cậy trong nhiều năm. Với đội ngũ kỹ thuật đông đảo, phục vụ chuyên nghiệp, có nhiều năm kinh nghiệm trong lĩnh vực sửa tivi, chúng tôi chuyên sửa tivi tại nhà quận 6 nhanh chóng, giá tốt và chất lượng đảm bảo.  ',
-				'Chúng tôi luôn lấy chữ tín làm đầu, đảm bảo chất lượng dịch vụ tốt nhất và chuyên nghiệp, chúng tôi rất hân hạnh được là đối tác tin cậy của quý khách hàng. Hãy liên hệ ngay với Trung tâm bảo hành Điện máy xanh chúng tôi khi quý khách gặp vấn đề với chiếc tivi của mình. Chúng tôi sẽ hỗ trợ quý khách sửa tivi tại nhà quận 6 trong thời gian nhanh nhất và với chi phí hợp lý nhất.',
+				'Trong những địa chỉ sửa chữa tivi tại nhà quận 6 hiện nay, Trung tâm Bảo Hành Nguyễn Kim tự hào là một địa chỉ uy tín, được nhiều khách hàng tin cậy trong nhiều năm. Với đội ngũ kỹ thuật đông đảo, phục vụ chuyên nghiệp, có nhiều năm kinh nghiệm trong lĩnh vực sửa tivi, chúng tôi chuyên sửa tivi tại nhà quận 6 nhanh chóng, giá tốt và chất lượng đảm bảo.  ',
+				'Chúng tôi luôn lấy chữ tín làm đầu, đảm bảo chất lượng dịch vụ tốt nhất và chuyên nghiệp, chúng tôi rất hân hạnh được là đối tác tin cậy của quý khách hàng. Hãy liên hệ ngay với Trung tâm bảo hành Nguyễn Kim chúng tôi khi quý khách gặp vấn đề với chiếc tivi của mình. Chúng tôi sẽ hỗ trợ quý khách sửa tivi tại nhà quận 6 trong thời gian nhanh nhất và với chi phí hợp lý nhất.',
 			],
 			className: 'content',
 		},
@@ -1763,7 +1763,7 @@ export const listContentServices = [
 		},
 		headTitle: {
 			content:
-				'Với nhiều năm kinh nghiệm hoạt động, Trung tâm Bảo hành Điện máy xanh luôn nỗ lực không ngừng trong việc mang tới cho khách hàng những dịch vụ chất lượng nhất. Với chúng tôi, sự hài lòng của khách hàng chính là động lực hoạt động to lớn nhất. Trải qua nhiều năm hình thành và phát triển lớn mạnh, mạng lưới công ty đã được mở rộng khắp các nơi, nhằm phục vụ tối đa nhu cầu của khách hàng. Và để có thể phục vụ một cách thuận tiện nhất cho bạn, chúng tôi đã triển khai cung cấp tới khách hàng: “Dịch vụ sửa tivi tại nhà chuyên nghiệp ở quận 7”',
+				'Với nhiều năm kinh nghiệm hoạt động, Trung tâm Bảo hành Nguyễn Kim luôn nỗ lực không ngừng trong việc mang tới cho khách hàng những dịch vụ chất lượng nhất. Với chúng tôi, sự hài lòng của khách hàng chính là động lực hoạt động to lớn nhất. Trải qua nhiều năm hình thành và phát triển lớn mạnh, mạng lưới công ty đã được mở rộng khắp các nơi, nhằm phục vụ tối đa nhu cầu của khách hàng. Và để có thể phục vụ một cách thuận tiện nhất cho bạn, chúng tôi đã triển khai cung cấp tới khách hàng: “Dịch vụ sửa tivi tại nhà chuyên nghiệp ở quận 7”',
 			className: 'head-title',
 		},
 		title1: {
@@ -1803,8 +1803,8 @@ export const listContentServices = [
 		},
 		content3: {
 			content: [
-				'Bạn đang tìm kiếm một địa chỉ chuyên nghiệp để giải quyết các vấn đề trục trặc của tivi nhưng đứng trước một nỗi lo lắng về việc tìm được một địa chỉ uy tín, đảm bảo. Bạn hoàn toàn chỉ biết tivi đã bị sự cố chứ không biết cụ thể nguyên nhân sâu xa gây ra là gì. Hay là việc đơn giản nhất là lựa chọn một địa chỉ để gửi gắm lòng tin cũng là một khó khăn đối với bạn. Thì nay bạn hoàn tòan có thể yên tâm vì đã có chúng tôi: “Dịch vụ sửa tivi tại nhà chuyên nghiệp ở quận 7” – Trung tâm Bảo hành Điện máy xanh',
-				'Dịch vụ sửa tivi tại nhà chuyên nghiệp ở quận 7 của Trung tâm Bảo hành Điện máy xanh tự hào là đơn vị cung cấp dịch vụ chuyên nghiệp nhất tại quận 7 hiện nay. Chúng tôi tin chắc rằng sẽ đem tới cho bạn sự trải nghiệm chất lượng dịch vụ tốt nhất mà bạn chưa từng biết tới ở bất kì đâu.',
+				'Bạn đang tìm kiếm một địa chỉ chuyên nghiệp để giải quyết các vấn đề trục trặc của tivi nhưng đứng trước một nỗi lo lắng về việc tìm được một địa chỉ uy tín, đảm bảo. Bạn hoàn toàn chỉ biết tivi đã bị sự cố chứ không biết cụ thể nguyên nhân sâu xa gây ra là gì. Hay là việc đơn giản nhất là lựa chọn một địa chỉ để gửi gắm lòng tin cũng là một khó khăn đối với bạn. Thì nay bạn hoàn tòan có thể yên tâm vì đã có chúng tôi: “Dịch vụ sửa tivi tại nhà chuyên nghiệp ở quận 7” – Trung tâm Bảo hành Nguyễn Kim',
+				'Dịch vụ sửa tivi tại nhà chuyên nghiệp ở quận 7 của Trung tâm Bảo hành Nguyễn Kim tự hào là đơn vị cung cấp dịch vụ chuyên nghiệp nhất tại quận 7 hiện nay. Chúng tôi tin chắc rằng sẽ đem tới cho bạn sự trải nghiệm chất lượng dịch vụ tốt nhất mà bạn chưa từng biết tới ở bất kì đâu.',
 				'Theo khảo sát thị trường của Công ty chúng tôi, hiện nay trên địa bàn quận 7 mức sử dụng tivi đang rất cao và có xu hướng sẽ tăng nhanh trong thời gian tới. Tivi đã trở thành một phần không thể thiếu trong ngôi nhà của bạn, là cánh cửa mở ra thế giới tri thức quý báu nhất.',
 				'Chính vì nắm bắt được nhu cầu đó, chúng tôi đã triển khai cung cấp dịch vụ sửa tivi tại nhà chuyên nghiệp ở quận 7. Bây giờ bạn không phải quá lo lắng về việc tìm kiếm một địa chỉ để gửi gắm chiếc tivi của mình, cũng như là lòng tin về tất cả các điều kiện khác mà bạn đang khúc mắc.',
 			],
@@ -1872,7 +1872,7 @@ export const listContentServices = [
 		},
 		headTitle: {
 			content:
-				'Nắm bắt được nhu cầu của đông đảo mọi người sinh sống trong khu vực quận 8, cũng như muốn hỗ trợ giúp bạn giải quyết những khó khăn khi chiếc tivi thân yêu gặp phải những sự cố, Trung tâm Bảo hành Điện máy xanh đã mở rộng hoạt động tiếp cận thị trường một cách tốt hơn với việc mở rộng chi nhánh dịch vụ sửa tivi quận 8. Dịch vụ sửa tivi quận 8 của Bảo hành Điện máy Xanh luôn đem tới cho bạn một sự lựa chon hoàn hảo!',
+				'Nắm bắt được nhu cầu của đông đảo mọi người sinh sống trong khu vực quận 8, cũng như muốn hỗ trợ giúp bạn giải quyết những khó khăn khi chiếc tivi thân yêu gặp phải những sự cố, Trung tâm Bảo hành Nguyễn Kim đã mở rộng hoạt động tiếp cận thị trường một cách tốt hơn với việc mở rộng chi nhánh dịch vụ sửa tivi quận 8. Dịch vụ sửa tivi quận 8 của Bảo hành Nguyễn Kim luôn đem tới cho bạn một sự lựa chon hoàn hảo!',
 			className: 'head-title',
 		},
 		title1: {
@@ -1881,7 +1881,7 @@ export const listContentServices = [
 		},
 		content1: {
 			content: [
-				'Qua tìm hiểu, chúng tôi nhận thấy quận 8 là một môi trường cạnh tranh tốt bới nơi đây có số lượng tiêu thụ tivi lớn trong khi các cơ sở sửa chữa nhỏ lẻ, uy tín không cao. Trung tâm  Bảo hành Điện máy xanh cũng luôn là một công ty lấy lợi ích khách hàng lên làm tiêu chí hoạt động hàng đầu cho nên việc thực hiện mở chi nhánh ở đây là vô cùng thuận lợi.',
+				'Qua tìm hiểu, chúng tôi nhận thấy quận 8 là một môi trường cạnh tranh tốt bới nơi đây có số lượng tiêu thụ tivi lớn trong khi các cơ sở sửa chữa nhỏ lẻ, uy tín không cao. Trung tâm  Bảo hành Nguyễn Kim cũng luôn là một công ty lấy lợi ích khách hàng lên làm tiêu chí hoạt động hàng đầu cho nên việc thực hiện mở chi nhánh ở đây là vô cùng thuận lợi.',
 				'Tivi là một thiết bị điện tử được cập nhất các công nghệ tối tân nhất cho nên việc sử dụng của bạn cũng luôn được bảo đảm. Tuy nhiên, đôi khi chúng cũng gặp phải những hư hỏng khiến bạn vô cùng khó chịu, chẳng hạn có thể kể tới như: hình ảnh chất lượng kém, âm thanh to nhỏ bất thường, hoạt đọng gián đoạn…Bạn lại là một người không am hiểu nhiều về đồ điện tử nên cũng đành bó tay.',
 				'Nếu bạn đang tìm kiếm một địa chỉ sửa chữa uy tín tại quận 8 thì chúng tôi xin trân trọng giới thiệu tới bạn “Dịch vụ sửa tivi quận 8” – Dịch vụ nâng tầm cuộc sống trong từng phút giây',
 			],
@@ -1910,8 +1910,8 @@ export const listContentServices = [
 		},
 		content3: {
 			content: [
-				'Trong những địa chỉ sửa chữa tivi tại nhà quận 8 hiện nay, Trung tâm Bảo Hành Điện Máy Xanh tự hào là một địa chỉ uy tín, được nhiều khách hàng tin cậy trong nhiều năm. Với đội ngũ kỹ thuật đông đảo, phục vụ chuyên nghiệp, có nhiều năm kinh nghiệm trong lĩnh vực sửa tivi, chúng tôi chuyên sửa tivi tại nhà quận 8 nhanh chóng, giá tốt và chất lượng đảm bảo.  ',
-				'Chúng tôi luôn lấy chữ tín làm đầu, đảm bảo chất lượng dịch vụ tốt nhất và chuyên nghiệp, chúng tôi rất hân hạnh được là đối tác tin cậy của quý khách hàng. Hãy liên hệ ngay với Trung tâm bảo hành Điện máy xanh chúng tôi khi quý khách gặp vấn đề với chiếc tivi của mình. Chúng tôi sẽ hỗ trợ quý khách sửa tivi tại nhà quận 8 trong thời gian nhanh nhất và với chi phí hợp lý nhất.',
+				'Trong những địa chỉ sửa chữa tivi tại nhà quận 8 hiện nay, Trung tâm Bảo Hành Nguyễn Kim tự hào là một địa chỉ uy tín, được nhiều khách hàng tin cậy trong nhiều năm. Với đội ngũ kỹ thuật đông đảo, phục vụ chuyên nghiệp, có nhiều năm kinh nghiệm trong lĩnh vực sửa tivi, chúng tôi chuyên sửa tivi tại nhà quận 8 nhanh chóng, giá tốt và chất lượng đảm bảo.  ',
+				'Chúng tôi luôn lấy chữ tín làm đầu, đảm bảo chất lượng dịch vụ tốt nhất và chuyên nghiệp, chúng tôi rất hân hạnh được là đối tác tin cậy của quý khách hàng. Hãy liên hệ ngay với Trung tâm bảo hành Nguyễn Kim chúng tôi khi quý khách gặp vấn đề với chiếc tivi của mình. Chúng tôi sẽ hỗ trợ quý khách sửa tivi tại nhà quận 8 trong thời gian nhanh nhất và với chi phí hợp lý nhất.',
 			],
 			className: 'content',
 		},
@@ -1977,7 +1977,7 @@ export const listContentServices = [
 		},
 		headTitle: {
 			content:
-				'Bạn đang tìm kiếm một nơi uy tín để sửa tivi tại nhà quận 10 giá rẻ nhất TP.HCM? Tivi của bạn đang gặp một số trục trặc gây phiền hà ảnh hưởng nhu cầu của bạn?  Bạn đang phân vân không biết nên lựa chọn địa chỉ nào giữa muôn vàn sự lựa chọn trên thị trường hiện nay? Đừng quá lo lắng, vì bạn đã có chúng tôi: Trung tâm Bảo hành Điện máy xanh – Dịch vụ sửa tivi tận nơi giá rẻ nhất, chất lượng cao nhất.',
+				'Bạn đang tìm kiếm một nơi uy tín để sửa tivi tại nhà quận 10 giá rẻ nhất TP.HCM? Tivi của bạn đang gặp một số trục trặc gây phiền hà ảnh hưởng nhu cầu của bạn?  Bạn đang phân vân không biết nên lựa chọn địa chỉ nào giữa muôn vàn sự lựa chọn trên thị trường hiện nay? Đừng quá lo lắng, vì bạn đã có chúng tôi: Trung tâm Bảo hành Nguyễn Kim – Dịch vụ sửa tivi tận nơi giá rẻ nhất, chất lượng cao nhất.',
 			className: 'head-title',
 		},
 		title1: {
@@ -2015,8 +2015,8 @@ export const listContentServices = [
 		},
 		content3: {
 			content: [
-				'Trong những địa chỉ sửa chữa tivi tại nhà quận 10 hiện nay, Trung tâm Bảo Hành Điện Máy Xanh tự hào là một địa chỉ uy tín, được nhiều khách hàng tin cậy trong nhiều năm. Với đội ngũ kỹ thuật đông đảo, phục vụ chuyên nghiệp, có nhiều năm kinh nghiệm trong lĩnh vực sửa tivi, chúng tôi chuyên sửa tivi tại nhà quận 8 nhanh chóng, giá tốt và chất lượng đảm bảo.  ',
-				'Chúng tôi luôn lấy chữ tín làm đầu, đảm bảo chất lượng dịch vụ tốt nhất và chuyên nghiệp, chúng tôi rất hân hạnh được là đối tác tin cậy của quý khách hàng. Hãy liên hệ ngay với Trung tâm bảo hành Điện máy xanh chúng tôi khi quý khách gặp vấn đề với chiếc tivi của mình. Chúng tôi sẽ hỗ trợ quý khách sửa tivi tại nhà quận 10 trong thời gian nhanh nhất và với chi phí hợp lý nhất.',
+				'Trong những địa chỉ sửa chữa tivi tại nhà quận 10 hiện nay, Trung tâm Bảo Hành Nguyễn Kim tự hào là một địa chỉ uy tín, được nhiều khách hàng tin cậy trong nhiều năm. Với đội ngũ kỹ thuật đông đảo, phục vụ chuyên nghiệp, có nhiều năm kinh nghiệm trong lĩnh vực sửa tivi, chúng tôi chuyên sửa tivi tại nhà quận 8 nhanh chóng, giá tốt và chất lượng đảm bảo.  ',
+				'Chúng tôi luôn lấy chữ tín làm đầu, đảm bảo chất lượng dịch vụ tốt nhất và chuyên nghiệp, chúng tôi rất hân hạnh được là đối tác tin cậy của quý khách hàng. Hãy liên hệ ngay với Trung tâm bảo hành Nguyễn Kim chúng tôi khi quý khách gặp vấn đề với chiếc tivi của mình. Chúng tôi sẽ hỗ trợ quý khách sửa tivi tại nhà quận 10 trong thời gian nhanh nhất và với chi phí hợp lý nhất.',
 			],
 			className: 'content',
 		},
@@ -2082,7 +2082,7 @@ export const listContentServices = [
 		},
 		headTitle: {
 			content:
-				'Bạn đang tìm kiếm một nơi uy tín để sửa tivi tại nhà quận 10 giá rẻ nhất TP.HCM? Tivi của bạn đang gặp một số trục trặc gây phiền hà ảnh hưởng nhu cầu của bạn?  Bạn đang phân vân không biết nên lựa chọn địa chỉ nào giữa muôn vàn sự lựa chọn trên thị trường hiện nay? Đừng quá lo lắng, vì bạn đã có chúng tôi: Trung tâm Bảo hành Điện máy xanh – Dịch vụ sửa tivi tận nơi giá rẻ nhất, chất lượng cao nhất.',
+				'Bạn đang tìm kiếm một nơi uy tín để sửa tivi tại nhà quận 10 giá rẻ nhất TP.HCM? Tivi của bạn đang gặp một số trục trặc gây phiền hà ảnh hưởng nhu cầu của bạn?  Bạn đang phân vân không biết nên lựa chọn địa chỉ nào giữa muôn vàn sự lựa chọn trên thị trường hiện nay? Đừng quá lo lắng, vì bạn đã có chúng tôi: Trung tâm Bảo hành Nguyễn Kim – Dịch vụ sửa tivi tận nơi giá rẻ nhất, chất lượng cao nhất.',
 			className: 'head-title',
 		},
 		title1: {
@@ -2120,8 +2120,8 @@ export const listContentServices = [
 		},
 		content3: {
 			content: [
-				'Trong những địa chỉ sửa chữa tivi tại nhà quận 10 hiện nay, Trung tâm Bảo Hành Điện Máy Xanh tự hào là một địa chỉ uy tín, được nhiều khách hàng tin cậy trong nhiều năm. Với đội ngũ kỹ thuật đông đảo, phục vụ chuyên nghiệp, có nhiều năm kinh nghiệm trong lĩnh vực sửa tivi, chúng tôi chuyên sửa tivi tại nhà quận 10 nhanh chóng, giá tốt và chất lượng đảm bảo.  ',
-				'Chúng tôi luôn lấy chữ tín làm đầu, đảm bảo chất lượng dịch vụ tốt nhất và chuyên nghiệp, chúng tôi rất hân hạnh được là đối tác tin cậy của quý khách hàng. Hãy liên hệ ngay với Trung tâm bảo hành Điện máy xanh chúng tôi khi quý khách gặp vấn đề với chiếc tivi của mình. Chúng tôi sẽ hỗ trợ quý khách sửa tivi tại nhà quận 10 trong thời gian nhanh nhất và với chi phí hợp lý nhất.',
+				'Trong những địa chỉ sửa chữa tivi tại nhà quận 10 hiện nay, Trung tâm Bảo Hành Nguyễn Kim tự hào là một địa chỉ uy tín, được nhiều khách hàng tin cậy trong nhiều năm. Với đội ngũ kỹ thuật đông đảo, phục vụ chuyên nghiệp, có nhiều năm kinh nghiệm trong lĩnh vực sửa tivi, chúng tôi chuyên sửa tivi tại nhà quận 10 nhanh chóng, giá tốt và chất lượng đảm bảo.  ',
+				'Chúng tôi luôn lấy chữ tín làm đầu, đảm bảo chất lượng dịch vụ tốt nhất và chuyên nghiệp, chúng tôi rất hân hạnh được là đối tác tin cậy của quý khách hàng. Hãy liên hệ ngay với Trung tâm bảo hành Nguyễn Kim chúng tôi khi quý khách gặp vấn đề với chiếc tivi của mình. Chúng tôi sẽ hỗ trợ quý khách sửa tivi tại nhà quận 10 trong thời gian nhanh nhất và với chi phí hợp lý nhất.',
 			],
 			className: 'content',
 		},
@@ -2187,7 +2187,7 @@ export const listContentServices = [
 		},
 		headTitle: {
 			content:
-				'Trong xã hội hiện đại ngày nay, tivi đã không còn là xa lạ đối với tất cả mọi người. Nó đem đến cho bạn một bức tranh toàn cảnh về xã hội, cung cấp cho bạn các thông tin diễn ra xung quanh bạn mà bạn chưa chưa biết vì một vài lý do nào đó. Thế nhưng, bất chợt một ngày nào đó mà chiếc tivi của bạn gặp phải sự cố cần phải sửa chữa mà bạn lại không phải là một người am hiểu về nó vì vậy mà bạn đang tìm một địa chỉ sửa tivi uy tín tại quận 9. Đừng lo lắng, hãy liên hệ ngay với chúng tôi: “Trung tâm Bảo hành Điện máy xanh”. Chúng tôi có đội thợ sửa tivi tận nơi, tại nhà quận 9 TP.HCM uy tín, chất lượng.',
+				'Trong xã hội hiện đại ngày nay, tivi đã không còn là xa lạ đối với tất cả mọi người. Nó đem đến cho bạn một bức tranh toàn cảnh về xã hội, cung cấp cho bạn các thông tin diễn ra xung quanh bạn mà bạn chưa chưa biết vì một vài lý do nào đó. Thế nhưng, bất chợt một ngày nào đó mà chiếc tivi của bạn gặp phải sự cố cần phải sửa chữa mà bạn lại không phải là một người am hiểu về nó vì vậy mà bạn đang tìm một địa chỉ sửa tivi uy tín tại quận 9. Đừng lo lắng, hãy liên hệ ngay với chúng tôi: “Trung tâm Bảo hành Nguyễn Kim”. Chúng tôi có đội thợ sửa tivi tận nơi, tại nhà quận 9 TP.HCM uy tín, chất lượng.',
 			className: 'head-title',
 		},
 		title1: {
@@ -2229,8 +2229,8 @@ export const listContentServices = [
 		},
 		content3: {
 			content: [
-				'Trong những địa chỉ sửa chữa tivi tại nhà quận 10 hiện nay, Trung tâm Bảo Hành Điện Máy Xanh tự hào là một địa chỉ uy tín, được nhiều khách hàng tin cậy trong nhiều năm. Với đội ngũ kỹ thuật đông đảo, phục vụ chuyên nghiệp, có nhiều năm kinh nghiệm trong lĩnh vực sửa tivi, chúng tôi chuyên sửa tivi tại nhà quận 9 nhanh chóng, giá tốt và chất lượng đảm bảo.  ',
-				'Chúng tôi luôn lấy chữ tín làm đầu, đảm bảo chất lượng dịch vụ tốt nhất và chuyên nghiệp, chúng tôi rất hân hạnh được là đối tác tin cậy của quý khách hàng. Hãy liên hệ ngay với Trung tâm bảo hành Điện máy xanh chúng tôi khi quý khách gặp vấn đề với chiếc tivi của mình. Chúng tôi sẽ hỗ trợ quý khách sửa tivi tại nhà quận 9 trong thời gian nhanh nhất và với chi phí hợp lý nhất.',
+				'Trong những địa chỉ sửa chữa tivi tại nhà quận 10 hiện nay, Trung tâm Bảo Hành Nguyễn Kim tự hào là một địa chỉ uy tín, được nhiều khách hàng tin cậy trong nhiều năm. Với đội ngũ kỹ thuật đông đảo, phục vụ chuyên nghiệp, có nhiều năm kinh nghiệm trong lĩnh vực sửa tivi, chúng tôi chuyên sửa tivi tại nhà quận 9 nhanh chóng, giá tốt và chất lượng đảm bảo.  ',
+				'Chúng tôi luôn lấy chữ tín làm đầu, đảm bảo chất lượng dịch vụ tốt nhất và chuyên nghiệp, chúng tôi rất hân hạnh được là đối tác tin cậy của quý khách hàng. Hãy liên hệ ngay với Trung tâm bảo hành Nguyễn Kim chúng tôi khi quý khách gặp vấn đề với chiếc tivi của mình. Chúng tôi sẽ hỗ trợ quý khách sửa tivi tại nhà quận 9 trong thời gian nhanh nhất và với chi phí hợp lý nhất.',
 			],
 			className: 'content',
 		},
@@ -2296,7 +2296,7 @@ export const listContentServices = [
 		},
 		headTitle: {
 			content:
-				'Bạn đang cần tìm một địa chỉ cung cấp dịch vụ sửa tivi tại nhà quận 11 uy tín, chất lượng. Bạn khảo sát thông tin trên các website, thông qua bạn bè thì được giới thiệu đến Trung tâm bảo hành Điện máy xanh. Vậy Công ty có thực sự uy tín như vậy không? Bài viết dưới đây sẽ chỉ ra cho bạn, lý do tại sao chúng tôi được nhiều khách hàng tin tưởng và giới thiệu.',
+				'Bạn đang cần tìm một địa chỉ cung cấp dịch vụ sửa tivi tại nhà quận 11 uy tín, chất lượng. Bạn khảo sát thông tin trên các website, thông qua bạn bè thì được giới thiệu đến Trung tâm bảo hành Nguyễn Kim. Vậy Công ty có thực sự uy tín như vậy không? Bài viết dưới đây sẽ chỉ ra cho bạn, lý do tại sao chúng tôi được nhiều khách hàng tin tưởng và giới thiệu.',
 			className: 'head-title',
 		},
 		title1: {
@@ -2320,7 +2320,7 @@ export const listContentServices = [
 		},
 		content2: {
 			content: [
-				'Hiểu được nhu cầu của khách hàng, Trung tâm bảo hành điện máy xanh đã đi đầu, tiên phong trong lĩnh vực sửa chữa các loại tivi: 3D, Led, CRT, Plasma,.. với các nhãn hiệu phổ biến hàng đầu Việt Nam như Samsung, Sony, Panasonic, LG, Sharp, Philips, TCL, JVC…',
+				'Hiểu được nhu cầu của khách hàng, Trung tâm bảo hành Nguyễn Kim đã đi đầu, tiên phong trong lĩnh vực sửa chữa các loại tivi: 3D, Led, CRT, Plasma,.. với các nhãn hiệu phổ biến hàng đầu Việt Nam như Samsung, Sony, Panasonic, LG, Sharp, Philips, TCL, JVC…',
 				'Khi tivi gặp sự cố, nhu cầu cần sửa tivi tại nhà quận 11 trở nên vô cùng cần thiết. Việc sửa tivi tại nhà giúp khắc phục được sự cố một cách nhanh chóng, tiện lợi.',
 			],
 			className: 'content',
@@ -2335,8 +2335,8 @@ export const listContentServices = [
 		},
 		content3: {
 			content: [
-				'Trong những địa chỉ sửa chữa tivi tại nhà quận 11 hiện nay, Trung tâm Bảo Hành Điện Máy Xanh tự hào là một địa chỉ uy tín, được nhiều khách hàng tin cậy trong nhiều năm. Với đội ngũ kỹ thuật đông đảo, phục vụ chuyên nghiệp, có nhiều năm kinh nghiệm trong lĩnh vực sửa tivi, chúng tôi chuyên sửa tivi tại nhà quận 11 nhanh chóng, giá tốt và chất lượng đảm bảo.  ',
-				'Chúng tôi luôn lấy chữ tín làm đầu, đảm bảo chất lượng dịch vụ tốt nhất và chuyên nghiệp, chúng tôi rất hân hạnh được là đối tác tin cậy của quý khách hàng. Hãy liên hệ ngay với Trung tâm bảo hành Điện máy xanh chúng tôi khi quý khách gặp vấn đề với chiếc tivi của mình. Chúng tôi sẽ hỗ trợ quý khách sửa tivi tại nhà quận 11 trong thời gian nhanh nhất và với chi phí hợp lý nhất.',
+				'Trong những địa chỉ sửa chữa tivi tại nhà quận 11 hiện nay, Trung tâm Bảo Hành Nguyễn Kim tự hào là một địa chỉ uy tín, được nhiều khách hàng tin cậy trong nhiều năm. Với đội ngũ kỹ thuật đông đảo, phục vụ chuyên nghiệp, có nhiều năm kinh nghiệm trong lĩnh vực sửa tivi, chúng tôi chuyên sửa tivi tại nhà quận 11 nhanh chóng, giá tốt và chất lượng đảm bảo.  ',
+				'Chúng tôi luôn lấy chữ tín làm đầu, đảm bảo chất lượng dịch vụ tốt nhất và chuyên nghiệp, chúng tôi rất hân hạnh được là đối tác tin cậy của quý khách hàng. Hãy liên hệ ngay với Trung tâm bảo hành Nguyễn Kim chúng tôi khi quý khách gặp vấn đề với chiếc tivi của mình. Chúng tôi sẽ hỗ trợ quý khách sửa tivi tại nhà quận 11 trong thời gian nhanh nhất và với chi phí hợp lý nhất.',
 			],
 			className: 'content',
 		},
@@ -2402,7 +2402,7 @@ export const listContentServices = [
 		},
 		headTitle: {
 			content:
-				'Trung tâm Bảo hành Điện Máy Xanh đã có nhiều năm kinh nghiệm trong nghề sửa chữa các đồ điện gia dụng, đồ điện tử, điện lạnh. Nhờ vậy chúng tôi có đội ngũ thợ sửa chữa lành nghề, có thâm niên nghề nghiệp và có chuyên môn nghiệp vụ. Hãy để đội thợ chuyên sửa tivi tại nhà quận 12 giá rẻ của chúng tôi có cơ hội sửa chữa tivi cho gia đình bạn.',
+				'Trung tâm Bảo hành Nguyễn Kim đã có nhiều năm kinh nghiệm trong nghề sửa chữa các đồ điện gia dụng, đồ điện tử, điện lạnh. Nhờ vậy chúng tôi có đội ngũ thợ sửa chữa lành nghề, có thâm niên nghề nghiệp và có chuyên môn nghiệp vụ. Hãy để đội thợ chuyên sửa tivi tại nhà quận 12 giá rẻ của chúng tôi có cơ hội sửa chữa tivi cho gia đình bạn.',
 			className: 'head-title',
 		},
 		title1: {
@@ -2457,8 +2457,8 @@ export const listContentServices = [
 		},
 		content3: {
 			content: [
-				'Trong những địa chỉ sửa chữa tivi tại nhà quận 12 hiện nay, Trung tâm Bảo Hành Điện Máy Xanh tự hào là một địa chỉ uy tín, được nhiều khách hàng tin cậy trong nhiều năm. Với đội ngũ kỹ thuật đông đảo, phục vụ chuyên nghiệp, có nhiều năm kinh nghiệm trong lĩnh vực sửa tivi, chúng tôi chuyên sửa tivi tại nhà quận 12 nhanh chóng, giá tốt và chất lượng đảm bảo.  ',
-				'Chúng tôi luôn lấy chữ tín làm đầu, đảm bảo chất lượng dịch vụ tốt nhất và chuyên nghiệp, chúng tôi rất hân hạnh được là đối tác tin cậy của quý khách hàng. Hãy liên hệ ngay với Trung tâm bảo hành Điện máy xanh chúng tôi khi quý khách gặp vấn đề với chiếc tivi của mình. Chúng tôi sẽ hỗ trợ quý khách sửa tivi tại nhà quận 12 trong thời gian nhanh nhất và với chi phí hợp lý nhất.',
+				'Trong những địa chỉ sửa chữa tivi tại nhà quận 12 hiện nay, Trung tâm Bảo Hành Nguyễn Kim tự hào là một địa chỉ uy tín, được nhiều khách hàng tin cậy trong nhiều năm. Với đội ngũ kỹ thuật đông đảo, phục vụ chuyên nghiệp, có nhiều năm kinh nghiệm trong lĩnh vực sửa tivi, chúng tôi chuyên sửa tivi tại nhà quận 12 nhanh chóng, giá tốt và chất lượng đảm bảo.  ',
+				'Chúng tôi luôn lấy chữ tín làm đầu, đảm bảo chất lượng dịch vụ tốt nhất và chuyên nghiệp, chúng tôi rất hân hạnh được là đối tác tin cậy của quý khách hàng. Hãy liên hệ ngay với Trung tâm bảo hành Nguyễn Kim chúng tôi khi quý khách gặp vấn đề với chiếc tivi của mình. Chúng tôi sẽ hỗ trợ quý khách sửa tivi tại nhà quận 12 trong thời gian nhanh nhất và với chi phí hợp lý nhất.',
 			],
 			className: 'content',
 		},
@@ -2553,7 +2553,7 @@ export const listContentServices = [
 		},
 		title2: {
 			content:
-				'2. Những lý do khách hàng nên gọi đến dịch vụ sửa chữa Tivi tại nhà của trung tâm Bảo hành điện máy xanh',
+				'2. Những lý do khách hàng nên gọi đến dịch vụ sửa chữa Tivi tại nhà của trung tâm Bảo hành Nguyễn Kim',
 			className: 'title',
 		},
 		content2: {
@@ -2651,7 +2651,7 @@ export const listContentServices = [
 		},
 		headTitle: {
 			content:
-				'Trung tâm Bảo hành Điện Máy Xanh đã có nhiều năm kinh nghiệm trong nghề sửa chữa các đồ điện gia dụng, đồ điện tử, điện lạnh. Nhờ vậy chúng tôi có đội ngũ thợ sửa chữa lành nghề, có thâm niên nghề nghiệp và có chuyên môn nghiệp vụ. Hãy để đội thợ chuyên sửa tivi tại nhà quận 12 giá rẻ của chúng tôi có cơ hội sửa chữa tivi cho gia đình bạn.',
+				'Trung tâm Bảo hành Nguyễn Kim đã có nhiều năm kinh nghiệm trong nghề sửa chữa các đồ điện gia dụng, đồ điện tử, điện lạnh. Nhờ vậy chúng tôi có đội ngũ thợ sửa chữa lành nghề, có thâm niên nghề nghiệp và có chuyên môn nghiệp vụ. Hãy để đội thợ chuyên sửa tivi tại nhà quận 12 giá rẻ của chúng tôi có cơ hội sửa chữa tivi cho gia đình bạn.',
 			className: 'head-title',
 		},
 		title1: {
@@ -2706,8 +2706,8 @@ export const listContentServices = [
 		},
 		content3: {
 			content: [
-				'Trong những địa chỉ sửa chữa tivi tại nhà quận 12 hiện nay, Trung tâm Bảo Hành Điện Máy Xanh tự hào là một địa chỉ uy tín, được nhiều khách hàng tin cậy trong nhiều năm. Với đội ngũ kỹ thuật đông đảo, phục vụ chuyên nghiệp, có nhiều năm kinh nghiệm trong lĩnh vực sửa tivi, chúng tôi chuyên sửa tivi tại nhà quận 12 nhanh chóng, giá tốt và chất lượng đảm bảo.  ',
-				'Chúng tôi luôn lấy chữ tín làm đầu, đảm bảo chất lượng dịch vụ tốt nhất và chuyên nghiệp, chúng tôi rất hân hạnh được là đối tác tin cậy của quý khách hàng. Hãy liên hệ ngay với Trung tâm bảo hành Điện máy xanh chúng tôi khi quý khách gặp vấn đề với chiếc tivi của mình. Chúng tôi sẽ hỗ trợ quý khách sửa tivi tại nhà quận 12 trong thời gian nhanh nhất và với chi phí hợp lý nhất.',
+				'Trong những địa chỉ sửa chữa tivi tại nhà quận 12 hiện nay, Trung tâm Bảo Hành Nguyễn Kim tự hào là một địa chỉ uy tín, được nhiều khách hàng tin cậy trong nhiều năm. Với đội ngũ kỹ thuật đông đảo, phục vụ chuyên nghiệp, có nhiều năm kinh nghiệm trong lĩnh vực sửa tivi, chúng tôi chuyên sửa tivi tại nhà quận 12 nhanh chóng, giá tốt và chất lượng đảm bảo.  ',
+				'Chúng tôi luôn lấy chữ tín làm đầu, đảm bảo chất lượng dịch vụ tốt nhất và chuyên nghiệp, chúng tôi rất hân hạnh được là đối tác tin cậy của quý khách hàng. Hãy liên hệ ngay với Trung tâm bảo hành Nguyễn Kim chúng tôi khi quý khách gặp vấn đề với chiếc tivi của mình. Chúng tôi sẽ hỗ trợ quý khách sửa tivi tại nhà quận 12 trong thời gian nhanh nhất và với chi phí hợp lý nhất.',
 			],
 			className: 'content',
 		},

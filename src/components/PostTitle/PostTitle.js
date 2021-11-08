@@ -10,7 +10,12 @@ export const PostTitle = ({ type }) => {
 				<ul className='table-title'>
 					<li className='heading-primary header'>Bài viết</li>
 					{listServices.map((post) => (
-						<li onClick={() => window.open(post.href, '_blank')} className='content'>
+						<li
+							onClick={() =>
+								window.open(`https://www.trungtambaohanh-nguyenkim.com/post/${post.href}`, '_blank')
+							}
+							className='content'
+						>
 							{post.content}
 						</li>
 					))}
@@ -23,7 +28,15 @@ export const PostTitle = ({ type }) => {
 			<ul className='table-title'>
 				<li className='heading-primary header'>Dịch Vụ Liên Quan</li>
 				{listPost.map((post) => (
-					<li onClick={() => window.open(post.href, '_blank')} className='content'>
+					<li
+						onClick={() =>
+							window.open(
+								`https://www.trungtambaohanh-nguyenkim.com/services/${post.href}`,
+								'_blank'
+							)
+						}
+						className='content'
+					>
 						{post.header.content}
 					</li>
 				))}
