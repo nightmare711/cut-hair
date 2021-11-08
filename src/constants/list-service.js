@@ -1972,23 +1972,23 @@ export const listContentServices = [
 	},
 	{
 		header: {
-			content: 'SỬA TIVI TẠI NHÀ QUẬN 10 GIÁ RẺ NHẤT TP.HCM',
+			content: 'SỬA TIVI TẠI NHÀ QUẬN 5 GIÁ RẺ NHẤT TP.HCM',
 			className: 'header',
 		},
 		headTitle: {
 			content:
-				'Bạn đang tìm kiếm một nơi uy tín để sửa tivi tại nhà quận 10 giá rẻ nhất TP.HCM? Tivi của bạn đang gặp một số trục trặc gây phiền hà ảnh hưởng nhu cầu của bạn?  Bạn đang phân vân không biết nên lựa chọn địa chỉ nào giữa muôn vàn sự lựa chọn trên thị trường hiện nay? Đừng quá lo lắng, vì bạn đã có chúng tôi: Trung tâm Bảo hành Nguyễn Kim – Dịch vụ sửa tivi tận nơi giá rẻ nhất, chất lượng cao nhất.',
+				'Bạn đang tìm kiếm một nơi uy tín để sửa tivi tại nhà quận 5 giá rẻ nhất TP.HCM? Tivi của bạn đang gặp một số trục trặc gây phiền hà ảnh hưởng nhu cầu của bạn?  Bạn đang phân vân không biết nên lựa chọn địa chỉ nào giữa muôn vàn sự lựa chọn trên thị trường hiện nay? Đừng quá lo lắng, vì bạn đã có chúng tôi: Trung tâm Bảo hành Nguyễn Kim – Dịch vụ sửa tivi tận nơi giá rẻ nhất, chất lượng cao nhất.',
 			className: 'head-title',
 		},
 		title1: {
-			content: 'Thực trạng sửa dụng tivi quận 10 hiện nay',
+			content: 'Thực trạng sửa dụng tivi quận 5 hiện nay',
 			className: 'title',
 		},
 		content1: {
 			content: [
-				'Tại quận 10 hiện nay, nhu cầu sử dụng tivi luôn ở mức rất cao. Vì nó là một phương tiện cung cấp thông tin vô cùng hữu ích và nhanh chóng vô cùng. Tivi giúp gắn kết gia đình bạn lại với nhau, khiến những phút giây quây quần bên gia đình của bạn và các thành viên trở nên ý nghĩa hơn bao giờ hết.',
+				'Tại quận 5 hiện nay, nhu cầu sử dụng tivi luôn ở mức rất cao. Vì nó là một phương tiện cung cấp thông tin vô cùng hữu ích và nhanh chóng vô cùng. Tivi giúp gắn kết gia đình bạn lại với nhau, khiến những phút giây quây quần bên gia đình của bạn và các thành viên trở nên ý nghĩa hơn bao giờ hết.',
 				'Với tiến trình công nghiệp hóa và sự phát triển mạnh mẽ của khoa học công nghệ tiên tiến, ngày càng có nhiều loại tivi tối tân như: Tivi LED thường, Smart tivi cơ bản, Smart tivi cong, Androidtivi, Smart tivi OLED…thỏa sức cho bạn lựa chọn.',
-				'Nếu bạn đang tìm kiếm một địa chỉ sửa chữa uy tín tại quận 10 thì chúng tôi xin trân trọng giới thiệu tới bạn “Dịch vụ sửa tivi quận 10” – Dịch vụ nâng tầm cuộc sống trong từng phút giây',
+				'Nếu bạn đang tìm kiếm một địa chỉ sửa chữa uy tín tại quận 5 thì chúng tôi xin trân trọng giới thiệu tới bạn “Dịch vụ sửa tivi quận 10” – Dịch vụ nâng tầm cuộc sống trong từng phút giây',
 			],
 			className: 'content',
 		},
@@ -1997,12 +1997,12 @@ export const listContentServices = [
 			className: '',
 		},
 		title2: {
-			content: 'Tại sao cần tìm địa chỉ chuyên sửa tivi tại nhà quận 10 chuyên nghiệp, uy tín?',
+			content: 'Tại sao cần tìm địa chỉ chuyên sửa tivi tại nhà quận 5 chuyên nghiệp, uy tín?',
 			className: 'title',
 		},
 		content2: {
 			content:
-				'Có nhiều đơn vị cung cấp dịch vụ sửa tivi tại nhà quận 10 vì vậy khi cần sửa vô tuyến của nhà mình bạn sẽ băn khoăn không biết lựa chọn nào đơn vị nào. Để sửa chữa tivi nhanh chóng, đúng bệnh, phụ tùng thay thế đảm bảo chất lượng, có cam kết và bảo hành của đơn vị sửa chữa… thì bạn cần phải tìm địa chỉ sửa chữa chuyên nghiệp, uy tín. Khi đó việc sửa tivi của bạn mới được bảo đảm. Hơn nữa, đơn vị chuyên nghiệp sẽ báo giá chuẩn xác. Bạn sẽ không lo bị gạt giá, ép giá và báo sai lỗi.',
+				'Có nhiều đơn vị cung cấp dịch vụ sửa tivi tại nhà quận 5 vì vậy khi cần sửa vô tuyến của nhà mình bạn sẽ băn khoăn không biết lựa chọn nào đơn vị nào. Để sửa chữa tivi nhanh chóng, đúng bệnh, phụ tùng thay thế đảm bảo chất lượng, có cam kết và bảo hành của đơn vị sửa chữa… thì bạn cần phải tìm địa chỉ sửa chữa chuyên nghiệp, uy tín. Khi đó việc sửa tivi của bạn mới được bảo đảm. Hơn nữa, đơn vị chuyên nghiệp sẽ báo giá chuẩn xác. Bạn sẽ không lo bị gạt giá, ép giá và báo sai lỗi.',
 			className: 'content',
 		},
 		picture2: {
@@ -2010,13 +2010,13 @@ export const listContentServices = [
 			className: '',
 		},
 		title3: {
-			content: 'Tìm dịch vụ chuyên sửa tivi tại nhà quận 10 giá tốt ở đâu?',
+			content: 'Tìm dịch vụ chuyên sửa tivi tại nhà quận 5 giá tốt ở đâu?',
 			className: 'title',
 		},
 		content3: {
 			content: [
-				'Trong những địa chỉ sửa chữa tivi tại nhà quận 10 hiện nay, Trung tâm Bảo Hành Nguyễn Kim tự hào là một địa chỉ uy tín, được nhiều khách hàng tin cậy trong nhiều năm. Với đội ngũ kỹ thuật đông đảo, phục vụ chuyên nghiệp, có nhiều năm kinh nghiệm trong lĩnh vực sửa tivi, chúng tôi chuyên sửa tivi tại nhà quận 8 nhanh chóng, giá tốt và chất lượng đảm bảo.  ',
-				'Chúng tôi luôn lấy chữ tín làm đầu, đảm bảo chất lượng dịch vụ tốt nhất và chuyên nghiệp, chúng tôi rất hân hạnh được là đối tác tin cậy của quý khách hàng. Hãy liên hệ ngay với Trung tâm bảo hành Nguyễn Kim chúng tôi khi quý khách gặp vấn đề với chiếc tivi của mình. Chúng tôi sẽ hỗ trợ quý khách sửa tivi tại nhà quận 10 trong thời gian nhanh nhất và với chi phí hợp lý nhất.',
+				'Trong những địa chỉ sửa chữa tivi tại nhà quận 5 hiện nay, Trung tâm Bảo Hành Nguyễn Kim tự hào là một địa chỉ uy tín, được nhiều khách hàng tin cậy trong nhiều năm. Với đội ngũ kỹ thuật đông đảo, phục vụ chuyên nghiệp, có nhiều năm kinh nghiệm trong lĩnh vực sửa tivi, chúng tôi chuyên sửa tivi tại nhà quận 5 nhanh chóng, giá tốt và chất lượng đảm bảo.  ',
+				'Chúng tôi luôn lấy chữ tín làm đầu, đảm bảo chất lượng dịch vụ tốt nhất và chuyên nghiệp, chúng tôi rất hân hạnh được là đối tác tin cậy của quý khách hàng. Hãy liên hệ ngay với Trung tâm bảo hành Nguyễn Kim chúng tôi khi quý khách gặp vấn đề với chiếc tivi của mình. Chúng tôi sẽ hỗ trợ quý khách sửa tivi tại nhà quận 5 trong thời gian nhanh nhất và với chi phí hợp lý nhất.',
 			],
 			className: 'content',
 		},
@@ -2044,7 +2044,7 @@ export const listContentServices = [
 			className: 'img',
 		},
 		title5: {
-			content: 'Quy trình sửa tivi tại nhà quận 10 của chúng tôi',
+			content: 'Quy trình sửa tivi tại nhà quận 5 của chúng tôi',
 			className: 'tittle',
 		},
 		content5: {
@@ -2073,7 +2073,7 @@ export const listContentServices = [
 			imgUrl: '',
 			className: '',
 		},
-		href: 'sua-tivi-quan-10',
+		href: 'sua-tivi-quan-5',
 	},
 	{
 		header: {
