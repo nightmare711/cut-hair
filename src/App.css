@@ -6,6 +6,9 @@
     flex-direction: row;
     margin-top:30px;
 }
+.post-bottom {
+    margin-top: 30px;
+}
 @media only screen and (max-width: 890px) { 
     .container-row {
         display: flex;
