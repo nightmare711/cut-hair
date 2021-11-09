@@ -27,6 +27,21 @@ export const listServices = [
 		href: 'trung-tam-bao-hanh-tivi-sony-tai-ho-chi-minh',
 	},
 	{
+		content: 'Sửa Tivi Samsung',
+		icon: faCheck,
+		href: 'sua-tivi-Samsung',
+	},
+	{
+		content: 'Sửa Tivi Sony',
+		icon: faCheck,
+		href: 'sua-tivi-sony',
+	},
+	{
+		content: 'Sửa Tivi LG tại nhà',
+		icon: faCheck,
+		href: 'sua-tivi-lg',
+	},
+	{
 		content: 'Sửa Tivi LCD tại nhà',
 		icon: faCheck,
 		href: 'sua-tivi-lcd',

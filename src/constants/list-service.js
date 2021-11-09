@@ -2766,4 +2766,316 @@ export const listContentServices = [
 		},
 		href: 'sua-tivi-thu-duc',
 	},
+	{
+		header: {
+			content: 'TRUNG TÂM SỬA TIVI SAMSUNG CHÍNH HÃNG TẠI NHÀ',
+			className: 'header',
+		},
+		headTitle: {
+			content:
+				'Bạn đang cần tìm một địa chỉ sửa Tivi Samsung tại, đảm bảo cơ sở có uy tín, thương hiệu và trách nhiệm trong nghề. Bài viết này xin giới thiệu bạn đến Trung tâm bảo hành Nguyễn Kim: đơn vị Chuyên sửa Tivi Samsung tại nhà Đặt uy tín lên hàng đầu',
+			className: 'head-title',
+		},
+		title1: {
+			content: 'Tại sao cần tìm dịch vụ sửa tivi samsung chính hãng',
+			className: 'title',
+		},
+		content1: {
+			content:
+				'Khi tivi samgsung có vấn đề bạn cần tìm đơn vị sửa chữa uy tín, chuyên nghiệp và chính hãng để đảm bảo chất lượng sửa chữa. Đối với những trường hợp cần thay thế linh kiện mới thì các linh kiện chính hãng mới đảm bảo mang đến tuổi thọ lâu dài và độ bền cho tivi. Bên cạnh đó đơn vị sửa chữa chính hãng sẽ cung cấp cho bạn mức giá sửa chữa hợp lý. ',
+			className: 'content',
+		},
+		picture1: {
+			imgUrl: 'https://res.cloudinary.com/danhpq17/image/upload/v1624422787/tivimoi4_dup8ht.jpg',
+			className: 'img',
+		},
+		title2: {
+			content: 'Trung tâm sửa tivi Samsung chính hãng tại nhà',
+			className: 'title',
+		},
+		content2: {
+			content: [
+				'Khi bạn gọi thợ sửa chữa để sửa đồ dùng trong gia đình bạn, bạn hi vọng điều gì? Có phải bạn hi vọng: nhân viên sửa chữa có thể có mặt ngay tức thì, sửa chữa trong thời gian nhanh nhất, báo mức giá chính xác,… Tất cả những mong muốn của bạn sẽ được đáp ứng khi đến với trung tâm bảo hành Nguyễn Kim.',
+				'Nhân viên có mặt ngay sau khi nhận được cuộc gọi',
+				'Nghiêm túc trong thời gian làm việc',
+				'Thái độ tư vấn nhiệt tình, chu đáo, chuyên nghiệp',
+				'Tuân thủ các nguyên tắc nghề nghiệp:',
+				'Nhân viên có trình độ kỹ thuật, có trách nhiệm nghề nghiệp, có tính trung thực trong công việc',
+				'Phục vụ 24/7',
+				'Đội thợ được cập nhật công nghệ, kỹ thuật mới thường xuyên',
+			],
+			className: 'content',
+		},
+		picture2: {
+			imgUrl: 'https://res.cloudinary.com/danhpq17/image/upload/v1620795397/suativi_e9fjpn.jpg',
+			className: 'img',
+		},
+		title3: {
+			content: '',
+			className: '',
+		},
+		content3: {
+			content: '',
+			className: '',
+		},
+		picture3: {
+			imgUrl: 'https://res.cloudinary.com/danhpq17/image/upload/v1620795397/suativi_e9fjpn.jpg',
+			className: 'img',
+		},
+		title4: {
+			content: 'Điều gì làm nên sự chuyên nghiệp và uy tín của Trung tâm Bảo Hành Nguyễn Kim',
+			className: 'title',
+		},
+		content4: {
+			content: [
+				'Giá cả hợp lý',
+				'Sửa chữa nhanh chóng',
+				'Thợ kỹ thuật giàu kinh nghiệm',
+				'Làm việc tất cả các ngày trong tuần',
+				'Tôn trọng khách hàng',
+				'Phạm vi hoạt động rộng khắp TPHCM',
+			],
+			className: 'content',
+		},
+		picture4: {
+			imgUrl: 'https://res.cloudinary.com/danhpq17/image/upload/v1624422187/suativimoi3_gptqdn.jpg',
+			className: 'img',
+		},
+		title5: {
+			content: 'Quy trình sửa tivi tại nhà của chúng tôi',
+			className: 'tittle',
+		},
+		content5: {
+			content: [
+				'Bước 1: Khi bạn đang gặp vấn đề với chiếc vô tuyến nhà mình mà không khắc phục được hãy nhấc máy lên và gọi ngay cho chúng tôi.',
+				'Bước 2: Kỹ thuật viên của chúng tôi sẽ tư vấn miễn phí cho quý khách để quý khách có thể tự khắc phục những lỗi đơn giản. ',
+				'Bước 3: Nếu bạn vẫn không khắc phục được. Nhân viên kỹ thuật chúng tôi sẽ tới ngay kiểm tra xác định lỗi và báo để sửa chữa kịp thời.',
+				'Bước 4: Nếu khách hàng đồng ý sửa chữa. Chúng tôi sẽ tiến hành sửa chữa luôn.',
+				'Bước 5:  Chúng tôi sẽ bảo hành các chi tiết được sửa chữa và thay thế nếu có.',
+			],
+			className: '',
+		},
+		picture5: {
+			imgUrl: '',
+			className: '',
+		},
+		title6: {
+			content: '',
+			className: '',
+		},
+		content6: {
+			content: '',
+			className: '',
+		},
+		picture6: {
+			imgUrl: '',
+			className: '',
+		},
+		href: 'sua-tivi-samsung',
+	},
+	{
+		header: {
+			content: 'SỬA TIVI SONY TẠI NHÀ GIÁ RẺ HƠN THỊ TRƯỜNG',
+			className: 'header',
+		},
+		headTitle: {
+			content:
+				'Bạn đang cần sửa chữa tivi Sony tại nhà? Hãy liên hệ ngay với Trung tâm bảo hành Nguyễn Kim, địa chỉ sửa chữa bảo dưỡng tivi Sony hàng đầu hiện nay. Hãy cùng tìm hiểu những nét cơ bản về dịch của Trung tâm qua bài viết sau đây.',
+			className: 'head-title',
+		},
+		title1: {
+			content: 'Tại sao cần sửa chữa tivi Sony tại nhà?',
+			className: 'title',
+		},
+		content1: {
+			content:
+				'Nhu cầu sử dụng tivi là không thể thiếu của mọi nhà. Sony là thương hiệu hàng đầu về tivi và được nhiều khách hàng lựa chọn. Tivi Sony với những đột phá về công nghệ ngày càng mang lại nhiều tiện ích nổi bật cho người dùng. Tuy nhiên, trong quá trình sử dụng, tivi có thể xuất hiện một số vấn đề cần phải kiểm tra, sửa chữa. Quá trình mang tivi đến hiệu sửa sẽ làm mất thời gian và có thể gặp khó khăn trong việc vận chuyển. Chính vì vậy dịch vụ sửa tivi Sony tại nhà sẽ giúp tối ưu hóa lợi ích cho khách hàng.',
+			className: 'content',
+		},
+		picture1: {
+			imgUrl: 'https://res.cloudinary.com/danhpq17/image/upload/v1636447151/tivi2_oxofbb.jpg',
+			className: 'img',
+		},
+		title2: {
+			content: 'Thực trạng dịch vụ sửa tivi Sony tại nhà hiện nay',
+			className: 'title',
+		},
+		content2: {
+			content:
+				'Xuất phát từ nhu cầu thực tế, hiện nay có nhiều đơn vị cung cấp dịch vụ sửa chữa tivi Sony tại nhà. Tuy nhiên, trong số rất nhiều cơ sở sửa chữa, khách hàng cần lựa chọn cho mình địa chỉ uy tín, chuyên nghiệp, chất lượng nhất để đảm bảo việc sửa chữa  được thực hiện hiệu quả và tiết kiệm nhất. ',
+			className: 'content',
+		},
+		picture2: {
+			imgUrl: 'https://res.cloudinary.com/danhpq17/image/upload/v1636265963/tivi1_wgpoza.jpg',
+			className: 'img',
+		},
+		title3: {
+			content: 'Giới thiệu địa chỉ cung cấp dịch vụ sửa tivi Sony uy tín, chất lượng nhất hiện nay',
+			className: 'title',
+		},
+		content3: {
+			content:
+				'Trung tâm bảo hành Nguyễn Kim là một trong những đơn vị chuyên cung cấp dịch vụ sửa chữa tivi Sony chính hãng. Với đội ngũ nhân viên, kỹ thuật viên lành nghề, giàu kinh nghiệm cộng với trang thiết bị hiện đại, tiên tiến, Trung tâm tự hào là đơn vị uy tín hàng đầu trong lĩnh vực sửa chữa tivi Sony hiện nay. Không chỉ vậy, giá dịch vụ sửa chữa của chúng tôi vô cùng hợp lý. Làm việc với Trung tâm khách hàng không phải lo ngại gì về mặt giá cả.',
+			className: 'content',
+		},
+		picture3: {
+			imgUrl: 'https://res.cloudinary.com/danhpq17/image/upload/v1620795397/suativi_e9fjpn.jpg',
+			className: 'img',
+		},
+		title4: {
+			content: 'Đặc điểm của dịch vụ sửa tivi Sony của Trung tâm bảo hành Nguyễn Kim',
+			className: 'title',
+		},
+		content4: {
+			content: [
+				'Giá cả hợp lý',
+				'Sửa chữa nhanh chóng',
+				'Thợ kỹ thuật giàu kinh nghiệm',
+				'Làm việc tất cả các ngày trong tuần',
+				'Tôn trọng khách hàng',
+				'Phạm vi hoạt động rộng khắp TPHCM',
+			],
+			className: 'content',
+		},
+		picture4: {
+			imgUrl: 'https://res.cloudinary.com/danhpq17/image/upload/v1624422187/suativimoi3_gptqdn.jpg',
+			className: 'img',
+		},
+		title5: {
+			content: 'Quy trình sửa tivi tại nhà của chúng tôi',
+			className: 'tittle',
+		},
+		content5: {
+			content: [
+				'Bước 1: Khi bạn đang gặp vấn đề với chiếc vô tuyến nhà mình mà không khắc phục được hãy nhấc máy lên và gọi ngay cho chúng tôi.',
+				'Bước 2: Kỹ thuật viên của chúng tôi sẽ tư vấn miễn phí cho quý khách để quý khách có thể tự khắc phục những lỗi đơn giản. ',
+				'Bước 3: Nếu bạn vẫn không khắc phục được. Nhân viên kỹ thuật chúng tôi sẽ tới ngay kiểm tra xác định lỗi và báo để sửa chữa kịp thời.',
+				'Bước 4: Nếu khách hàng đồng ý sửa chữa. Chúng tôi sẽ tiến hành sửa chữa luôn.',
+				'Bước 5:  Chúng tôi sẽ bảo hành các chi tiết được sửa chữa và thay thế nếu có.',
+			],
+			className: '',
+		},
+		picture5: {
+			imgUrl: '',
+			className: '',
+		},
+		title6: {
+			content: '',
+			className: '',
+		},
+		content6: {
+			content: '',
+			className: '',
+		},
+		picture6: {
+			imgUrl: '',
+			className: '',
+		},
+		href: 'sua-tivi-sony',
+	},
+	{
+		header: {
+			content: 'DỊCH VỤ SỬA TIVI LG TẠI NHÀ - CÓ MẶT SAU 15 PHÚT GỌI',
+			className: 'header',
+		},
+		headTitle: {
+			content:
+				'Bạn đang cần tìm đơn vị sửa tivi LG nhanh chóng, giá rẻ và đảm bảo chất lượng. Hãy cùng tìm hiểu dịch vụ của Trung tâm Bảo hành Nguyễn Kim. Chắc chắn bạn sẽ có thêm sự lựa chọn phù hợp cho bản thân. ',
+			className: 'head-title',
+		},
+		title1: {
+			content: 'Tại sao bạn cần sử dụng dịch vụ sửa tivi LG tại nhà?',
+			className: 'title',
+		},
+		content1: {
+			content:
+				'Tivi LG được rất nhiều gia đình sử dụng. Bất kỳ tivi nào thì trong quá trình sử dụng cũng sẽ có lúc phát sinh một số vấn đề. Đặc tính tivi là cồng kềnh khó vận chuyển. Vì vậy khi tivi LG bị hỏng tốt nhất nên sử dụng dịch vụ sửa tivi tại nhà.',
+			className: 'content',
+		},
+		picture1: {
+			imgUrl: 'https://res.cloudinary.com/danhpq17/image/upload/v1636447448/lg1_ja3ju7.jpg',
+			className: 'img',
+		},
+		title2: {
+			content: 'Thương hiệu được tin dùng',
+			className: 'title',
+		},
+		content2: {
+			content: [
+				'Trung tâm bảo hành Nguyễn Kim luôn là một thương hiệu nằm trong top đầu các công ty có chất lượng dịch vụ đáng dùng nhất trong nhiều năm qua. Trung tâm được thành lập trên cơ sở vì sự phục vụ tốt nhất cho khách hàng và phát triển tới hôm nay vì có sự ủng hộ của khách hàng.',
+				'Theo khảo sát của bộ phận nhân viên, thị trên địa bàn thành phố Hồ Chí Minh hiện nay mức nhu cầu sử dụng tivi của người dân hiện đang rất cao. Tivi LG đang trở thành xu hướng lựa chọn của khách hàng vì có kiểu dáng mẫu mã bắt mắt, sản phẩm hợp túi tiền, tích hợp các công nghệ tiên tiến và chất lượng cũng rất tốt.',
+				'Tivi là một thiết bị điện tử nên việc xảy ra hư hỏng là điều không thể tránh khỏi. Khi Tivi LG có vấn đề nếu bạn không xác định được nguyên nhân cũng như không có cách thức xử lý thì tốt nhất bạn nên liên hệ với đơn vị sửa chữa chuyên nghiệp để được trợ giúp.',
+			],
+			className: 'content',
+		},
+		picture2: {
+			imgUrl: 'https://res.cloudinary.com/danhpq17/image/upload/v1636265963/tivi1_wgpoza.jpg',
+			className: 'img',
+		},
+		title3: {
+			content: 'Dịch vụ sửa tivi LG tại nhà uy tín hàng đầu',
+			className: 'title',
+		},
+		content3: {
+			content: [
+				'Hiện nay trên thị trường có nhiều đơn vị sửa chữa tivi nói chung và tivi LG nói riêng. Tuy nhiên bạn nên tìm đến những địa chỉ uy tín chuyên nghiệp để đảm bảo chất lượng dịch vụ tốt mà giá cả lại phải chăng.',
+				'Dịch vụ sửa tivi LG tại nhà hàng đầu TP.HCM của Trung tâm Bảo hành Nguyễn Kim đem tới cho người dùng dịch vụ sửa chữa chất lượng cao, chiều lòng ngay cả những khách hàng khó tính nhất. Chắc hẳn những ai đang sinh sống trong địa bàn thành phố cũng không còn quá xa lạ với thương hiệu của  chúng tôi, đôi khi còn là những khách hàng đã từng được trải nghiệm qua dịch vụ mà chúng tôi cung cấp cho bạn.',
+			],
+			className: 'content',
+		},
+		picture3: {
+			imgUrl: 'https://res.cloudinary.com/danhpq17/image/upload/v1620795397/suativi_e9fjpn.jpg',
+			className: 'img',
+		},
+		title4: {
+			content: 'Đặc điểm của dịch vụ sửa tivi Sony của Trung tâm bảo hành Nguyễn Kim',
+			className: 'title',
+		},
+		content4: {
+			content: [
+				'Giá cả hợp lý',
+				'Sửa chữa nhanh chóng',
+				'Thợ kỹ thuật giàu kinh nghiệm',
+				'Làm việc tất cả các ngày trong tuần',
+				'Tôn trọng khách hàng',
+				'Phạm vi hoạt động rộng khắp TPHCM',
+			],
+			className: 'content',
+		},
+		picture4: {
+			imgUrl: 'https://res.cloudinary.com/danhpq17/image/upload/v1624422187/suativimoi3_gptqdn.jpg',
+			className: 'img',
+		},
+		title5: {
+			content: 'Quy trình sửa tivi tại nhà của chúng tôi',
+			className: 'tittle',
+		},
+		content5: {
+			content: [
+				'Bước 1: Khi bạn đang gặp vấn đề với chiếc vô tuyến nhà mình mà không khắc phục được hãy nhấc máy lên và gọi ngay cho chúng tôi.',
+				'Bước 2: Kỹ thuật viên của chúng tôi sẽ tư vấn miễn phí cho quý khách để quý khách có thể tự khắc phục những lỗi đơn giản. ',
+				'Bước 3: Nếu bạn vẫn không khắc phục được. Nhân viên kỹ thuật chúng tôi sẽ tới ngay kiểm tra xác định lỗi và báo để sửa chữa kịp thời.',
+				'Bước 4: Nếu khách hàng đồng ý sửa chữa. Chúng tôi sẽ tiến hành sửa chữa luôn.',
+				'Bước 5:  Chúng tôi sẽ bảo hành các chi tiết được sửa chữa và thay thế nếu có.',
+			],
+			className: '',
+		},
+		picture5: {
+			imgUrl: '',
+			className: '',
+		},
+		title6: {
+			content: '',
+			className: '',
+		},
+		content6: {
+			content: '',
+			className: '',
+		},
+		picture6: {
+			imgUrl: '',
+			className: '',
+		},
+		href: 'sua-tivi-lg',
+	},
 ]
