@@ -12,7 +12,7 @@ export const PostTitle = ({ type }) => {
 					{listServices.map((post) => (
 						<li
 							onClick={() =>
-								window.open(`https://www.trungtambaohanh-nguyenkim.com/post/${post.href}`)
+								window.open(`https://www.trungtambaohanh-nguyenkim.com/post/${post.href}`, '_self')
 							}
 							className='content'
 						>
@@ -30,7 +30,10 @@ export const PostTitle = ({ type }) => {
 				{listPost.map((post) => (
 					<li
 						onClick={() =>
-							window.open(`https://www.trungtambaohanh-nguyenkim.com/services/${post.href}`)
+							window.open(
+								`https://www.trungtambaohanh-nguyenkim.com/services/${post.href}`,
+								'_self'
+							)
 						}
 						className='content'
 					>
