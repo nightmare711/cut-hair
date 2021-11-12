@@ -76,7 +76,7 @@ export const Home = () => {
 			</div>
 			<div className='container-banner'>
 				<img
-					src='https://res.cloudinary.com/danhpq17/image/upload/v1628132686/bannerNK2_cqw4fy.jpg'
+					src='https://res.cloudinary.com/danhpq17/image/upload/v1636716306/bannerNK2.1_hckvgk.jpg'
 					alt='Banner'
 					className='banner-2'
 				/>
@@ -140,7 +140,7 @@ export const Home = () => {
 					Phố Hồ Chí Minh.
 				</p>
 				<img
-					src='https://res.cloudinary.com/danhpq17/image/upload/v1635665131/hang-san-xuat_doaixc.jpg'
+					src='https://res.cloudinary.com/danhpq17/image/upload/v1636716339/gioithieu_wgu19l.png'
 					alt='quality'
 					className='img-quality'
 				/>
