@@ -154,7 +154,7 @@ export const listServices = [
 	{
 		content: 'Sửa máy lạnh Toshiba tại nhà',
 		icon: faCheck,
-		href: 'sua-may-lanh-toshiba-tai-nha',
+		href: 'sua-may-lanh-toshiba',
 	},
 	{
 		content: 'Sửa máy lạnh TCL giá rẻ',

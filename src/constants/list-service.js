@@ -3176,7 +3176,7 @@ export const listContentServices = [
 			imgUrl: '',
 			className: '',
 		},
-		href: 'sua-may-lanh-tcl-gia-re',
+		href: 'sua-may-lanh-tcl',
 	},
 	{
 		header: {
@@ -3237,8 +3237,8 @@ export const listContentServices = [
 			className: 'content',
 		},
 		picture3: {
-			imgUrl: 'https://res.cloudinary.com/danhpq17/image/upload/v1638188765/maylanh3_mthc9n.jpg',
-			className: 'img',
+			imgUrl: '',
+			className: '',
 		},
 		title4: {
 			content: 'Ý kiến đánh giá của khách hàng ',
