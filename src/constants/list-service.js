@@ -80,7 +80,7 @@ export const listContentServices = [
 		},
 		content6: {
 			content:
-				'Bộ phận giảm xóc máy giặt là thiết bị có tác dụng giảm rung động từ lồng giặt, giúp giảm chấn động, chống rung lắc. Việc hư lò xò giảm xóc làm máy giặt bị mất cân bằng và có thể xảy ra va chạm mạnh khi quay ở tốc độ cao, tạo ra tiếng ồn lớn.Để khắc phục tình trạng này, bạn cần liên hệ ngay với Nguyễn Kim để nhân viên kỹ thuật đến tận nhà hỗ trợ ngay lập tức cho bạn. Liên hệ ngay đến số HOTLINE: 0888262052  hoặc 0888262052 .',
+				'Bộ phận giảm xóc máy giặt là thiết bị có tác dụng giảm rung động từ lồng giặt, giúp giảm chấn động, chống rung lắc. Việc hư lò xò giảm xóc làm máy giặt bị mất cân bằng và có thể xảy ra va chạm mạnh khi quay ở tốc độ cao, tạo ra tiếng ồn lớn.Để khắc phục tình trạng này, bạn cần liên hệ ngay với chúng tôi để nhân viên kỹ thuật đến tận nhà hỗ trợ ngay lập tức cho bạn. Liên hệ ngay đến số HOTLINE: 0888262052  hoặc 0888262052 .',
 			className: 'content',
 		},
 		picture6: {
@@ -96,7 +96,7 @@ export const listContentServices = [
 		},
 		headTitle: {
 			content:
-				'Trong quá trình sử dụng tivi, chắc hẳn các bạn sẽ gặp phải nhiều lỗi xảy ra ở tivi. Tivi thì có rất nhiều thương hiệu khác nhau như Samsung LG, sony,, panasonic. Một trong số lỗi hay gặp ở tivi Samsung đó là lỗi 5 nháy đèn đỏ. Dưới đây Nguyễn Kim sẽ giúp chỉ cho bạn cách tự giải quyết sử lý sửa lỗi tivi Samsung 5 nháy đèn đỏ.',
+				'Trong quá trình sử dụng tivi, chắc hẳn các bạn sẽ gặp phải nhiều lỗi xảy ra ở tivi. Tivi thì có rất nhiều thương hiệu khác nhau như Samsung LG, sony,, panasonic. Một trong số lỗi hay gặp ở tivi Samsung đó là lỗi 5 nháy đèn đỏ. Dưới đây chúng tôi sẽ giúp chỉ cho bạn cách tự giải quyết sử lý sửa lỗi tivi Samsung 5 nháy đèn đỏ.',
 			className: 'head-title',
 		},
 		title1: {
@@ -114,12 +114,12 @@ export const listContentServices = [
 			className: '',
 		},
 		title2: {
-			content: 'Trung tâm sửa chữa- Bảo hành Dịch Vụ Sửa Chữa Tivi Samsung Nguyễn Kim',
+			content: 'Trung tâm sửa chữa- Bảo hành Dịch Vụ Sửa Chữa Tivi Samsung ',
 			className: 'title',
 		},
 		content2: {
 			content:
-				'sẵn sàng đáp ứng mọi yêu cầu của khách hàng, dù là tivi nhà bạn gặp bất cứ vấn đề gì từ đơn giản đến phức tạp chúng tôi đều đáp ứng được. Nhờ đội ngũ nhân viên kĩ thuật có tay nghề cao, có nhiều năm kinh nghiệm trong ngành điện lạnh, đã khắc phục hư hỏng cho hàng ngàn chiếc Tivi trên địa bàn TP.HCM và các quận huyện lân cận. Dịch Vụ Sửa Chữa Tivi Samsung  Nguyễn Kim luôn đặt uy tín và niềm tin của khách hàng lên hàng đầu. Đảm bảo khách hàng sẽ hài lòng khi tin tưởng dịch vụ của chúng tôi. Không những thế, đến với Dịch Vụ Sửa Chữa Điện Máy Giá Rẻ chiếc tivi nhà bạn nhanh chóng được sửa chữa, hoạt động ổn định bình thường, y như mới. Những linh kiện cần được thay thế trong quá trình sửa chữa đều là những linh kiện chính hãng và được bảo hành dài hạn. Nhân viên làm việc nhiệt tình, chu đáo và vui vẻ. Và đặc biệt, mức phí tại Dịch Vụ Sửa Chữa Điện Máy Giá Rẻ là mức phí cạnh tranh trên thị trường hiện nay.',
+				'sẵn sàng đáp ứng mọi yêu cầu của khách hàng, dù là tivi nhà bạn gặp bất cứ vấn đề gì từ đơn giản đến phức tạp chúng tôi đều đáp ứng được. Nhờ đội ngũ nhân viên kĩ thuật có tay nghề cao, có nhiều năm kinh nghiệm trong ngành điện lạnh, đã khắc phục hư hỏng cho hàng ngàn chiếc Tivi trên địa bàn TP.HCM và các quận huyện lân cận. Dịch Vụ Sửa Chữa Tivi Samsung  chúng tôi luôn đặt uy tín và niềm tin của khách hàng lên hàng đầu. Đảm bảo khách hàng sẽ hài lòng khi tin tưởng dịch vụ của chúng tôi. Không những thế, đến với Dịch Vụ Sửa Chữa Điện Máy Giá Rẻ chiếc tivi nhà bạn nhanh chóng được sửa chữa, hoạt động ổn định bình thường, y như mới. Những linh kiện cần được thay thế trong quá trình sửa chữa đều là những linh kiện chính hãng và được bảo hành dài hạn. Nhân viên làm việc nhiệt tình, chu đáo và vui vẻ. Và đặc biệt, mức phí tại Dịch Vụ Sửa Chữa Điện Máy Giá Rẻ là mức phí cạnh tranh trên thị trường hiện nay.',
 			className: 'content',
 		},
 		picture2: {
@@ -183,7 +183,7 @@ export const listContentServices = [
 		},
 		headTitle: {
 			content:
-				'Với 13 năm hoạt động sửa tivi và thay màn hình tivi tại nhà, chúng tôi nhận được sự tin tưởng và ủng hộ của khách hàng để dịch vụ sửa tivi tại Nguyễn Kim sẽ phát triển hơn nữa.',
+				'Với 13 năm hoạt động sửa tivi và thay màn hình tivi tại nhà, chúng tôi nhận được sự tin tưởng và ủng hộ của khách hàng để dịch vụ sửa tivi sẽ phát triển hơn nữa.',
 			className: 'head-title',
 		},
 		title1: {
@@ -390,7 +390,7 @@ export const listContentServices = [
 		},
 		title3: {
 			content:
-				'Bạn đang sử dụng tivi,nếu một ngày bỗng nhiên tivi bạn có hỏng hóc gì xảy ra,bạn đang băn khoăn lo lắng không biết xử lý như thế nào thì bạn có thể nghĩ ngay đến các trung tâm bảo hành chính hãng của hãng tivi mà mình đang sử dụng,khi còn đang trong thời gian bảo hành ( thường là 3 đến 5 năm cho các loại tivi đời mới như LCD,Plasma,Let… hoặc các loại tivi màn hình cong), bạn có thể đến ngay các trung tâm bảo hành để liên hệ sửa chữa miễn phí nếu còn đang trong thời gian bảo hành.Sau đây Nguyễn Kim của chúng tôi sẽ cung cấp cho các bạn những trung tâm của các hãng tivi chính hãng lớn ở thành phố Hồ Chí Minh để các bạn có thể liên hệ và mang trực tiếp đến đó sửa chữa.',
+				'Bạn đang sử dụng tivi,nếu một ngày bỗng nhiên tivi bạn có hỏng hóc gì xảy ra,bạn đang băn khoăn lo lắng không biết xử lý như thế nào thì bạn có thể nghĩ ngay đến các trung tâm bảo hành chính hãng của hãng tivi mà mình đang sử dụng,khi còn đang trong thời gian bảo hành ( thường là 3 đến 5 năm cho các loại tivi đời mới như LCD,Plasma,Let… hoặc các loại tivi màn hình cong), bạn có thể đến ngay các trung tâm bảo hành để liên hệ sửa chữa miễn phí nếu còn đang trong thời gian bảo hành.Sau đây chúng tôi sẽ cung cấp cho các bạn những trung tâm của các hãng tivi chính hãng lớn ở thành phố Hồ Chí Minh để các bạn có thể liên hệ và mang trực tiếp đến đó sửa chữa.',
 			className: 'title',
 		},
 		content3: {
@@ -475,7 +475,7 @@ export const listContentServices = [
 		},
 		title3: {
 			content:
-				'Bạn đang sử dụng tivi,nếu một ngày bỗng nhiên tivi bạn có hỏng hóc gì xảy ra,bạn đang băn khoăn lo lắng không biết xử lý như thế nào thì bạn có thể nghĩ ngay đến các trung tâm bảo hành chính hãng của hãng tivi mà mình đang sử dụng,khi còn đang trong thời gian bảo hành ( thường là 3 đến 5 năm cho các loại tivi đời mới như LCD,Plasma,Let… hoặc các loại tivi màn hình cong), bạn có thể đến ngay các trung tâm bảo hành để liên hệ sửa chữa miễn phí nếu còn đang trong thời gian bảo hành.Sau đây Nguyễn Kim của chúng tôi sẽ cung cấp cho các bạn những trung tâm của các hãng tivi chính hãng lớn ở thành phố Hồ Chí Minh để các bạn có thể liên hệ và mang trực tiếp đến đó sửa chữa.',
+				'Bạn đang sử dụng tivi,nếu một ngày bỗng nhiên tivi bạn có hỏng hóc gì xảy ra,bạn đang băn khoăn lo lắng không biết xử lý như thế nào thì bạn có thể nghĩ ngay đến các trung tâm bảo hành chính hãng của hãng tivi mà mình đang sử dụng,khi còn đang trong thời gian bảo hành ( thường là 3 đến 5 năm cho các loại tivi đời mới như LCD,Plasma,Let… hoặc các loại tivi màn hình cong), bạn có thể đến ngay các trung tâm bảo hành để liên hệ sửa chữa miễn phí nếu còn đang trong thời gian bảo hành.Sau đây chúng tôi sẽ cung cấp cho các bạn những trung tâm của các hãng tivi chính hãng lớn ở thành phố Hồ Chí Minh để các bạn có thể liên hệ và mang trực tiếp đến đó sửa chữa.',
 			className: 'title',
 		},
 		content3: {
@@ -531,7 +531,7 @@ export const listContentServices = [
 		},
 		headTitle: {
 			content:
-				'Sửa tivi LCD tại nhà giá rẻ tại Trung tâm bảo hành Nguyễn Kim chuyên bảo hành, sửa tivi uy tín trên thị trường. Với đội ngũ kỹ thuật viên giỏi, chuyên sâu, trong lĩnh vực sửa chữa đồ điện tử có thể chữa được tất cả các lỗi hỏng của tivi, luôn làm việc với tinh thần NHIỆT TÌNH – CẨN THẬN – UY TÍN đem lại kết quả hài lòng cho khách hàng. Phục vụ 24/7 tại nhà, chúng tôi cam kết thợ đến đúng giờ không làm quý khách mất thời gian, kiểm tra miễn phí tại nhà, báo giá đúng lỗi hư hỏng, dịch vụ sữa tivi lcd tại nhà giá rẻ của chúng tôi là dịch vụ tốt nhất hiện nay. ',
+				'Sửa tivi LCD tại nhà giá rẻ tại Trung tâm bảo hành chuyên bảo hành, sửa tivi uy tín trên thị trường. Với đội ngũ kỹ thuật viên giỏi, chuyên sâu, trong lĩnh vực sửa chữa đồ điện tử có thể chữa được tất cả các lỗi hỏng của tivi, luôn làm việc với tinh thần NHIỆT TÌNH – CẨN THẬN – UY TÍN đem lại kết quả hài lòng cho khách hàng. Phục vụ 24/7 tại nhà, chúng tôi cam kết thợ đến đúng giờ không làm quý khách mất thời gian, kiểm tra miễn phí tại nhà, báo giá đúng lỗi hư hỏng, dịch vụ sữa tivi lcd tại nhà giá rẻ của chúng tôi là dịch vụ tốt nhất hiện nay. ',
 			className: 'head-title',
 		},
 		title1: {
@@ -541,7 +541,7 @@ export const listContentServices = [
 		content1: {
 			content: [
 				'Tivi LCD nhà bạn bật không lên; đèn nguồn sáng nhưng tivi không thể khởi động. Đây là triệu chứng của lỗi nguồn ở Tivi LCD. Lỗi này thường do nhiều nguyên nhân gây ra, có thể do chập cháy tụ điện, nguồn điện; cũng có thể tivi bị vào nước, tivi ở môi người ẩm thấp; tivi bị sét đánh',
-				'Chúng tôi nhận sửa chữa tất cả các lỗi trên tivi LCD của khách hàng tại Trung tâm bảo hành Nguyễn Kim với giá rẻ.',
+				'Chúng tôi nhận sửa chữa tất cả các lỗi trên tivi LCD của khách hàng tại Trung tâm bảo hành với giá rẻ.',
 			],
 			className: '',
 		},
@@ -704,12 +704,12 @@ export const listContentServices = [
 			className: '',
 		},
 		title5: {
-			content: '2. Dịch vụ sửa tivi Toshiba của Nguyễn Kim',
+			content: '2. Dịch vụ sửa tivi Toshiba của chúng tôi',
 			className: 'title',
 		},
 		content5: {
 			content:
-				'Với các lỗi được nêu ra ở trên, bạn không nên tự khắc phục mà liên hệ với các trung tâm sửa chữa để được tư vấn cụ thể. Nguyễn Kim gửi đến bạn dịch vụ sửa tivi Toshiba tại nhà. Với dịch vụ này, quý khách không cần phải đến trực tiếp tại trung tâm sửa chữa, chỉ cần liên hệ với chúng tôi và nhân viên sẽ đến tận nhà để hỗ trợ sửa chữa.',
+				'Với các lỗi được nêu ra ở trên, bạn không nên tự khắc phục mà liên hệ với các trung tâm sửa chữa để được tư vấn cụ thể. Chúng tôi gửi đến bạn dịch vụ sửa tivi Toshiba tại nhà. Với dịch vụ này, quý khách không cần phải đến trực tiếp tại trung tâm sửa chữa, chỉ cần liên hệ với chúng tôi và nhân viên sẽ đến tận nhà để hỗ trợ sửa chữa.',
 			className: 'content',
 		},
 		picture5: {
@@ -722,7 +722,7 @@ export const listContentServices = [
 		},
 		content6: {
 			content:
-				'Bài viết bên trên đã cung cấp một số thông tin về dịch vụ sửa tivi Toshiba. Với những thắc mắc về dịch vụ sửa tivi của Nguyễn Kim, tổng đài 0775811523 luôn sẵn sàng để giải đáp những câu hỏi của quý khách.',
+				'Bài viết bên trên đã cung cấp một số thông tin về dịch vụ sửa tivi Toshiba. Với những thắc mắc về dịch vụ sửa tivi của Chúng tôi, tổng đài 0775811523 luôn sẵn sàng để giải đáp những câu hỏi của quý khách.',
 			className: 'content',
 		},
 		picture6: {
@@ -803,12 +803,12 @@ export const listContentServices = [
 			className: '',
 		},
 		title5: {
-			content: '2. Dịch vụ sửa tivi Panasonic của Nguyễn Kim',
+			content: '2. Dịch vụ sửa tivi Panasonic của chúng tôi',
 			className: 'title',
 		},
 		content5: {
 			content:
-				'Với các lỗi được nêu ra ở trên, bạn không nên tự khắc phục mà liên hệ với các trung tâm sửa chữa để được tư vấn cụ thể. Nguyễn Kim gửi đến bạn dịch vụ sửa tivi Toshiba tại nhà. Với dịch vụ này, quý khách không cần phải đến trực tiếp tại trung tâm sửa chữa, chỉ cần liên hệ với chúng tôi và nhân viên sẽ đến tận nhà để hỗ trợ sửa chữa.',
+				'Với các lỗi được nêu ra ở trên, bạn không nên tự khắc phục mà liên hệ với các trung tâm sửa chữa để được tư vấn cụ thể. Chúng tôi gửi đến bạn dịch vụ sửa tivi Toshiba tại nhà. Với dịch vụ này, quý khách không cần phải đến trực tiếp tại trung tâm sửa chữa, chỉ cần liên hệ với chúng tôi và nhân viên sẽ đến tận nhà để hỗ trợ sửa chữa.',
 			className: 'content',
 		},
 		picture5: {
@@ -821,7 +821,7 @@ export const listContentServices = [
 		},
 		content6: {
 			content:
-				'Bài viết bên trên đã cung cấp một số thông tin về dịch vụ sửa tivi Panasonic. Với những thắc mắc về dịch vụ sửa tivi của Nguyễn Kim, tổng đài 0775811523 luôn sẵn sàng để giải đáp những câu hỏi của quý khách.',
+				'Bài viết bên trên đã cung cấp một số thông tin về dịch vụ sửa tivi Panasonic. Với những thắc mắc về dịch vụ sửa tivi của chúng tôi, tổng đài 0775811523 luôn sẵn sàng để giải đáp những câu hỏi của quý khách.',
 			className: 'content',
 		},
 		picture6: {
@@ -920,7 +920,7 @@ export const listContentServices = [
 		},
 		content6: {
 			content:
-				'Bài viết bên trên đã cung cấp một số thông tin về dịch vụ sửa tivi Asanzo. Với những thắc mắc về dịch vụ sửa tivi của Nguyễn Kim, tổng đài 0775811523 luôn sẵn sàng để giải đáp những câu hỏi của quý khách.',
+				'Bài viết bên trên đã cung cấp một số thông tin về dịch vụ sửa tivi Asanzo. Với những thắc mắc về dịch vụ sửa tivi của chúng tôi, tổng đài 0775811523 luôn sẵn sàng để giải đáp những câu hỏi của quý khách.',
 			className: 'content',
 		},
 		picture6: {
@@ -945,7 +945,7 @@ export const listContentServices = [
 		},
 		content1: {
 			content:
-				'Trung tâm Nguyễn Kim chuyên cung cấp các dịch vụ sửa tivi Sharp. Những thợ sửa chữa chuyên nghiệp sẽ đến tận nhà khách hàng để khắc phục cho khách hàng trong thời gian sớm nhất, khoảng 20 phút kỹ thuật sẽ có mặt tại nhà khách hàng để tiến hành khắc phục và sửa chữa cho khách hàng trong thời gian sớm nhất.',
+				'Trung tâm chúng tôi chuyên cung cấp các dịch vụ sửa tivi Sharp. Những thợ sửa chữa chuyên nghiệp sẽ đến tận nhà khách hàng để khắc phục cho khách hàng trong thời gian sớm nhất, khoảng 20 phút kỹ thuật sẽ có mặt tại nhà khách hàng để tiến hành khắc phục và sửa chữa cho khách hàng trong thời gian sớm nhất.',
 			className: 'content',
 		},
 		picture1: {
@@ -1033,7 +1033,7 @@ export const listContentServices = [
 		},
 		content6: {
 			content:
-				'Bài viết bên trên đã cung cấp một số thông tin về dịch vụ sửa tivi Sharp. Với những thắc mắc về dịch vụ sửa tivi của Nguyễn Kim, tổng đài 0775811523 luôn sẵn sàng để giải đáp những câu hỏi của quý khách.',
+				'Bài viết bên trên đã cung cấp một số thông tin về dịch vụ sửa tivi Sharp. Với những thắc mắc về dịch vụ sửa tivi của chúng tôi, tổng đài 0775811523 luôn sẵn sàng để giải đáp những câu hỏi của quý khách.',
 			className: 'content',
 		},
 		picture6: {
@@ -1049,7 +1049,7 @@ export const listContentServices = [
 		},
 		headTitle: {
 			content:
-				'Tivi nhà bạn bị mất tiếng mà không xác định được nguyên nhân cũng như không có phương án xử lý. Trong trường hợp đó hãy liên hệ ngay với thợ sửa chữa chuyên nghiệp của Trung tâm Bảo hành Nguyễn Kim. Thợ kỹ thuật sẽ giúp bạn sửa chữa nhanh chóng với chi phí vô cùng hợp lý.',
+				'Tivi nhà bạn bị mất tiếng mà không xác định được nguyên nhân cũng như không có phương án xử lý. Trong trường hợp đó hãy liên hệ ngay với thợ sửa chữa chuyên nghiệp của Trung tâm Bảo hành . Thợ kỹ thuật sẽ giúp bạn sửa chữa nhanh chóng với chi phí vô cùng hợp lý.',
 			className: 'head-title',
 		},
 		title1: {
@@ -1082,13 +1082,13 @@ export const listContentServices = [
 			className: 'img',
 		},
 		title3: {
-			content: 'Trung tâm Bảo hành Nguyễn Kim sửa tivi mất tiếng nhanh chóng, chất lượng',
+			content: 'Trung tâm Bảo hành-Sửa tivi mất tiếng nhanh chóng, chất lượng',
 			className: 'title',
 		},
 		content3: {
 			content: [
-				'Là đơn vị uy tín hàng đầu thị trường trong lĩnh vực sửa chữa tivi và các thiết bị khác, Trung tâm Bảo hành Nguyễn Kim có thể giúp bạn xử lý tình trạng tivi mất tiếng một cách nhanh chóng và hiệu quả. Chỉ cần khách hàng liên hệ, thợ kỹ thuật sẽ có mặt tận nơi để kiểm tra, phát hiện lỗi và báo phương án sửa chữa cho khách hàng. Nếu khách hàng đồng ý, thợ sẽ tiến hành sửa chữa luôn. Chất lượng sửa chữa sẽ được cam kết bảo hành cho khách hàng.',
-				'Với kinh nghiệm và uy tín lâu năm trong nghề, Trung tâm đảm bảo cung cấp cho khách hàng dịch vụ với mức giá vô cùng phải chăng. Bạn có thể so sánh giá cả giữa một số đơn vị để thấy được sự khác biệt. Đảm bảo giá cả của Trung tâm Bảo hành Nguyễn Kim luôn tốt nhất trên thị trường.',
+				'Là đơn vị uy tín hàng đầu thị trường trong lĩnh vực sửa chữa tivi và các thiết bị khác, Trung tâm Bảo hành chúng tôi có thể giúp bạn xử lý tình trạng tivi mất tiếng một cách nhanh chóng và hiệu quả. Chỉ cần khách hàng liên hệ, thợ kỹ thuật sẽ có mặt tận nơi để kiểm tra, phát hiện lỗi và báo phương án sửa chữa cho khách hàng. Nếu khách hàng đồng ý, thợ sẽ tiến hành sửa chữa luôn. Chất lượng sửa chữa sẽ được cam kết bảo hành cho khách hàng.',
+				'Với kinh nghiệm và uy tín lâu năm trong nghề, Trung tâm đảm bảo cung cấp cho khách hàng dịch vụ với mức giá vô cùng phải chăng. Bạn có thể so sánh giá cả giữa một số đơn vị để thấy được sự khác biệt. Đảm bảo giá cả của Trung tâm Bảo hành chúng tôi luôn tốt nhất trên thị trường.',
 			],
 			className: 'content',
 		},
@@ -1141,7 +1141,7 @@ export const listContentServices = [
 		},
 		headTitle: {
 			content:
-				'Nếu bạn không may bị sét đánh hỏng tivi thì hãy liên hệ với Trung tâm Bảo hành Nguyễn Kim để được kiểm tra tình trạng tivi và có phương án xử lý hiệu quả. Cùng tham khảo một số thông tin qua bài viết sau đây của chúng tôi.',
+				'Nếu bạn không may bị sét đánh hỏng tivi thì hãy liên hệ với Trung tâm Bảo hành  để được kiểm tra tình trạng tivi và có phương án xử lý hiệu quả. Cùng tham khảo một số thông tin qua bài viết sau đây của chúng tôi.',
 			className: 'head-title',
 		},
 		title1: {
@@ -1178,7 +1178,7 @@ export const listContentServices = [
 		},
 		content3: {
 			content: [
-				'Trong những địa chỉ sửa chữa tivi tại nhà hiện nay, Trung tâm bảo hành Nguyễn Kim tự hào là một địa chỉ uy tín, được nhiều khách hàng tin cậy trong nhiều năm. Với đội ngũ kỹ thuật đông đảo, phục vụ chuyên nghiệp, có nhiều năm kinh nghiệm trong lĩnh vực sửa tivi, chúng tôi chuyên sửa chữa tivi nhanh chóng, giá tốt và chất lượng đảm bảo. ',
+				'Trong những địa chỉ sửa chữa tivi tại nhà hiện nay, Trung tâm bảo hành  tự hào là một địa chỉ uy tín, được nhiều khách hàng tin cậy trong nhiều năm. Với đội ngũ kỹ thuật đông đảo, phục vụ chuyên nghiệp, có nhiều năm kinh nghiệm trong lĩnh vực sửa tivi, chúng tôi chuyên sửa chữa tivi nhanh chóng, giá tốt và chất lượng đảm bảo. ',
 				'Với kinh nghiệm lâu năm trong nghề, đội thợ của Trung tâm có thể nhận diện và phát hiện hư hỏng của tivi bị sét đánh một cách nhanh chóng. Thợ kỹ thuật sẽ có phương án sửa chữa sao cho hiệu quả nhất. Đặc biệt mức giá cả sửa chữa mà Trung tâm đưa ra luôn vô cùng hợp lý và đảm bảo tính cạnh tranh cao trên thị trường. Chúng tôi luôn đặt lợi ích của khách hàng lên trên hết, không ép giá, tăng giá dưới mọi hình thức.',
 			],
 			className: 'content',
@@ -1188,7 +1188,7 @@ export const listContentServices = [
 			className: '',
 		},
 		title4: {
-			content: 'Những ưu điểm của Trung tâm Bảo hành Nguyễn Kim',
+			content: 'Những ưu điểm của Trung tâm Bảo hành chúng tôi',
 			className: 'title',
 		},
 		content4: {
@@ -1239,7 +1239,7 @@ export const listContentServices = [
 		},
 		headTitle: {
 			content:
-				'Màn hình tivi nhà bạn tự nhiên xuất hiện những đường kẻ sọc ngang hoặc dọc. Điều đó gây ảnh hưởng đến chất lượng hình ảnh thậm chí còn không thể tiếp tục xem. Khi đó hãy liên hệ ngay với với chúng tôi. Trung tâm bảo hành Nguyễn Kim chuyên sửa chữa tivi nhanh chóng, giá rẻ. Chúng tôi làm việc chuyên nghiệp, uy tín, chất lượng và hiệu quả. Hãy cùng chúng tôi tìm hiểu về dịch vụ này nhé!',
+				'Màn hình tivi nhà bạn tự nhiên xuất hiện những đường kẻ sọc ngang hoặc dọc. Điều đó gây ảnh hưởng đến chất lượng hình ảnh thậm chí còn không thể tiếp tục xem. Khi đó hãy liên hệ ngay với với chúng tôi. Trung tâm bảo hành của chúng tôi chuyên sửa chữa tivi nhanh chóng, giá rẻ. Chúng tôi làm việc chuyên nghiệp, uy tín, chất lượng và hiệu quả. Hãy cùng chúng tôi tìm hiểu về dịch vụ này nhé!',
 			className: 'head-title',
 		},
 		title1: {
@@ -1264,7 +1264,7 @@ export const listContentServices = [
 		},
 		content2: {
 			content: [
-				'Lỗi sọc màn hình tivi của bạn sẽ được xử lý triệt để và hiệu quả khi bạn liên hệ với Trung tâm Bảo hành Nguyễn Kim. Chúng tôi là đơn vị uy tín hàng đầu trên thị trường trong lĩnh vực sửa chữa các thiết bị điện, điện tử, điện lạnh. Với kinh nghiệm lâu năm trong nghề, Trung tâm đã sửa chữa rất nhiều tivi cho các khách hàng trong đó lỗi tivi bị sọc màn hình là khá phổ biến.',
+				'Lỗi sọc màn hình tivi của bạn sẽ được xử lý triệt để và hiệu quả khi bạn liên hệ với Trung tâm Bảo hành của chúng tôi. Chúng tôi là đơn vị uy tín hàng đầu trên thị trường trong lĩnh vực sửa chữa các thiết bị điện, điện tử, điện lạnh. Với kinh nghiệm lâu năm trong nghề, Trung tâm đã sửa chữa rất nhiều tivi cho các khách hàng trong đó lỗi tivi bị sọc màn hình là khá phổ biến.',
 				'Ngay sau khi tiếp nhận thông tin từ phía khách hàng, thợ kỹ thuật của Trung tâm sẽ đến tận nơi để kiểm tra, phát hiện lỗi, báo lỗi, phương án sửa chữa cũng như giá cả dịch vụ cho khách hàng. Nếu khách hàng đồng ý, thợ kỹ thuật sẽ tiến hành sửa chữa nhanh chóng. Chất lượng sửa màn hình sẽ được cam kết bảo hành cho khách hàng. Nếu sau khi sửa chữa mà khách hàng vẫn gặp phải lỗi tương tự, Trung tâm sẽ kiểm tra và sửa chữa miễn phí cho khách.',
 				'Trong một số trường hợp nếu màn hình tivi của khách hàng gặp phải hư hỏng nặng và không thể sửa chữa. Phương án duy nhất được thực hiện là thay mới màn hình. Khi đó thợ sẽ báo rõ cho khách hàng. Khách hàng có quyền đưa ra quyết định có thay màn hình của chúng tôi hay không. Một điều mà bạn hoàn toàn có thể yên tâm là Trung tâm cam kết màn hình thay mới là chính hãng với chất lượng tốt mà giá cả lại vô cùng hợp lý.',
 			],
@@ -1281,7 +1281,7 @@ export const listContentServices = [
 		content3: {
 			content: [
 				'Dịch vụ sửa chữa tivi của Trung tâm được thực hiện một cách bài bản, chuyên nghiệp, tuân thủ được quy trình kỹ thuật và đảm bảo chất lượng cao. Đội ngũ nhân viên của chúng tôi được đào tạo đầy đủ, giàu kinh nghiệm, đội ngũ thợ lành nghề, tinh thần trách nhiệm cao, luôn đặt lợi ích của khách hàng lên hàng đầu, tôn trọng và nhiệt tình với mọi khách hàng. ',
-				'Trung tâm sở hữu đội ngũ thợ đông đảo nên cùng lúc có thể phục vụ được nhiều khách hàng ở các địa điểm khác nhau. Số lượng khách hàng sử dụng dịch vụ của Trung tâm ngày một tăng lên rõ rệt. Tất cả những khách hàng đã từng làm việc với Trung tâm Bảo hành Nguyễn Kim đều đánh giá cao chất lượng dịch vụ cũng như thái độ làm việc của nhân viên, thợ kỹ thuật của Trung tâm.',
+				'Trung tâm sở hữu đội ngũ thợ đông đảo nên cùng lúc có thể phục vụ được nhiều khách hàng ở các địa điểm khác nhau. Số lượng khách hàng sử dụng dịch vụ của Trung tâm ngày một tăng lên rõ rệt. Tất cả những khách hàng đã từng làm việc với Trung tâm Bảo hành của chúng tôi đều đánh giá cao chất lượng dịch vụ cũng như thái độ làm việc của nhân viên, thợ kỹ thuật của Trung tâm.',
 			],
 			className: 'content',
 		},
@@ -1290,7 +1290,7 @@ export const listContentServices = [
 			className: '',
 		},
 		title4: {
-			content: 'Những ưu điểm của Trung tâm Bảo hành Nguyễn Kim',
+			content: 'Những ưu điểm của Trung tâm Bảo hành',
 			className: 'title',
 		},
 		content4: {
@@ -1341,7 +1341,7 @@ export const listContentServices = [
 		},
 		headTitle: {
 			content:
-				'Phục vụ tất cả các nhu cầu sửa chữa và dịch vụ về TV của khách hàng, TV của quý khách sẽ hoạt động lại tốt như mới trong thời gian ngắn. Còn mong đợi gì hơn chất lượng, dịch vụ sửa ti vi tại nhà Quận 1 chuyên nghiệp cho tất cả các nhãn hiệu và kiểu dáng. Cho dù quý khách cần sửa chữa một chiếc tivi hộp cũ mà quý khách đã mua từ nhiều năm trước hay là một màn hình plasma mới – Trung tâm Bảo hành Nguyễn Kim đều có thể sửa nó!',
+				'Phục vụ tất cả các nhu cầu sửa chữa và dịch vụ về TV của khách hàng, TV của quý khách sẽ hoạt động lại tốt như mới trong thời gian ngắn. Còn mong đợi gì hơn chất lượng, dịch vụ sửa ti vi tại nhà Quận 1 chuyên nghiệp cho tất cả các nhãn hiệu và kiểu dáng. Cho dù quý khách cần sửa chữa một chiếc tivi hộp cũ mà quý khách đã mua từ nhiều năm trước hay là một màn hình plasma mới – Trung tâm Bảo hành của chúng tôi đều có thể sửa nó!',
 			className: 'head-title',
 		},
 		title1: {
@@ -1391,7 +1391,7 @@ export const listContentServices = [
 		content3: {
 			content: [
 				'Dịch vụ sửa chữa tivi của Trung tâm được thực hiện một cách bài bản, chuyên nghiệp, tuân thủ được quy trình kỹ thuật và đảm bảo chất lượng cao. Đội ngũ nhân viên của chúng tôi được đào tạo đầy đủ, giàu kinh nghiệm, đội ngũ thợ lành nghề, tinh thần trách nhiệm cao, luôn đặt lợi ích của khách hàng lên hàng đầu, tôn trọng và nhiệt tình với mọi khách hàng. ',
-				'Trung tâm sở hữu đội ngũ thợ đông đảo nên cùng lúc có thể phục vụ được nhiều khách hàng ở các địa điểm khác nhau. Số lượng khách hàng sử dụng dịch vụ của Trung tâm ngày một tăng lên rõ rệt. Tất cả những khách hàng đã từng làm việc với Trung tâm Bảo hành Nguyễn Kim đều đánh giá cao chất lượng dịch vụ cũng như thái độ làm việc của nhân viên, thợ kỹ thuật của Trung tâm.',
+				'Trung tâm sở hữu đội ngũ thợ đông đảo nên cùng lúc có thể phục vụ được nhiều khách hàng ở các địa điểm khác nhau. Số lượng khách hàng sử dụng dịch vụ của Trung tâm ngày một tăng lên rõ rệt. Tất cả những khách hàng đã từng làm việc với Trung tâm Bảo hành của chúng tôi đều đánh giá cao chất lượng dịch vụ cũng như thái độ làm việc của nhân viên, thợ kỹ thuật của Trung tâm.',
 			],
 			className: 'content',
 		},
@@ -1400,7 +1400,7 @@ export const listContentServices = [
 			className: '',
 		},
 		title4: {
-			content: 'Những ưu điểm của Trung tâm Bảo hành Nguyễn Kim',
+			content: 'của chúng tôiNhững ưu điểm của Trung tâm Bảo hành',
 			className: 'title',
 		},
 		content4: {
@@ -1451,7 +1451,7 @@ export const listContentServices = [
 		},
 		headTitle: {
 			content:
-				'Bạn đang có nhu cầu sửa tivi tại nhà quận 2 nhưng không biết lựa chọn địa chỉ nào. Hãy liên hệ ngay với với chúng tôi. Trung tâm Bảo Hành Nguyễn Kim chuyên sửa tivi tại nhà quận 2 nhanh chóng, giá rẻ. Chúng tôi làm việc chuyên nghiệp, uy tín, chất lượng và hiệu quả. Hãy cùng chúng tôi tìm hiểu về dịch vụ này nhé!',
+				'Bạn đang có nhu cầu sửa tivi tại nhà quận 2 nhưng không biết lựa chọn địa chỉ nào. Hãy liên hệ ngay với với chúng tôi. Trung tâm Bảo Hành của chúng tôi chuyên sửa tivi tại nhà quận 2 nhanh chóng, giá rẻ. Chúng tôi làm việc chuyên nghiệp, uy tín, chất lượng và hiệu quả. Hãy cùng chúng tôi tìm hiểu về dịch vụ này nhé!',
 			className: 'head-title',
 		},
 		title1: {
@@ -1488,8 +1488,8 @@ export const listContentServices = [
 		},
 		content3: {
 			content: [
-				'Trong những địa chỉ sửa chữa tivi tại nhà quận 2 hiện nay, Trung tâm Bảo Hành Nguyễn Kim tự hào là một địa chỉ uy tín, được nhiều khách hàng tin cậy trong nhiều năm. Với đội ngũ kỹ thuật đông đảo, phục vụ chuyên nghiệp, có nhiều năm kinh nghiệm trong lĩnh vực sửa tivi, chúng tôi chuyên sửa tivi tại nhà quận 2 nhanh chóng, giá tốt và chất lượng đảm bảo.  ',
-				'Chúng tôi luôn lấy chữ tín làm đầu, đảm bảo chất lượng dịch vụ tốt nhất và chuyên nghiệp, chúng tôi rất hân hạnh được là đối tác tin cậy của quý khách hàng. Hãy liên hệ ngay với Trung tâm bảo hành Nguyễn Kim chúng tôi khi quý khách gặp vấn đề với chiếc tivi của mình. Chúng tôi sẽ hỗ trợ quý khách sửa tivi tại nhà quận 2 trong thời gian nhanh nhất và với chi phí hợp lý nhất.',
+				'Trong những địa chỉ sửa chữa tivi tại nhà quận 2 hiện nay, Trung tâm Bảo Hành của chúng tôi tự hào là một địa chỉ uy tín, được nhiều khách hàng tin cậy trong nhiều năm. Với đội ngũ kỹ thuật đông đảo, phục vụ chuyên nghiệp, có nhiều năm kinh nghiệm trong lĩnh vực sửa tivi, chúng tôi chuyên sửa tivi tại nhà quận 2 nhanh chóng, giá tốt và chất lượng đảm bảo.  ',
+				'Chúng tôi luôn lấy chữ tín làm đầu, đảm bảo chất lượng dịch vụ tốt nhất và chuyên nghiệp, chúng tôi rất hân hạnh được là đối tác tin cậy của quý khách hàng. Hãy liên hệ ngay với Trung tâm bảo hành của chúng tôi chúng tôi khi quý khách gặp vấn đề với chiếc tivi của mình. Chúng tôi sẽ hỗ trợ quý khách sửa tivi tại nhà quận 2 trong thời gian nhanh nhất và với chi phí hợp lý nhất.',
 			],
 			className: 'content',
 		},
@@ -1498,7 +1498,7 @@ export const listContentServices = [
 			className: '',
 		},
 		title4: {
-			content: 'Điều gì làm nên sự chuyên nghiệp và uy tín của Trung tâm Bảo Hành Nguyễn Kim',
+			content: 'Điều gì làm nên sự chuyên nghiệp và uy tín của Trung tâm Bảo Hành ',
 			className: 'title',
 		},
 		content4: {
@@ -1576,7 +1576,7 @@ export const listContentServices = [
 		},
 		title2: {
 			content:
-				'2. Trung tâm bảo hành Nguyễn Kim đã có bề dày lịch sử trong lĩnh vực sửa chữa đồ điện tử',
+				'2. Trung tâm bảo hành của chúng tôi đã có bề dày lịch sử trong lĩnh vực sửa chữa đồ điện tử',
 			className: 'title',
 		},
 		content2: {
@@ -1591,7 +1591,7 @@ export const listContentServices = [
 			className: '',
 		},
 		title3: {
-			content: '3. Tại sao bạn nên lựa chọn sửa tivi tại Trung tâm bảo hành Nguyễn Kim?',
+			content: '3. Tại sao bạn nên lựa chọn sửa tivi tại Trung tâm bảo hành của chúng tôi?',
 			className: 'title',
 		},
 		content3: {
@@ -1659,7 +1659,7 @@ export const listContentServices = [
 		},
 		headTitle: {
 			content:
-				'Bạn đang có nhu cầu sửa tivi tại nhà quận 6 nhưng không biết lựa chọn địa chỉ nào. Hãy liên hệ ngay với với chúng tôi. Trung tâm Bảo Hành Nguyễn Kim chuyên sửa tivi tại nhà quận 6 nhanh chóng, giá rẻ. Chúng tôi làm việc chuyên nghiệp, uy tín, chất lượng và hiệu quả. Hãy cùng chúng tôi tìm hiểu về dịch vụ này nhé!',
+				'Bạn đang có nhu cầu sửa tivi tại nhà quận 6 nhưng không biết lựa chọn địa chỉ nào. Hãy liên hệ ngay với với chúng tôi. Trung tâm Bảo Hành của chúng tôi chuyên sửa tivi tại nhà quận 6 nhanh chóng, giá rẻ. Chúng tôi làm việc chuyên nghiệp, uy tín, chất lượng và hiệu quả. Hãy cùng chúng tôi tìm hiểu về dịch vụ này nhé!',
 			className: 'head-title',
 		},
 		title1: {
@@ -1696,8 +1696,8 @@ export const listContentServices = [
 		},
 		content3: {
 			content: [
-				'Trong những địa chỉ sửa chữa tivi tại nhà quận 6 hiện nay, Trung tâm Bảo Hành Nguyễn Kim tự hào là một địa chỉ uy tín, được nhiều khách hàng tin cậy trong nhiều năm. Với đội ngũ kỹ thuật đông đảo, phục vụ chuyên nghiệp, có nhiều năm kinh nghiệm trong lĩnh vực sửa tivi, chúng tôi chuyên sửa tivi tại nhà quận 6 nhanh chóng, giá tốt và chất lượng đảm bảo.  ',
-				'Chúng tôi luôn lấy chữ tín làm đầu, đảm bảo chất lượng dịch vụ tốt nhất và chuyên nghiệp, chúng tôi rất hân hạnh được là đối tác tin cậy của quý khách hàng. Hãy liên hệ ngay với Trung tâm bảo hành Nguyễn Kim chúng tôi khi quý khách gặp vấn đề với chiếc tivi của mình. Chúng tôi sẽ hỗ trợ quý khách sửa tivi tại nhà quận 6 trong thời gian nhanh nhất và với chi phí hợp lý nhất.',
+				'Trong những địa chỉ sửa chữa tivi tại nhà quận 6 hiện nay, Trung tâm Bảo Hành của chúng tôi tự hào là một địa chỉ uy tín, được nhiều khách hàng tin cậy trong nhiều năm. Với đội ngũ kỹ thuật đông đảo, phục vụ chuyên nghiệp, có nhiều năm kinh nghiệm trong lĩnh vực sửa tivi, chúng tôi chuyên sửa tivi tại nhà quận 6 nhanh chóng, giá tốt và chất lượng đảm bảo.  ',
+				'Chúng tôi luôn lấy chữ tín làm đầu, đảm bảo chất lượng dịch vụ tốt nhất và chuyên nghiệp, chúng tôi rất hân hạnh được là đối tác tin cậy của quý khách hàng. Hãy liên hệ ngay với Trung tâm bảo hành  chúng tôi khi quý khách gặp vấn đề với chiếc tivi của mình. Chúng tôi sẽ hỗ trợ quý khách sửa tivi tại nhà quận 6 trong thời gian nhanh nhất và với chi phí hợp lý nhất.',
 			],
 			className: 'content',
 		},
@@ -1706,7 +1706,7 @@ export const listContentServices = [
 			className: '',
 		},
 		title4: {
-			content: 'Điều gì làm nên sự chuyên nghiệp và uy tín của Trung tâm Bảo Hành Nguyễn Kim',
+			content: 'Điều gì làm nên sự chuyên nghiệp và uy tín của Trung tâm Bảo Hành ',
 			className: 'title',
 		},
 		content4: {
@@ -1763,7 +1763,7 @@ export const listContentServices = [
 		},
 		headTitle: {
 			content:
-				'Với nhiều năm kinh nghiệm hoạt động, Trung tâm Bảo hành Nguyễn Kim luôn nỗ lực không ngừng trong việc mang tới cho khách hàng những dịch vụ chất lượng nhất. Với chúng tôi, sự hài lòng của khách hàng chính là động lực hoạt động to lớn nhất. Trải qua nhiều năm hình thành và phát triển lớn mạnh, mạng lưới công ty đã được mở rộng khắp các nơi, nhằm phục vụ tối đa nhu cầu của khách hàng. Và để có thể phục vụ một cách thuận tiện nhất cho bạn, chúng tôi đã triển khai cung cấp tới khách hàng: “Dịch vụ sửa tivi tại nhà chuyên nghiệp ở quận 7”',
+				'Với nhiều năm kinh nghiệm hoạt động, Trung tâm Bảo hành của chúng tôi luôn nỗ lực không ngừng trong việc mang tới cho khách hàng những dịch vụ chất lượng nhất. Với chúng tôi, sự hài lòng của khách hàng chính là động lực hoạt động to lớn nhất. Trải qua nhiều năm hình thành và phát triển lớn mạnh, mạng lưới công ty đã được mở rộng khắp các nơi, nhằm phục vụ tối đa nhu cầu của khách hàng. Và để có thể phục vụ một cách thuận tiện nhất cho bạn, chúng tôi đã triển khai cung cấp tới khách hàng: “Dịch vụ sửa tivi tại nhà chuyên nghiệp ở quận 7”',
 			className: 'head-title',
 		},
 		title1: {
@@ -1803,8 +1803,8 @@ export const listContentServices = [
 		},
 		content3: {
 			content: [
-				'Bạn đang tìm kiếm một địa chỉ chuyên nghiệp để giải quyết các vấn đề trục trặc của tivi nhưng đứng trước một nỗi lo lắng về việc tìm được một địa chỉ uy tín, đảm bảo. Bạn hoàn toàn chỉ biết tivi đã bị sự cố chứ không biết cụ thể nguyên nhân sâu xa gây ra là gì. Hay là việc đơn giản nhất là lựa chọn một địa chỉ để gửi gắm lòng tin cũng là một khó khăn đối với bạn. Thì nay bạn hoàn tòan có thể yên tâm vì đã có chúng tôi: “Dịch vụ sửa tivi tại nhà chuyên nghiệp ở quận 7” – Trung tâm Bảo hành Nguyễn Kim',
-				'Dịch vụ sửa tivi tại nhà chuyên nghiệp ở quận 7 của Trung tâm Bảo hành Nguyễn Kim tự hào là đơn vị cung cấp dịch vụ chuyên nghiệp nhất tại quận 7 hiện nay. Chúng tôi tin chắc rằng sẽ đem tới cho bạn sự trải nghiệm chất lượng dịch vụ tốt nhất mà bạn chưa từng biết tới ở bất kì đâu.',
+				'Bạn đang tìm kiếm một địa chỉ chuyên nghiệp để giải quyết các vấn đề trục trặc của tivi nhưng đứng trước một nỗi lo lắng về việc tìm được một địa chỉ uy tín, đảm bảo. Bạn hoàn toàn chỉ biết tivi đã bị sự cố chứ không biết cụ thể nguyên nhân sâu xa gây ra là gì. Hay là việc đơn giản nhất là lựa chọn một địa chỉ để gửi gắm lòng tin cũng là một khó khăn đối với bạn. Thì nay bạn hoàn tòan có thể yên tâm vì đã có chúng tôi: “Dịch vụ sửa tivi tại nhà chuyên nghiệp ở quận 7”',
+				'Dịch vụ sửa tivi tại nhà chuyên nghiệp ở quận 7 của Trung tâm Bảo hành của chúng tôi tự hào là đơn vị cung cấp dịch vụ chuyên nghiệp nhất tại quận 7 hiện nay. Chúng tôi tin chắc rằng sẽ đem tới cho bạn sự trải nghiệm chất lượng dịch vụ tốt nhất mà bạn chưa từng biết tới ở bất kì đâu.',
 				'Theo khảo sát thị trường của Công ty chúng tôi, hiện nay trên địa bàn quận 7 mức sử dụng tivi đang rất cao và có xu hướng sẽ tăng nhanh trong thời gian tới. Tivi đã trở thành một phần không thể thiếu trong ngôi nhà của bạn, là cánh cửa mở ra thế giới tri thức quý báu nhất.',
 				'Chính vì nắm bắt được nhu cầu đó, chúng tôi đã triển khai cung cấp dịch vụ sửa tivi tại nhà chuyên nghiệp ở quận 7. Bây giờ bạn không phải quá lo lắng về việc tìm kiếm một địa chỉ để gửi gắm chiếc tivi của mình, cũng như là lòng tin về tất cả các điều kiện khác mà bạn đang khúc mắc.',
 			],
@@ -1815,7 +1815,7 @@ export const listContentServices = [
 			className: 'img',
 		},
 		title4: {
-			content: 'Điều gì làm nên sự chuyên nghiệp và uy tín của Trung tâm Bảo Hành Nguyễn Kim',
+			content: 'Điều gì làm nên sự chuyên nghiệp và uy tín của Trung tâm Bảo Hành của chúng tôi',
 			className: 'title',
 		},
 		content4: {
@@ -1872,7 +1872,7 @@ export const listContentServices = [
 		},
 		headTitle: {
 			content:
-				'Nắm bắt được nhu cầu của đông đảo mọi người sinh sống trong khu vực quận 8, cũng như muốn hỗ trợ giúp bạn giải quyết những khó khăn khi chiếc tivi thân yêu gặp phải những sự cố, Trung tâm Bảo hành Nguyễn Kim đã mở rộng hoạt động tiếp cận thị trường một cách tốt hơn với việc mở rộng chi nhánh dịch vụ sửa tivi quận 8. Dịch vụ sửa tivi quận 8 của Bảo hành Nguyễn Kim luôn đem tới cho bạn một sự lựa chon hoàn hảo!',
+				'Nắm bắt được nhu cầu của đông đảo mọi người sinh sống trong khu vực quận 8, cũng như muốn hỗ trợ giúp bạn giải quyết những khó khăn khi chiếc tivi thân yêu gặp phải những sự cố, Trung tâm Bảo hành của chúng tôi đã mở rộng hoạt động tiếp cận thị trường một cách tốt hơn với việc mở rộng chi nhánh dịch vụ sửa tivi quận 8. Dịch vụ sửa tivi quận 8 của Bảo hành của chúng tôi luôn đem tới cho bạn một sự lựa chon hoàn hảo!',
 			className: 'head-title',
 		},
 		title1: {
@@ -1881,7 +1881,7 @@ export const listContentServices = [
 		},
 		content1: {
 			content: [
-				'Qua tìm hiểu, chúng tôi nhận thấy quận 8 là một môi trường cạnh tranh tốt bới nơi đây có số lượng tiêu thụ tivi lớn trong khi các cơ sở sửa chữa nhỏ lẻ, uy tín không cao. Trung tâm  Bảo hành Nguyễn Kim cũng luôn là một công ty lấy lợi ích khách hàng lên làm tiêu chí hoạt động hàng đầu cho nên việc thực hiện mở chi nhánh ở đây là vô cùng thuận lợi.',
+				'Qua tìm hiểu, chúng tôi nhận thấy quận 8 là một môi trường cạnh tranh tốt bới nơi đây có số lượng tiêu thụ tivi lớn trong khi các cơ sở sửa chữa nhỏ lẻ, uy tín không cao. Trung tâm  Bảo hành của chúng tôi cũng luôn là một công ty lấy lợi ích khách hàng lên làm tiêu chí hoạt động hàng đầu cho nên việc thực hiện mở chi nhánh ở đây là vô cùng thuận lợi.',
 				'Tivi là một thiết bị điện tử được cập nhất các công nghệ tối tân nhất cho nên việc sử dụng của bạn cũng luôn được bảo đảm. Tuy nhiên, đôi khi chúng cũng gặp phải những hư hỏng khiến bạn vô cùng khó chịu, chẳng hạn có thể kể tới như: hình ảnh chất lượng kém, âm thanh to nhỏ bất thường, hoạt đọng gián đoạn…Bạn lại là một người không am hiểu nhiều về đồ điện tử nên cũng đành bó tay.',
 				'Nếu bạn đang tìm kiếm một địa chỉ sửa chữa uy tín tại quận 8 thì chúng tôi xin trân trọng giới thiệu tới bạn “Dịch vụ sửa tivi quận 8” – Dịch vụ nâng tầm cuộc sống trong từng phút giây',
 			],
@@ -1910,8 +1910,8 @@ export const listContentServices = [
 		},
 		content3: {
 			content: [
-				'Trong những địa chỉ sửa chữa tivi tại nhà quận 8 hiện nay, Trung tâm Bảo Hành Nguyễn Kim tự hào là một địa chỉ uy tín, được nhiều khách hàng tin cậy trong nhiều năm. Với đội ngũ kỹ thuật đông đảo, phục vụ chuyên nghiệp, có nhiều năm kinh nghiệm trong lĩnh vực sửa tivi, chúng tôi chuyên sửa tivi tại nhà quận 8 nhanh chóng, giá tốt và chất lượng đảm bảo.  ',
-				'Chúng tôi luôn lấy chữ tín làm đầu, đảm bảo chất lượng dịch vụ tốt nhất và chuyên nghiệp, chúng tôi rất hân hạnh được là đối tác tin cậy của quý khách hàng. Hãy liên hệ ngay với Trung tâm bảo hành Nguyễn Kim chúng tôi khi quý khách gặp vấn đề với chiếc tivi của mình. Chúng tôi sẽ hỗ trợ quý khách sửa tivi tại nhà quận 8 trong thời gian nhanh nhất và với chi phí hợp lý nhất.',
+				'Trong những địa chỉ sửa chữa tivi tại nhà quận 8 hiện nay, Trung tâm Bảo Hành của chúng tôi tự hào là một địa chỉ uy tín, được nhiều khách hàng tin cậy trong nhiều năm. Với đội ngũ kỹ thuật đông đảo, phục vụ chuyên nghiệp, có nhiều năm kinh nghiệm trong lĩnh vực sửa tivi, chúng tôi chuyên sửa tivi tại nhà quận 8 nhanh chóng, giá tốt và chất lượng đảm bảo.  ',
+				'Chúng tôi luôn lấy chữ tín làm đầu, đảm bảo chất lượng dịch vụ tốt nhất và chuyên nghiệp, chúng tôi rất hân hạnh được là đối tác tin cậy của quý khách hàng. Hãy liên hệ ngay với Trung tâm bảo hành  chúng tôi khi quý khách gặp vấn đề với chiếc tivi của mình. Chúng tôi sẽ hỗ trợ quý khách sửa tivi tại nhà quận 8 trong thời gian nhanh nhất và với chi phí hợp lý nhất.',
 			],
 			className: 'content',
 		},
@@ -1920,7 +1920,7 @@ export const listContentServices = [
 			className: '',
 		},
 		title4: {
-			content: 'Điều gì làm nên sự chuyên nghiệp và uy tín của Trung tâm Bảo Hành Nguyễn Kim',
+			content: 'Điều gì làm nên sự chuyên nghiệp và uy tín của chúng tôi',
 			className: 'title',
 		},
 		content4: {
@@ -1977,7 +1977,7 @@ export const listContentServices = [
 		},
 		headTitle: {
 			content:
-				'Bạn đang tìm kiếm một nơi uy tín để sửa tivi tại nhà quận 5 giá rẻ nhất TP.HCM? Tivi của bạn đang gặp một số trục trặc gây phiền hà ảnh hưởng nhu cầu của bạn?  Bạn đang phân vân không biết nên lựa chọn địa chỉ nào giữa muôn vàn sự lựa chọn trên thị trường hiện nay? Đừng quá lo lắng, vì bạn đã có chúng tôi: Trung tâm Bảo hành Nguyễn Kim – Dịch vụ sửa tivi tận nơi giá rẻ nhất, chất lượng cao nhất.',
+				'Bạn đang tìm kiếm một nơi uy tín để sửa tivi tại nhà quận 5 giá rẻ nhất TP.HCM? Tivi của bạn đang gặp một số trục trặc gây phiền hà ảnh hưởng nhu cầu của bạn?  Bạn đang phân vân không biết nên lựa chọn địa chỉ nào giữa muôn vàn sự lựa chọn trên thị trường hiện nay? Đừng quá lo lắng, vì bạn đã có chúng tôi: Trung tâm Bảo hành Chuyên nghiệp – Dịch vụ sửa tivi tận nơi giá rẻ nhất, chất lượng cao nhất.',
 			className: 'head-title',
 		},
 		title1: {
@@ -2015,8 +2015,8 @@ export const listContentServices = [
 		},
 		content3: {
 			content: [
-				'Trong những địa chỉ sửa chữa tivi tại nhà quận 5 hiện nay, Trung tâm Bảo Hành Nguyễn Kim tự hào là một địa chỉ uy tín, được nhiều khách hàng tin cậy trong nhiều năm. Với đội ngũ kỹ thuật đông đảo, phục vụ chuyên nghiệp, có nhiều năm kinh nghiệm trong lĩnh vực sửa tivi, chúng tôi chuyên sửa tivi tại nhà quận 5 nhanh chóng, giá tốt và chất lượng đảm bảo.  ',
-				'Chúng tôi luôn lấy chữ tín làm đầu, đảm bảo chất lượng dịch vụ tốt nhất và chuyên nghiệp, chúng tôi rất hân hạnh được là đối tác tin cậy của quý khách hàng. Hãy liên hệ ngay với Trung tâm bảo hành Nguyễn Kim chúng tôi khi quý khách gặp vấn đề với chiếc tivi của mình. Chúng tôi sẽ hỗ trợ quý khách sửa tivi tại nhà quận 5 trong thời gian nhanh nhất và với chi phí hợp lý nhất.',
+				'Trong những địa chỉ sửa chữa tivi tại nhà quận 5 hiện nay, Trung tâm Bảo Hành của chúng tôi tự hào là một địa chỉ uy tín, được nhiều khách hàng tin cậy trong nhiều năm. Với đội ngũ kỹ thuật đông đảo, phục vụ chuyên nghiệp, có nhiều năm kinh nghiệm trong lĩnh vực sửa tivi, chúng tôi chuyên sửa tivi tại nhà quận 5 nhanh chóng, giá tốt và chất lượng đảm bảo.  ',
+				'Chúng tôi luôn lấy chữ tín làm đầu, đảm bảo chất lượng dịch vụ tốt nhất và chuyên nghiệp, chúng tôi rất hân hạnh được là đối tác tin cậy của quý khách hàng. Hãy liên hệ ngay với Trung tâm bảo hành  chúng tôi khi quý khách gặp vấn đề với chiếc tivi của mình. Chúng tôi sẽ hỗ trợ quý khách sửa tivi tại nhà quận 5 trong thời gian nhanh nhất và với chi phí hợp lý nhất.',
 			],
 			className: 'content',
 		},
@@ -2025,7 +2025,7 @@ export const listContentServices = [
 			className: '',
 		},
 		title4: {
-			content: 'Điều gì làm nên sự chuyên nghiệp và uy tín của Trung tâm Bảo Hành Nguyễn Kim',
+			content: 'Điều gì làm nên sự chuyên nghiệp và uy tín của chúng tôi',
 			className: 'title',
 		},
 		content4: {
@@ -2082,7 +2082,7 @@ export const listContentServices = [
 		},
 		headTitle: {
 			content:
-				'Bạn đang tìm kiếm một nơi uy tín để sửa tivi tại nhà quận 10 giá rẻ nhất TP.HCM? Tivi của bạn đang gặp một số trục trặc gây phiền hà ảnh hưởng nhu cầu của bạn?  Bạn đang phân vân không biết nên lựa chọn địa chỉ nào giữa muôn vàn sự lựa chọn trên thị trường hiện nay? Đừng quá lo lắng, vì bạn đã có chúng tôi: Trung tâm Bảo hành Nguyễn Kim – Dịch vụ sửa tivi tận nơi giá rẻ nhất, chất lượng cao nhất.',
+				'Bạn đang tìm kiếm một nơi uy tín để sửa tivi tại nhà quận 10 giá rẻ nhất TP.HCM? Tivi của bạn đang gặp một số trục trặc gây phiền hà ảnh hưởng nhu cầu của bạn?  Bạn đang phân vân không biết nên lựa chọn địa chỉ nào giữa muôn vàn sự lựa chọn trên thị trường hiện nay? Đừng quá lo lắng, vì bạn đã có chúng tôi: Trung tâm Bảo hành  – Dịch vụ sửa tivi tận nơi giá rẻ nhất, chất lượng cao nhất.',
 			className: 'head-title',
 		},
 		title1: {
@@ -2120,8 +2120,8 @@ export const listContentServices = [
 		},
 		content3: {
 			content: [
-				'Trong những địa chỉ sửa chữa tivi tại nhà quận 10 hiện nay, Trung tâm Bảo Hành Nguyễn Kim tự hào là một địa chỉ uy tín, được nhiều khách hàng tin cậy trong nhiều năm. Với đội ngũ kỹ thuật đông đảo, phục vụ chuyên nghiệp, có nhiều năm kinh nghiệm trong lĩnh vực sửa tivi, chúng tôi chuyên sửa tivi tại nhà quận 10 nhanh chóng, giá tốt và chất lượng đảm bảo.  ',
-				'Chúng tôi luôn lấy chữ tín làm đầu, đảm bảo chất lượng dịch vụ tốt nhất và chuyên nghiệp, chúng tôi rất hân hạnh được là đối tác tin cậy của quý khách hàng. Hãy liên hệ ngay với Trung tâm bảo hành Nguyễn Kim chúng tôi khi quý khách gặp vấn đề với chiếc tivi của mình. Chúng tôi sẽ hỗ trợ quý khách sửa tivi tại nhà quận 10 trong thời gian nhanh nhất và với chi phí hợp lý nhất.',
+				'Trong những địa chỉ sửa chữa tivi tại nhà quận 10 hiện nay, Trung tâm Bảo Hành của chúng tôi tự hào là một địa chỉ uy tín, được nhiều khách hàng tin cậy trong nhiều năm. Với đội ngũ kỹ thuật đông đảo, phục vụ chuyên nghiệp, có nhiều năm kinh nghiệm trong lĩnh vực sửa tivi, chúng tôi chuyên sửa tivi tại nhà quận 10 nhanh chóng, giá tốt và chất lượng đảm bảo.  ',
+				'Chúng tôi luôn lấy chữ tín làm đầu, đảm bảo chất lượng dịch vụ tốt nhất và chuyên nghiệp, chúng tôi rất hân hạnh được là đối tác tin cậy của quý khách hàng. Hãy liên hệ ngay với chúng tôi khi quý khách gặp vấn đề với chiếc tivi của mình. Chúng tôi sẽ hỗ trợ quý khách sửa tivi tại nhà quận 10 trong thời gian nhanh nhất và với chi phí hợp lý nhất.',
 			],
 			className: 'content',
 		},
@@ -2130,7 +2130,7 @@ export const listContentServices = [
 			className: '',
 		},
 		title4: {
-			content: 'Điều gì làm nên sự chuyên nghiệp và uy tín của Trung tâm Bảo Hành Nguyễn Kim',
+			content: 'Điều gì làm nên sự chuyên nghiệp và uy tín của chúng tôi',
 			className: 'title',
 		},
 		content4: {
@@ -2187,7 +2187,7 @@ export const listContentServices = [
 		},
 		headTitle: {
 			content:
-				'Trong xã hội hiện đại ngày nay, tivi đã không còn là xa lạ đối với tất cả mọi người. Nó đem đến cho bạn một bức tranh toàn cảnh về xã hội, cung cấp cho bạn các thông tin diễn ra xung quanh bạn mà bạn chưa chưa biết vì một vài lý do nào đó. Thế nhưng, bất chợt một ngày nào đó mà chiếc tivi của bạn gặp phải sự cố cần phải sửa chữa mà bạn lại không phải là một người am hiểu về nó vì vậy mà bạn đang tìm một địa chỉ sửa tivi uy tín tại quận 9. Đừng lo lắng, hãy liên hệ ngay với chúng tôi: “Trung tâm Bảo hành Nguyễn Kim”. Chúng tôi có đội thợ sửa tivi tận nơi, tại nhà quận 9 TP.HCM uy tín, chất lượng.',
+				'Trong xã hội hiện đại ngày nay, tivi đã không còn là xa lạ đối với tất cả mọi người. Nó đem đến cho bạn một bức tranh toàn cảnh về xã hội, cung cấp cho bạn các thông tin diễn ra xung quanh bạn mà bạn chưa chưa biết vì một vài lý do nào đó. Thế nhưng, bất chợt một ngày nào đó mà chiếc tivi của bạn gặp phải sự cố cần phải sửa chữa mà bạn lại không phải là một người am hiểu về nó vì vậy mà bạn đang tìm một địa chỉ sửa tivi uy tín tại quận 9. Đừng lo lắng, hãy liên hệ ngay với chúng tôi: “Trung tâm Bảo hành Chuyên nghiệp”. Chúng tôi có đội thợ sửa tivi tận nơi, tại nhà quận 9 TP.HCM uy tín, chất lượng.',
 			className: 'head-title',
 		},
 		title1: {
@@ -2229,8 +2229,8 @@ export const listContentServices = [
 		},
 		content3: {
 			content: [
-				'Trong những địa chỉ sửa chữa tivi tại nhà quận 10 hiện nay, Trung tâm Bảo Hành Nguyễn Kim tự hào là một địa chỉ uy tín, được nhiều khách hàng tin cậy trong nhiều năm. Với đội ngũ kỹ thuật đông đảo, phục vụ chuyên nghiệp, có nhiều năm kinh nghiệm trong lĩnh vực sửa tivi, chúng tôi chuyên sửa tivi tại nhà quận 9 nhanh chóng, giá tốt và chất lượng đảm bảo.  ',
-				'Chúng tôi luôn lấy chữ tín làm đầu, đảm bảo chất lượng dịch vụ tốt nhất và chuyên nghiệp, chúng tôi rất hân hạnh được là đối tác tin cậy của quý khách hàng. Hãy liên hệ ngay với Trung tâm bảo hành Nguyễn Kim chúng tôi khi quý khách gặp vấn đề với chiếc tivi của mình. Chúng tôi sẽ hỗ trợ quý khách sửa tivi tại nhà quận 9 trong thời gian nhanh nhất và với chi phí hợp lý nhất.',
+				'Trong những địa chỉ sửa chữa tivi tại nhà quận 10 hiện nay, Trung tâm Bảo Hành của chúng tôi tự hào là một địa chỉ uy tín, được nhiều khách hàng tin cậy trong nhiều năm. Với đội ngũ kỹ thuật đông đảo, phục vụ chuyên nghiệp, có nhiều năm kinh nghiệm trong lĩnh vực sửa tivi, chúng tôi chuyên sửa tivi tại nhà quận 9 nhanh chóng, giá tốt và chất lượng đảm bảo.  ',
+				'Chúng tôi luôn lấy chữ tín làm đầu, đảm bảo chất lượng dịch vụ tốt nhất và chuyên nghiệp, chúng tôi rất hân hạnh được là đối tác tin cậy của quý khách hàng. Hãy liên hệ ngay với Trung tâm bảo hành chúng tôi khi quý khách gặp vấn đề với chiếc tivi của mình. Chúng tôi sẽ hỗ trợ quý khách sửa tivi tại nhà quận 9 trong thời gian nhanh nhất và với chi phí hợp lý nhất.',
 			],
 			className: 'content',
 		},
@@ -2239,7 +2239,7 @@ export const listContentServices = [
 			className: '',
 		},
 		title4: {
-			content: 'Điều gì làm nên sự chuyên nghiệp và uy tín của Trung tâm Bảo Hành Nguyễn Kim',
+			content: 'Điều gì làm nên sự chuyên nghiệp và uy tín của chúng tôi',
 			className: 'title',
 		},
 		content4: {
@@ -2296,7 +2296,7 @@ export const listContentServices = [
 		},
 		headTitle: {
 			content:
-				'Bạn đang cần tìm một địa chỉ cung cấp dịch vụ sửa tivi tại nhà quận 11 uy tín, chất lượng. Bạn khảo sát thông tin trên các website, thông qua bạn bè thì được giới thiệu đến Trung tâm bảo hành Nguyễn Kim. Vậy Công ty có thực sự uy tín như vậy không? Bài viết dưới đây sẽ chỉ ra cho bạn, lý do tại sao chúng tôi được nhiều khách hàng tin tưởng và giới thiệu.',
+				'Bạn đang cần tìm một địa chỉ cung cấp dịch vụ sửa tivi tại nhà quận 11 uy tín, chất lượng. Bạn khảo sát thông tin trên các website, thông qua bạn bè thì được giới thiệu đến Trung tâm bảo hành của chúng tôi. Vậy Công ty có thực sự uy tín như vậy không? Bài viết dưới đây sẽ chỉ ra cho bạn, lý do tại sao chúng tôi được nhiều khách hàng tin tưởng và giới thiệu.',
 			className: 'head-title',
 		},
 		title1: {
@@ -2320,7 +2320,7 @@ export const listContentServices = [
 		},
 		content2: {
 			content: [
-				'Hiểu được nhu cầu của khách hàng, Trung tâm bảo hành Nguyễn Kim đã đi đầu, tiên phong trong lĩnh vực sửa chữa các loại tivi: 3D, Led, CRT, Plasma,.. với các nhãn hiệu phổ biến hàng đầu Việt Nam như Samsung, Sony, Panasonic, LG, Sharp, Philips, TCL, JVC…',
+				'Hiểu được nhu cầu của khách hàng, Trung tâm bảo hành của chúng tôi đã đi đầu, tiên phong trong lĩnh vực sửa chữa các loại tivi: 3D, Led, CRT, Plasma,.. với các nhãn hiệu phổ biến hàng đầu Việt Nam như Samsung, Sony, Panasonic, LG, Sharp, Philips, TCL, JVC…',
 				'Khi tivi gặp sự cố, nhu cầu cần sửa tivi tại nhà quận 11 trở nên vô cùng cần thiết. Việc sửa tivi tại nhà giúp khắc phục được sự cố một cách nhanh chóng, tiện lợi.',
 			],
 			className: 'content',
@@ -2335,8 +2335,8 @@ export const listContentServices = [
 		},
 		content3: {
 			content: [
-				'Trong những địa chỉ sửa chữa tivi tại nhà quận 11 hiện nay, Trung tâm Bảo Hành Nguyễn Kim tự hào là một địa chỉ uy tín, được nhiều khách hàng tin cậy trong nhiều năm. Với đội ngũ kỹ thuật đông đảo, phục vụ chuyên nghiệp, có nhiều năm kinh nghiệm trong lĩnh vực sửa tivi, chúng tôi chuyên sửa tivi tại nhà quận 11 nhanh chóng, giá tốt và chất lượng đảm bảo.  ',
-				'Chúng tôi luôn lấy chữ tín làm đầu, đảm bảo chất lượng dịch vụ tốt nhất và chuyên nghiệp, chúng tôi rất hân hạnh được là đối tác tin cậy của quý khách hàng. Hãy liên hệ ngay với Trung tâm bảo hành Nguyễn Kim chúng tôi khi quý khách gặp vấn đề với chiếc tivi của mình. Chúng tôi sẽ hỗ trợ quý khách sửa tivi tại nhà quận 11 trong thời gian nhanh nhất và với chi phí hợp lý nhất.',
+				'Trong những địa chỉ sửa chữa tivi tại nhà quận 11 hiện nay, Trung tâm Bảo Hành của chúng tôi tự hào là một địa chỉ uy tín, được nhiều khách hàng tin cậy trong nhiều năm. Với đội ngũ kỹ thuật đông đảo, phục vụ chuyên nghiệp, có nhiều năm kinh nghiệm trong lĩnh vực sửa tivi, chúng tôi chuyên sửa tivi tại nhà quận 11 nhanh chóng, giá tốt và chất lượng đảm bảo.  ',
+				'Chúng tôi luôn lấy chữ tín làm đầu, đảm bảo chất lượng dịch vụ tốt nhất và chuyên nghiệp, chúng tôi rất hân hạnh được là đối tác tin cậy của quý khách hàng. Hãy liên hệ ngay với Trung tâm bảo hành  chúng tôi khi quý khách gặp vấn đề với chiếc tivi của mình. Chúng tôi sẽ hỗ trợ quý khách sửa tivi tại nhà quận 11 trong thời gian nhanh nhất và với chi phí hợp lý nhất.',
 			],
 			className: 'content',
 		},
@@ -2345,7 +2345,7 @@ export const listContentServices = [
 			className: 'img',
 		},
 		title4: {
-			content: 'Điều gì làm nên sự chuyên nghiệp và uy tín của Trung tâm Bảo Hành Nguyễn Kim',
+			content: 'Điều gì làm nên sự chuyên nghiệp và uy tín của chúng tôi',
 			className: 'title',
 		},
 		content4: {
@@ -2402,7 +2402,7 @@ export const listContentServices = [
 		},
 		headTitle: {
 			content:
-				'Trung tâm Bảo hành Nguyễn Kim đã có nhiều năm kinh nghiệm trong nghề sửa chữa các đồ điện gia dụng, đồ điện tử, điện lạnh. Nhờ vậy chúng tôi có đội ngũ thợ sửa chữa lành nghề, có thâm niên nghề nghiệp và có chuyên môn nghiệp vụ. Hãy để đội thợ chuyên sửa tivi tại nhà quận 12 giá rẻ của chúng tôi có cơ hội sửa chữa tivi cho gia đình bạn.',
+				'Trung tâm Bảo hành của chúng tôi đã có nhiều năm kinh nghiệm trong nghề sửa chữa các đồ điện gia dụng, đồ điện tử, điện lạnh. Nhờ vậy chúng tôi có đội ngũ thợ sửa chữa lành nghề, có thâm niên nghề nghiệp và có chuyên môn nghiệp vụ. Hãy để đội thợ chuyên sửa tivi tại nhà quận 12 giá rẻ của chúng tôi có cơ hội sửa chữa tivi cho gia đình bạn.',
 			className: 'head-title',
 		},
 		title1: {
@@ -2457,8 +2457,8 @@ export const listContentServices = [
 		},
 		content3: {
 			content: [
-				'Trong những địa chỉ sửa chữa tivi tại nhà quận 12 hiện nay, Trung tâm Bảo Hành Nguyễn Kim tự hào là một địa chỉ uy tín, được nhiều khách hàng tin cậy trong nhiều năm. Với đội ngũ kỹ thuật đông đảo, phục vụ chuyên nghiệp, có nhiều năm kinh nghiệm trong lĩnh vực sửa tivi, chúng tôi chuyên sửa tivi tại nhà quận 12 nhanh chóng, giá tốt và chất lượng đảm bảo.  ',
-				'Chúng tôi luôn lấy chữ tín làm đầu, đảm bảo chất lượng dịch vụ tốt nhất và chuyên nghiệp, chúng tôi rất hân hạnh được là đối tác tin cậy của quý khách hàng. Hãy liên hệ ngay với Trung tâm bảo hành Nguyễn Kim chúng tôi khi quý khách gặp vấn đề với chiếc tivi của mình. Chúng tôi sẽ hỗ trợ quý khách sửa tivi tại nhà quận 12 trong thời gian nhanh nhất và với chi phí hợp lý nhất.',
+				'Trong những địa chỉ sửa chữa tivi tại nhà quận 12 hiện nay, Trung tâm Bảo Hành của chúng tôi tự hào là một địa chỉ uy tín, được nhiều khách hàng tin cậy trong nhiều năm. Với đội ngũ kỹ thuật đông đảo, phục vụ chuyên nghiệp, có nhiều năm kinh nghiệm trong lĩnh vực sửa tivi, chúng tôi chuyên sửa tivi tại nhà quận 12 nhanh chóng, giá tốt và chất lượng đảm bảo.  ',
+				'Chúng tôi luôn lấy chữ tín làm đầu, đảm bảo chất lượng dịch vụ tốt nhất và chuyên nghiệp, chúng tôi rất hân hạnh được là đối tác tin cậy của quý khách hàng. Hãy liên hệ ngay với Trung tâm bảo hành  chúng tôi khi quý khách gặp vấn đề với chiếc tivi của mình. Chúng tôi sẽ hỗ trợ quý khách sửa tivi tại nhà quận 12 trong thời gian nhanh nhất và với chi phí hợp lý nhất.',
 			],
 			className: 'content',
 		},
@@ -2467,7 +2467,7 @@ export const listContentServices = [
 			className: 'img',
 		},
 		title4: {
-			content: 'Điều gì làm nên sự chuyên nghiệp và uy tín của Trung tâm Bảo Hành Nguyễn Kim',
+			content: 'Điều gì làm nên sự chuyên nghiệp và uy tín của chúng tôi',
 			className: 'title',
 		},
 		content4: {
@@ -2552,8 +2552,7 @@ export const listContentServices = [
 			className: 'img',
 		},
 		title2: {
-			content:
-				'2. Những lý do khách hàng nên gọi đến dịch vụ sửa chữa Tivi tại nhà của trung tâm Bảo hành Nguyễn Kim',
+			content: '2. Những lý do khách hàng nên gọi đến dịch vụ sửa chữa Tivi tại nhà của chúng tôi',
 			className: 'title',
 		},
 		content2: {
@@ -2594,7 +2593,7 @@ export const listContentServices = [
 			className: 'img',
 		},
 		title4: {
-			content: 'Điều gì làm nên sự chuyên nghiệp và uy tín của Trung tâm Bảo Hành Nguyễn Kim',
+			content: 'Điều gì làm nên sự chuyên nghiệp và uy tín của chúng tôi',
 			className: 'title',
 		},
 		content4: {
@@ -2651,7 +2650,7 @@ export const listContentServices = [
 		},
 		headTitle: {
 			content:
-				'Trung tâm Bảo hành Nguyễn Kim đã có nhiều năm kinh nghiệm trong nghề sửa chữa các đồ điện gia dụng, đồ điện tử, điện lạnh. Nhờ vậy chúng tôi có đội ngũ thợ sửa chữa lành nghề, có thâm niên nghề nghiệp và có chuyên môn nghiệp vụ. Hãy để đội thợ chuyên sửa tivi tại nhà quận 12 giá rẻ của chúng tôi có cơ hội sửa chữa tivi cho gia đình bạn.',
+				'Trung tâm Bảo hành của chúng tôi đã có nhiều năm kinh nghiệm trong nghề sửa chữa các đồ điện gia dụng, đồ điện tử, điện lạnh. Nhờ vậy chúng tôi có đội ngũ thợ sửa chữa lành nghề, có thâm niên nghề nghiệp và có chuyên môn nghiệp vụ. Hãy để đội thợ chuyên sửa tivi tại nhà quận 12 giá rẻ của chúng tôi có cơ hội sửa chữa tivi cho gia đình bạn.',
 			className: 'head-title',
 		},
 		title1: {
@@ -2706,8 +2705,8 @@ export const listContentServices = [
 		},
 		content3: {
 			content: [
-				'Trong những địa chỉ sửa chữa tivi tại nhà quận 12 hiện nay, Trung tâm Bảo Hành Nguyễn Kim tự hào là một địa chỉ uy tín, được nhiều khách hàng tin cậy trong nhiều năm. Với đội ngũ kỹ thuật đông đảo, phục vụ chuyên nghiệp, có nhiều năm kinh nghiệm trong lĩnh vực sửa tivi, chúng tôi chuyên sửa tivi tại nhà quận 12 nhanh chóng, giá tốt và chất lượng đảm bảo.  ',
-				'Chúng tôi luôn lấy chữ tín làm đầu, đảm bảo chất lượng dịch vụ tốt nhất và chuyên nghiệp, chúng tôi rất hân hạnh được là đối tác tin cậy của quý khách hàng. Hãy liên hệ ngay với Trung tâm bảo hành Nguyễn Kim chúng tôi khi quý khách gặp vấn đề với chiếc tivi của mình. Chúng tôi sẽ hỗ trợ quý khách sửa tivi tại nhà quận 12 trong thời gian nhanh nhất và với chi phí hợp lý nhất.',
+				'Trong những địa chỉ sửa chữa tivi tại nhà quận 12 hiện nay, Trung tâm Bảo Hành của chúng tôi tự hào là một địa chỉ uy tín, được nhiều khách hàng tin cậy trong nhiều năm. Với đội ngũ kỹ thuật đông đảo, phục vụ chuyên nghiệp, có nhiều năm kinh nghiệm trong lĩnh vực sửa tivi, chúng tôi chuyên sửa tivi tại nhà quận 12 nhanh chóng, giá tốt và chất lượng đảm bảo.  ',
+				'Chúng tôi luôn lấy chữ tín làm đầu, đảm bảo chất lượng dịch vụ tốt nhất và chuyên nghiệp, chúng tôi rất hân hạnh được là đối tác tin cậy của quý khách hàng. Hãy liên hệ ngay với Trung tâm bảo hành  chúng tôi khi quý khách gặp vấn đề với chiếc tivi của mình. Chúng tôi sẽ hỗ trợ quý khách sửa tivi tại nhà quận 12 trong thời gian nhanh nhất và với chi phí hợp lý nhất.',
 			],
 			className: 'content',
 		},
@@ -2716,7 +2715,7 @@ export const listContentServices = [
 			className: 'img',
 		},
 		title4: {
-			content: 'Điều gì làm nên sự chuyên nghiệp và uy tín của Trung tâm Bảo Hành Nguyễn Kim',
+			content: 'Điều gì làm nên sự chuyên nghiệp và uy tín của chúng tôi',
 			className: 'title',
 		},
 		content4: {
@@ -2773,7 +2772,7 @@ export const listContentServices = [
 		},
 		headTitle: {
 			content:
-				'Bạn đang cần tìm một địa chỉ sửa Tivi Samsung tại, đảm bảo cơ sở có uy tín, thương hiệu và trách nhiệm trong nghề. Bài viết này xin giới thiệu bạn đến Trung tâm bảo hành Nguyễn Kim: đơn vị Chuyên sửa Tivi Samsung tại nhà Đặt uy tín lên hàng đầu',
+				'Bạn đang cần tìm một địa chỉ sửa Tivi Samsung tại, đảm bảo cơ sở có uy tín, thương hiệu và trách nhiệm trong nghề. Bài viết này xin giới thiệu bạn đến Trung tâm bảo hành Chuyên nghiệp: đơn vị Chuyên sửa Tivi Samsung tại nhà Đặt uy tín lên hàng đầu',
 			className: 'head-title',
 		},
 		title1: {
@@ -2795,7 +2794,7 @@ export const listContentServices = [
 		},
 		content2: {
 			content: [
-				'Khi bạn gọi thợ sửa chữa để sửa đồ dùng trong gia đình bạn, bạn hi vọng điều gì? Có phải bạn hi vọng: nhân viên sửa chữa có thể có mặt ngay tức thì, sửa chữa trong thời gian nhanh nhất, báo mức giá chính xác,… Tất cả những mong muốn của bạn sẽ được đáp ứng khi đến với trung tâm bảo hành Nguyễn Kim.',
+				'Khi bạn gọi thợ sửa chữa để sửa đồ dùng trong gia đình bạn, bạn hi vọng điều gì? Có phải bạn hi vọng: nhân viên sửa chữa có thể có mặt ngay tức thì, sửa chữa trong thời gian nhanh nhất, báo mức giá chính xác,… Tất cả những mong muốn của bạn sẽ được đáp ứng khi đến với trung tâm bảo hành của chúng tôi.',
 				'Nhân viên có mặt ngay sau khi nhận được cuộc gọi',
 				'Nghiêm túc trong thời gian làm việc',
 				'Thái độ tư vấn nhiệt tình, chu đáo, chuyên nghiệp',
@@ -2823,7 +2822,7 @@ export const listContentServices = [
 			className: 'img',
 		},
 		title4: {
-			content: 'Điều gì làm nên sự chuyên nghiệp và uy tín của Trung tâm Bảo Hành Nguyễn Kim',
+			content: 'Điều gì làm nên sự chuyên nghiệp và uy tín của chúng tôi',
 			className: 'title',
 		},
 		content4: {
@@ -2880,7 +2879,7 @@ export const listContentServices = [
 		},
 		headTitle: {
 			content:
-				'Bạn đang cần sửa chữa tivi Sony tại nhà? Hãy liên hệ ngay với Trung tâm bảo hành Nguyễn Kim, địa chỉ sửa chữa bảo dưỡng tivi Sony hàng đầu hiện nay. Hãy cùng tìm hiểu những nét cơ bản về dịch của Trung tâm qua bài viết sau đây.',
+				'Bạn đang cần sửa chữa tivi Sony tại nhà? Hãy liên hệ ngay với Trung tâm bảo hành của chúng tôi, địa chỉ sửa chữa bảo dưỡng tivi Sony hàng đầu hiện nay. Hãy cùng tìm hiểu những nét cơ bản về dịch của Trung tâm qua bài viết sau đây.',
 			className: 'head-title',
 		},
 		title1: {
@@ -2915,7 +2914,7 @@ export const listContentServices = [
 		},
 		content3: {
 			content:
-				'Trung tâm bảo hành Nguyễn Kim là một trong những đơn vị chuyên cung cấp dịch vụ sửa chữa tivi Sony chính hãng. Với đội ngũ nhân viên, kỹ thuật viên lành nghề, giàu kinh nghiệm cộng với trang thiết bị hiện đại, tiên tiến, Trung tâm tự hào là đơn vị uy tín hàng đầu trong lĩnh vực sửa chữa tivi Sony hiện nay. Không chỉ vậy, giá dịch vụ sửa chữa của chúng tôi vô cùng hợp lý. Làm việc với Trung tâm khách hàng không phải lo ngại gì về mặt giá cả.',
+				'Trung tâm bảo hành của chúng tôi là một trong những đơn vị chuyên cung cấp dịch vụ sửa chữa tivi Sony chính hãng. Với đội ngũ nhân viên, kỹ thuật viên lành nghề, giàu kinh nghiệm cộng với trang thiết bị hiện đại, tiên tiến, Trung tâm tự hào là đơn vị uy tín hàng đầu trong lĩnh vực sửa chữa tivi Sony hiện nay. Không chỉ vậy, giá dịch vụ sửa chữa của chúng tôi vô cùng hợp lý. Làm việc với Trung tâm khách hàng không phải lo ngại gì về mặt giá cả.',
 			className: 'content',
 		},
 		picture3: {
@@ -2923,7 +2922,7 @@ export const listContentServices = [
 			className: 'img',
 		},
 		title4: {
-			content: 'Đặc điểm của dịch vụ sửa tivi Sony của Trung tâm bảo hành Nguyễn Kim',
+			content: 'Đặc điểm của dịch vụ sửa tivi Sony của Chúng tôi',
 			className: 'title',
 		},
 		content4: {
@@ -3019,7 +3018,7 @@ export const listContentServices = [
 		content3: {
 			content: [
 				'Hiện nay trên thị trường có nhiều đơn vị sửa chữa tivi nói chung và tivi LG nói riêng. Tuy nhiên bạn nên tìm đến những địa chỉ uy tín chuyên nghiệp để đảm bảo chất lượng dịch vụ tốt mà giá cả lại phải chăng.',
-				'Dịch vụ sửa tivi LG tại nhà hàng đầu TP.HCM của Trung tâm Bảo hành Nguyễn Kim đem tới cho người dùng dịch vụ sửa chữa chất lượng cao, chiều lòng ngay cả những khách hàng khó tính nhất. Chắc hẳn những ai đang sinh sống trong địa bàn thành phố cũng không còn quá xa lạ với thương hiệu của  chúng tôi, đôi khi còn là những khách hàng đã từng được trải nghiệm qua dịch vụ mà chúng tôi cung cấp cho bạn.',
+				'Dịch vụ sửa tivi LG tại nhà hàng đầu TP.HCM của Trung tâm Bảo hành chúng tôi đem tới cho người dùng dịch vụ sửa chữa chất lượng cao, chiều lòng ngay cả những khách hàng khó tính nhất. Chắc hẳn những ai đang sinh sống trong địa bàn thành phố cũng không còn quá xa lạ với thương hiệu của  chúng tôi, đôi khi còn là những khách hàng đã từng được trải nghiệm qua dịch vụ mà chúng tôi cung cấp cho bạn.',
 			],
 			className: 'content',
 		},
@@ -3028,7 +3027,7 @@ export const listContentServices = [
 			className: 'img',
 		},
 		title4: {
-			content: 'Đặc điểm của dịch vụ sửa tivi Sony của Trung tâm bảo hành Nguyễn Kim',
+			content: 'Đặc điểm của dịch vụ sửa tivi Sony của Trung tâm bảo hành ',
 			className: 'title',
 		},
 		content4: {
@@ -3077,5 +3076,634 @@ export const listContentServices = [
 			className: '',
 		},
 		href: 'sua-tivi-lg',
+	},
+	{
+		header: {
+			content: 'THỢ SỬA MÁY LẠNH TCL GIÁ RẺ, UY TÍN 10 NĂM',
+			className: 'header',
+		},
+		headTitle: {
+			content:
+				'Bạn dùng máy lạnh TCL và đang gặp vấn đề không thể khắc phục được. Vậy thì hãy để thợ chuyên sửa máy lạnh TCL tại TPHCM uy tín, chuyên nghiệp giúp bạn xử lý vấn đề của máy lạnh. Hãy cùng tìm hiểu thông tin về đội thợ lành nghề, giàu kinh nghiệm của Trung tâm Bảo hành chúng tôi qua bài viết sau đây.',
+			className: 'head-title',
+		},
+		title1: {
+			content: 'Tại sao cần tìm thợ sửa máy lạnh TCL chuyên nghiệp, uy tín?',
+			className: 'title',
+		},
+		content1: {
+			content: [
+				'Máy lạnh giờ đây đã trở thành phương tiện phổ biến của hầu hết mọi gia đình. Trong đó máy TCL được nhiều khách hàng lựa chọn. Trong quá trình sử dụng máy lạnh TCL có thể phát sinh những hư hỏng nhất định. Đối với những lỗi xảy ra mà bạn không thể tự khắc phục được thì tốt nhất là bạn nên tìm đến thợ sửa máy lạnh chuyên nghiệp.',
+				'Hiện nay trên thị trường có nhiều địa chỉ cung cấp dịch vụ sửa chữa máy lạnh TCL. Tuy nhiên không phải thợ sửa chữa nào cũng có trình độ chuyên môn cao và giàu kinh nghiệm trong nghề. ',
+				'Nếu bạn lựa chọn thợ không có tay nghề cao thì chất lượng sửa chữa sẽ không đảm bảo. Có thể nguyên nhân sâu xa của lỗi máy lạnh sẽ không được phát hiện chính xác hoặc chi phí sửa chữa sẽ tăng cao, hoặc nhiều chi tiết không cần thay thế nhưng lại tiến hành thay mới… Tất cả những vấn đề đó sẽ không xảy ra nếu như bạn lựa chọn được thợ giỏi chuyên môn và giàu kinh nghiệm.',
+			],
+			className: 'content',
+		},
+		picture1: {
+			imgUrl: 'https://res.cloudinary.com/danhpq17/image/upload/v1638188766/maylanh1_osnjmf.jpg',
+			className: 'img',
+		},
+		title2: {
+			content: 'Thợ chuyên sửa máy lạnh TCL tại TPHCM uy tín và chuyên nghiệp hàng đầu',
+			className: 'title',
+		},
+		content2: {
+			content: [
+				'Trung tâm bảo hành chúng tôi tự hào là đơn vị sở hữu đội thợ sửa máy lạnh nói chung và máy lạnh TCL nói riêng uy tín và chuyên nghiệp hàng đầu. Thợ của chúng tôi đều được đào tạo bài bản, có bằng cấp và trình độ chuyên môn cao. Đồng thời với kinh nghiệm lâu năm trong nghề, thợ của Điện Máy Xanh có thể phát hiện vấn đề của máy lạnh một cách nhanh chóng, chính xác. ',
+				'Đến với đội thợ sửa máy lạnh của Trung tâm, bạn có thể hoàn toàn yên tâm về mặt chất lượng sửa chữa. Thợ sửa chữa sẽ kiểm tra và báo lỗi rồi lên phương án sửa chữa cụ thể cho khách hàng. Chỉ khi khách hàng đồng ý, thợ mới tiến hành công việc sửa chữa máy lạnh. Nếu có bất kỳ chi tiết nào thực sự cần thay thế thợ sẽ báo cho khách và chỉ thực hiện thay mới khi được khách hàng chấp thuận.',
+			],
+			className: 'content',
+		},
+		picture2: {
+			imgUrl: 'https://res.cloudinary.com/danhpq17/image/upload/v1638188765/maylanh2_kbmpwf.jpg',
+			className: 'img',
+		},
+		title3: {
+			content: 'Quy trình làm việc của thợ sửa máy lạnh TCL tại TPHCM ',
+			className: 'title',
+		},
+		content3: {
+			content: [
+				'Bước 1: Kiểm tra vấn đề của máy lạnh TCL: Khách hàng liên hệ với trung tâm sẽ được ghi nhận thông tin, tư vấn những lỗi đơn giản có thể xử lý được. Nếu vấn đề của khách hàng cần thợ đến kiểm tra thì kỹ thuật viên sẽ đến tận nơi kiểm tra máy lạnh để phát hiện ra vấn đề.',
+				'Bước 2: Đề xuất phương án sửa chữa với khách hàng: Khi đã xác định được nguyên nhân hư hỏng, thợ kỹ thuật sẽ lên phương án sửa chữa và trao đổi với khách hàng. Báo giá công thợ và các chi tiết thay thế (nếu có).',
+				'Bước 3: Tiến hành sửa chữa: Nếu khách hàng đồng ý, thợ sẽ tiến sửa chữa vấn đề hư hỏng của máy lạnh một cách nhanh chóng',
+				'Bước 4: Bàn giao máy lạnh đã sửa chữa và nhận thanh toán: Sau khi đã sửa chữa hoàn thành, thợ sẽ kiểm tra lại toàn bộ và bàn giao lại máy lạnh cho khách hàng. Khách hàng kiểm tra nếu thấy đạt yêu cầu thì tiến hành thanh toán cho thợ sửa chữa theo thỏa thuận ban đầu.',
+			],
+			className: 'content',
+		},
+		picture3: {
+			imgUrl: 'https://res.cloudinary.com/danhpq17/image/upload/v1638188765/maylanh3_mthc9n.jpg',
+			className: 'img',
+		},
+		title4: {
+			content: 'Ý kiến đánh giá của khách hàng ',
+			className: 'title',
+		},
+		content4: {
+			content: [
+				'Anh Ngô Chí Minh, Quận Gò Vấp, TPHCM: Vừa rồi máy lạnh TCL của nhà tôi có vấn đề hư hỏng, tự nhiên không hoạt động được. Tôi đã gọi cho Trung tâm và trung tâm đã cử thợ đến tận nhà để xem xét cho tôi. Thợ kỹ thuật kiểm tra và phát hiện lỗi nhanh chóng và sửa chữa kịp thời giúp tôi không bị gián đoạn nhu cầu sử dụng máy lạnh. Tôi rất hài lòng về chất lượng phục vụ của thợ sửa chữa đến từ trung tâm bảo hành.',
+				'Anh Nguyễn Văn Giảng, Quận 10, TPHCM: Tôi là đối tượng khách hàng thân thiết của trung tâm. Các thiết bị nhà tôi nếu có vấn đề gì trục trặc chỉ cần tôi gọi điện là lập tức có thợ đến kiểm tra nhanh chóng. Tôi thấy rằng thợ của trung tâm có trình độ tay nghề cao, lần nào cũng khắc phục các vấn đề hư hỏng một cách nhanh chóng và chi phí lại hết sức phải chăng.',
+				'Chị Trần Thị Nguyệt, Quận 11, TPHCM: Nhà tôi dùng máy lạnh TCL đã được một thời gian khá dài và tuần trước đã có chút trục trặc xảy ra. Tôi đã được cho số của trung tâm. Sau khi liên hệ đã có thợ đến tận nhà giúp tôi sửa chữa. Chú thợ làm việc rất chuyên nghiệp và niềm nở. Chi phí sửa chữa cũng hết sức nhẹ nhàng. Tôi ấn tượng với chất lượng phục vụ của thợ sửa chữa tại trung tâm bảo hành.',
+			],
+			className: 'content',
+		},
+		picture4: {
+			imgUrl: 'https://res.cloudinary.com/danhpq17/image/upload/v1638188769/maylanh4_epxrru.jpg',
+			className: 'img',
+		},
+		title5: {
+			content: '',
+			className: '',
+		},
+		content5: {
+			content: '',
+			className: '',
+		},
+		picture5: {
+			imgUrl: '',
+			className: '',
+		},
+		title6: {
+			content:
+				'Nếu máy lạnh TCL của bạn có vấn đề, hãy gọi ngay cho thợ sửa chữa chuyên nghiệp uy tín của Trung tâm Bảo hành. Bạn có thể gọi tới số điện thoại  0775811523 - 02822432939 để được hỗ trợ nhanh chóng. Ngoài ra bạn có thể truy cập vào website http://dichvusuachua-nguyenkim.com/ để tìm hiểu thêm các thông tin về dịch vụ của Trung tâm. ',
+			className: 'title',
+		},
+		content6: {
+			content: '',
+			className: '',
+		},
+		picture6: {
+			imgUrl: '',
+			className: '',
+		},
+		href: 'sua-may-lanh-tcl-gia-re',
+	},
+	{
+		header: {
+			content: 'TRUNG TÂM SỬA MÁY LẠNH TOSHIBA TẠI NHÀ CHÍNH HÃNG',
+			className: 'header',
+		},
+		headTitle: {
+			content:
+				'Bạn đang có nhu cầu cần sửa chữa máy lạnh Toshiba nhưng bạn còn đang băn khoăn không biết nên chọn địa chỉ nào là đáng tin cậy và có mức giá cả phù hợp. Hãy đến ngay với Trung tâm bảo hành của chúng tôi, địa chỉ sửa chữa bảo dưỡng máy lạnh Toshiba uy tín, chất lượng nhất hiện nay.',
+			className: 'head-title',
+		},
+		title1: {
+			content: 'Lựa chọn địa chỉ cần sửa chữa máy lạnh Toshiba',
+			className: 'title',
+		},
+		content1: {
+			content: [
+				'Hiện nay nhu cầu sử dụng máy giặt ngày càng tăng cao, máy giặt được coi như là một công cụ hỗ trợ thiết yếu không thể thiếu của mọi nhà. Trên thị trường có rất nhiều hãng máy giặt khác nhau để khách hàng có thể lựa chọn như Hitachi, LG, Electrolux, Panasonic, Samsung... ',
+				'Tuy nhiên một trong những hãng máy giặt đang được nhiều người tiêu dùng tin tưởng và lựa chọn đó là máy giặt thương hiệu Toshiba đến từ Nhật Bản với thiết kế độc đáo, mới mẻ, tích hợp nhiều công nghệ giặt hiện đại mang lại nhiều tiện ích cho người sử dụng. Để duy trì được độ bền và thời gian sử dụng của máy giặt cần phải thường xuyên kiểm tra tình trạng của máy giặt để kịp thời phát hiện sửa chữa bảo dưỡng giúp tăng hiệu suất làm việc và duy trì độ đàn hồi Hiện trạng của dịch vụ sửa máy lạnh Toshiba  hiện nay?',
+				'Hiện nay trên thị trường có rất nhiều các đơn vị cung cấp dịch vụ sửa chữa máy lạnh Toshiba để đáp ứng nhu cầu của khách hàng. Do đó việc khách hàng có thể lựa chọn được một địa chỉ đáng tin cậy, uy tín, chất lượng, giá cả phù hợp và tiết kiệm nhất sẽ đem lại hiệu quả tối đa trong quá trình sửa chữa và bảo dưỡng.',
+			],
+			className: 'content',
+		},
+		picture1: {
+			imgUrl: 'https://res.cloudinary.com/danhpq17/image/upload/v1638190209/maylanh5_kpmauh.jpg',
+			className: 'img',
+		},
+		title2: {
+			content:
+				'Tại sao bạn nên lựa chọn Trung tâm bảo hành Điện máy xanh đơn vị chuyên cung cấp dịch vụ sửa máy lạnh Toshiba',
+			className: 'title',
+		},
+		content2: {
+			content: [
+				'Tác phong nghiệp vụ chuyên nghiệp: Đến với Trung tâm bảo hành Điện máy xanh đơn vị đơn vị chuyên cung cấp dịch vụ sửa máy lạnh Toshiba. Với đội ngũ nhân viên có chuyên môn và rất giàu kinh nghiệm trong lĩnh vực sửa chữa bảo dưỡng, là những người có trách nhiệm cao đối với công việc. Chúng tôi luôn luôn muốn mang đến cho khách hàng sụ tin tưởng và hài lòng nhất định trong quá trình sử dụng dịch vụ.',
+				'Thời gian làm việc 24 / 24: Trung tâm bảo hành Điện máy xanh đơn vị đơn vị chuyên cung cấp dịch vụ sửa máy lạnh Toshiba. Luôn phục vụ quý khách hàng 24/24 vào tất cả các ngày trong tuần kể cả ngày thứ 7 và ngày chủ nhật. Bất cứ khi nào quý khách cần, hay có nhu cầu muốn sửa máy lạnh Toshiba hãy liên hệ ngay với chúng tôi để được tư vấn và hỗ trợ kỹ lưỡng.',
+				'Được báo giá chi tiết: Trước khi tiến hành ký kết hợp đồng sửa chữa bảo dưỡng khách hàng sẽ được cung cấp bảng báo giá công khai minh bạch chi tiết của dịch vụ. Sau khi hai bên thống nhất sẽ tiến hành ký kết hợp đồng. ',
+				'Phụ tùng chính hãng: Với kinh nghiệm hoạt động lâu năm trong lĩnh vực cung cấp, sửa chữa các thiết bị điện tử, điện lạnh, đồ gia dụng…, Trung tâm bảo hành Điện máy xanh cam kết với khách hàng về chất lượng dịch vụ của đơn vị. Các phụ tùng dùng để sửa chữa bảo dưỡng máy giặt của Trung tâm bảo hành Điện máy xanh đảm bảo đều là hàng chính hãng 100%, có đầy đủ giấy tờ pháp lý, các thông tin, thông số kỹ thuật của từng loại phụ tùng, có thông tin cụ thể về hãng sản xuất, nơi sản xuất…',
+				'Phạm vi hoạt động rộng khắp: Trung tâm bảo hành Điện máy xanh với phạm vi hoạt động rộng khắp ở tất cả các quận, huyện trong khu vực thành phố Hồ Chí Minh từ quận 1 đến quận 12. Cung cấp dịch vụ sửa chữa ở các quận Gò Vấp, Tân Phú, Bình Tân, Phú Nhuận, Bình Thạnh, Thủ Đức, Tân Bình đến các huyện ngoại thành như Hóc Môn, Cần Giờ, Nhà Bè, Củ Chi… Quy mô và phạm vi hoạt động ngày càng được mở rộng hơn điều đó cho thấy rằng chất lượng và hiệu quả hoạt động của đơn vị ngày càng trên đà phát triển mạnh mẽ hơn.',
+			],
+			className: 'content',
+		},
+		picture2: {
+			imgUrl: 'https://res.cloudinary.com/danhpq17/image/upload/v1638190346/niemtin1_f8enni.png',
+			className: 'img',
+		},
+		title3: {
+			content: 'Quy trình làm việc của thợ sửa máy lạnh Toshiba tại TPHCM ',
+			className: 'title',
+		},
+		content3: {
+			content: [
+				'Bước 1: Kiểm tra vấn đề của máy lạnh Toshiba: Khách hàng liên hệ với trung tâm sẽ được ghi nhận thông tin, tư vấn những lỗi đơn giản có thể xử lý được. Nếu vấn đề của khách hàng cần thợ đến kiểm tra thì kỹ thuật viên sẽ đến tận nơi kiểm tra máy lạnh để phát hiện ra vấn đề.',
+				'Bước 2: Đề xuất phương án sửa chữa với khách hàng: Khi đã xác định được nguyên nhân hư hỏng, thợ kỹ thuật sẽ lên phương án sửa chữa và trao đổi với khách hàng. Báo giá công thợ và các chi tiết thay thế (nếu có).',
+				'Bước 3: Tiến hành sửa chữa: Nếu khách hàng đồng ý, thợ sẽ tiến sửa chữa vấn đề hư hỏng của máy lạnh một cách nhanh chóng',
+				'Bước 4: Bàn giao máy lạnh đã sửa chữa và nhận thanh toán: Sau khi đã sửa chữa hoàn thành, thợ sẽ kiểm tra lại toàn bộ và bàn giao lại máy lạnh cho khách hàng. Khách hàng kiểm tra nếu thấy đạt yêu cầu thì tiến hành thanh toán cho thợ sửa chữa theo thỏa thuận ban đầu.',
+			],
+			className: 'content',
+		},
+		picture3: {
+			imgUrl: 'https://res.cloudinary.com/danhpq17/image/upload/v1638188765/maylanh3_mthc9n.jpg',
+			className: 'img',
+		},
+		title4: {
+			content: 'Ý kiến đánh giá của khách hàng ',
+			className: 'title',
+		},
+		content4: {
+			content: [
+				'Anh Ngô Chí Minh, Quận Gò Vấp, TPHCM: Vừa rồi máy lạnh Toshiba của nhà tôi có vấn đề hư hỏng, tự nhiên không hoạt động được. Tôi đã gọi cho Trung tâm và trung tâm đã cử thợ đến tận nhà để xem xét cho tôi. Thợ kỹ thuật kiểm tra và phát hiện lỗi nhanh chóng và sửa chữa kịp thời giúp tôi không bị gián đoạn nhu cầu sử dụng máy lạnh. Tôi rất hài lòng về chất lượng phục vụ của thợ sửa chữa đến từ trung tâm bảo hành.',
+				'Anh Nguyễn Văn Giảng, Quận 10, TPHCM: Tôi là đối tượng khách hàng thân thiết của trung tâm. Các thiết bị nhà tôi nếu có vấn đề gì trục trặc chỉ cần tôi gọi điện là lập tức có thợ đến kiểm tra nhanh chóng. Tôi thấy rằng thợ của trung tâm có trình độ tay nghề cao, lần nào cũng khắc phục các vấn đề hư hỏng một cách nhanh chóng và chi phí lại hết sức phải chăng.',
+				'Chị Trần Thị Nguyệt, Quận 11, TPHCM: Nhà tôi dùng máy lạnh Toshiba đã được một thời gian khá dài và tuần trước đã có chút trục trặc xảy ra. Tôi đã được cho số của trung tâm. Sau khi liên hệ đã có thợ đến tận nhà giúp tôi sửa chữa. Chú thợ làm việc rất chuyên nghiệp và niềm nở. Chi phí sửa chữa cũng hết sức nhẹ nhàng. Tôi ấn tượng với chất lượng phục vụ của thợ sửa chữa tại trung tâm bảo hành.',
+				'Anh Hoàng Quốc Anh, Quận 2: Nhà tôi mới đang có nhu cầu sửa chữa máy lạnh Toshiba được bạn bè giới thiệu tôi biết đến Trung tâm bảo hành Điện máy xanh đơn vị chuyên cung cấp dịch vụ sửa máy lạnh Toshiba, sau khi được sử dụng dịch vụ tôi cảm thấy rất hài lòng về thái độ phục vụ, kỹ thuật tay nghề của các bạn nhân viên rất khéo và làm rất cẩn thận tỉ mỉ, giá cả lại hợp lý, chất lượng dịch vụ tốt sau khi bảo dưỡng sửa chữa tại Trung tâm bảo hành Điện máy xanh máy giặt của tôi hoạt động tốt hơn rất nhiều.',
+			],
+			className: 'content',
+		},
+		picture4: {
+			imgUrl: 'https://res.cloudinary.com/danhpq17/image/upload/v1638188769/maylanh4_epxrru.jpg',
+			className: 'img',
+		},
+		title5: {
+			content: '',
+			className: '',
+		},
+		content5: {
+			content: '',
+			className: '',
+		},
+		picture5: {
+			imgUrl: '',
+			className: '',
+		},
+		title6: {
+			content:
+				'Nếu máy lạnh Toshiba của bạn có vấn đề, hãy gọi ngay cho thợ sửa chữa chuyên nghiệp uy tín của Trung tâm Bảo hành. Bạn có thể gọi tới số điện thoại  0775811523 - 02822432939 để được hỗ trợ nhanh chóng. Ngoài ra bạn có thể truy cập vào website http://dichvusuachua-nguyenkim.com/ để tìm hiểu thêm các thông tin về dịch vụ của Trung tâm. ',
+			className: 'title',
+		},
+		content6: {
+			content: '',
+			className: '',
+		},
+		picture6: {
+			imgUrl: '',
+			className: '',
+		},
+		href: 'sua-may-lanh-toshiba',
+	},
+	{
+		header: {
+			content: 'SỬA MÁY LẠNH PANASONIC CHÍNH HÃNG GIÁ RẺ',
+			className: 'header',
+		},
+		headTitle: {
+			content:
+				'Bạn đang tìm kiếm một dịch vụ sửa máy lạnh Panasonic tận nơi? Bạn không biết nên lựa chọn địa chỉ nào uy tín trong hàng trăm địa chỉ trên thị trường hiện nay? Trung tâm bảo hành chúng tôi hân hạnh đem tới cho bạn các dịch vụ chất lượng cao và chuyên nghiệp nhất hiện nay.',
+			className: 'head-title',
+		},
+		title1: {
+			content: 'Dịch vụ sửa chữa máy lạnh Panasonic của Trung tâm',
+			className: 'title',
+		},
+		content1: {
+			content: [
+				'Trung tâm chúng tôi là thương hiệu được khách khách hàng tin tưởng sử dụng trong nhiều năm, cho tới nay công đã có một vị trí vững chắc trên thị trường và có được nhiều giải thưởng có giá trị. Đến với chúng tôi bạn không chỉ tháo gỡ được các khó khăn cho máy lạnh mà còn có cơ hội trải nghiệm các dịch mang tầm thương hiệu với các ưu thế vượt trội có thể kể tới như:',
+				'Phục vụ tận nơi: Chuyên sửa máy lạnh Panasonic tận nơi đưa ra dịch vụ với mong muốn tạo cho bạn sự thuận tiện nhất. Chúng tôi cam kết bất cứ khách hàng cần sửa chữa bất kể đồ điện dân dụng nào chỉ cần một cuộc gọi tới cho chúng tôi thì công ty sẽ cho nhân viên tới tận nơi kiểm tra. Bạn không cần tới tận cửa hàng chúng tôi để gặp trực tiếp nhân viên. Điều này sẽ cực kì thuận tiện cho những người bận rộn, tiết kiệm được đáng kể thời gian của cả đôi bên.',
+				'Chất lượng, hiệu quả: Chúng tôi cam kết cho khách hàng về chất lượng tất cả các dịch vụ mà công ty cung cấp cho khách hàng. Máy lạnh của bạn khi đã đến tay chúng tôi sẽ được sửa chữa một cách cẩn thận và kỹ lưỡng, đảm bảo đảm máy sẽ hoạt động bình thường trở lại. Nhân viên sửa chữa sẽ bắt bệnh chính xác và sửa chữa nhanh chóng không làm mất nhiều thời gian chờ đợi của khách hàng.',
+				'Chi phí rẻ: Trung tâm bảo hành Điện máy xanh mang đến dịch vụ sửa chữa máy lạnh Panasonic chuyên nghiệp với chi phí rẻ nhất trên thị trường hiện nay. Chúng tôi luôn đưa ra mức chi phí hợp lí nhất với tất cả các dịch vụ, bạn sẽ không thể bỏ qua được mức giá hấp dẫn mà Trung tâm đem tới cho bạn và cũng không thể tìm được bất kì một nơi nào có thể có mức giá như công ty mà dịch vụ vẫn đảm bảo cao nhất. Bạn có thể so sánh giá cả của Trung tâm với các đơn vị khác để thấy được ưu điểm nổi bật của chúng tôi.',
+				'Chuyên nghiệp: Chúng tôi có đội ngũ nhân viên có trình độ cao, được đào tạo theo quy trình chuẩn công nghiệp hóa, năng lực chuyên môn cao và có thâm niên làm việc lâu năm. Từng nhân viên của Trung tâm luôn thường xuyên được đào tạo định kỳ và được hướng dẫn bài bản tất cả các kỹ thuật cần thiết. Chúng tôi luôn có đội ngũ nhân viên nhiệt tình, tháo vát, linh hoạt, luôn có trách nhiệm với công việc của mình, tận tụy vì từng dịch vụ đem tới cho khách hàng',
+				'Sản phẩm chính hãng: Khi tiến hành sửa máy lạnh Panasonic, nếu thấy thực sự cần thiết phải thay thế phụ tùng mới thì thợ kỹ thuật mới đề xuất với khách hàng. Tất cả những chi tiết, phụ tùng thay thế trong quá trình sửa chữa do Trung tâm bảo hành Điện máy xanh thực hiện đều được bảo đảm bảo chính hãng, có giấy tờ rõ ràng và được lấy từ hãng 100%. Nếu bạn phát hiện ra bất cứ chi tiết nào mà nhân viên thay thế là hàng trôi nổi trên thị trường thì hãy báo ngay lại cho nhân viên tại dịch vụ chuyên sửa máy lạnh Panasonic tận nơi, chúng tôi sẽ nghiêm khắc xử lí và tiến hành bồi thường cho bạn.',
+			],
+			className: 'content',
+		},
+		picture1: {
+			imgUrl: 'https://res.cloudinary.com/danhpq17/image/upload/v1638190733/maylanh6_khsgk4.jpg',
+			className: 'img',
+		},
+		title2: {
+			content: '',
+			className: '',
+		},
+		content2: {
+			content: '',
+			className: '',
+		},
+		picture2: {
+			imgUrl: '',
+			className: '',
+		},
+		title3: {
+			content: 'Quy trình làm việc của thợ sửa máy lạnh Panasonic tại TPHCM ',
+			className: 'title',
+		},
+		content3: {
+			content: [
+				'Bước 1: Kiểm tra vấn đề của máy lạnh Panasonic: Khách hàng liên hệ với trung tâm sẽ được ghi nhận thông tin, tư vấn những lỗi đơn giản có thể xử lý được. Nếu vấn đề của khách hàng cần thợ đến kiểm tra thì kỹ thuật viên sẽ đến tận nơi kiểm tra máy lạnh để phát hiện ra vấn đề.',
+				'Bước 2: Đề xuất phương án sửa chữa với khách hàng: Khi đã xác định được nguyên nhân hư hỏng, thợ kỹ thuật sẽ lên phương án sửa chữa và trao đổi với khách hàng. Báo giá công thợ và các chi tiết thay thế (nếu có).',
+				'Bước 3: Tiến hành sửa chữa: Nếu khách hàng đồng ý, thợ sẽ tiến sửa chữa vấn đề hư hỏng của máy lạnh một cách nhanh chóng',
+				'Bước 4: Bàn giao máy lạnh đã sửa chữa và nhận thanh toán: Sau khi đã sửa chữa hoàn thành, thợ sẽ kiểm tra lại toàn bộ và bàn giao lại máy lạnh cho khách hàng. Khách hàng kiểm tra nếu thấy đạt yêu cầu thì tiến hành thanh toán cho thợ sửa chữa theo thỏa thuận ban đầu.',
+			],
+			className: 'content',
+		},
+		picture3: {
+			imgUrl: 'https://res.cloudinary.com/danhpq17/image/upload/v1638190734/maylanh8_lqazuq.png',
+			className: 'img',
+		},
+		title4: {
+			content: 'Ý kiến đánh giá của khách hàng ',
+			className: 'title',
+		},
+		content4: {
+			content: [
+				'Anh Ngô Chí Minh, Quận Gò Vấp, TPHCM: Vừa rồi máy lạnh Panasonic của nhà tôi có vấn đề hư hỏng, tự nhiên không hoạt động được. Tôi đã gọi cho Trung tâm và trung tâm đã cử thợ đến tận nhà để xem xét cho tôi. Thợ kỹ thuật kiểm tra và phát hiện lỗi nhanh chóng và sửa chữa kịp thời giúp tôi không bị gián đoạn nhu cầu sử dụng máy lạnh. Tôi rất hài lòng về chất lượng phục vụ của thợ sửa chữa đến từ trung tâm bảo hành.',
+				'Anh Nguyễn Văn Giảng, Quận 10, TPHCM: Tôi là đối tượng khách hàng thân thiết của trung tâm. Các thiết bị nhà tôi nếu có vấn đề gì trục trặc chỉ cần tôi gọi điện là lập tức có thợ đến kiểm tra nhanh chóng. Tôi thấy rằng thợ của trung tâm có trình độ tay nghề cao, lần nào cũng khắc phục các vấn đề hư hỏng một cách nhanh chóng và chi phí lại hết sức phải chăng.',
+				'Chị Trần Thị Nguyệt, Quận 11, TPHCM: Nhà tôi dùng máy lạnh Panasonic đã được một thời gian khá dài và tuần trước đã có chút trục trặc xảy ra. Tôi đã được cho số của trung tâm. Sau khi liên hệ đã có thợ đến tận nhà giúp tôi sửa chữa. Chú thợ làm việc rất chuyên nghiệp và niềm nở. Chi phí sửa chữa cũng hết sức nhẹ nhàng. Tôi ấn tượng với chất lượng phục vụ của thợ sửa chữa tại trung tâm bảo hành.',
+				'Anh Hoàng Quốc Anh, Quận 2: Nhà tôi mới đang có nhu cầu sửa chữa máy lạnh Panasonic được bạn bè giới thiệu tôi biết đến Trung tâm bảo hành Điện máy xanh đơn vị chuyên cung cấp dịch vụ sửa máy lạnh Panasonic, sau khi được sử dụng dịch vụ tôi cảm thấy rất hài lòng về thái độ phục vụ, kỹ thuật tay nghề của các bạn nhân viên rất khéo và làm rất cẩn thận tỉ mỉ, giá cả lại hợp lý, chất lượng dịch vụ tốt sau khi bảo dưỡng sửa chữa tại Trung tâm bảo hành Điện máy xanh máy giặt của tôi hoạt động tốt hơn rất nhiều.',
+			],
+			className: 'content',
+		},
+		picture4: {
+			imgUrl: 'https://res.cloudinary.com/danhpq17/image/upload/v1638188769/maylanh4_epxrru.jpg',
+			className: 'img',
+		},
+		title5: {
+			content: '',
+			className: '',
+		},
+		content5: {
+			content: '',
+			className: '',
+		},
+		picture5: {
+			imgUrl: '',
+			className: '',
+		},
+		title6: {
+			content:
+				'Nếu máy lạnh Panasonic của bạn có vấn đề, hãy gọi ngay cho thợ sửa chữa chuyên nghiệp uy tín của Trung tâm Bảo hành. Bạn có thể gọi tới số điện thoại  0775811523 - 02822432939 để được hỗ trợ nhanh chóng. Ngoài ra bạn có thể truy cập vào website http://dichvusuachua-nguyenkim.com/ để tìm hiểu thêm các thông tin về dịch vụ của Trung tâm. ',
+			className: 'title',
+		},
+		content6: {
+			content: '',
+			className: '',
+		},
+		picture6: {
+			imgUrl: '',
+			className: '',
+		},
+		href: 'sua-may-lanh-panasonic',
+	},
+	{
+		header: {
+			content: 'THỢ SỬA MÁY LẠNH LG TẠI NHÀ GIÁ TỐT',
+			className: 'header',
+		},
+		headTitle: {
+			content:
+				'Bạn dùng máy lạnh LG và đang gặp vấn đề không thể khắc phục được. Vậy thì hãy để thợ chuyên sửa máy lạnh LG tại TPHCM uy tín, chuyên nghiệp giúp bạn xử lý vấn đề của máy lạnh. Hãy cùng tìm hiểu thông tin về đội thợ lành nghề, giàu kinh nghiệm của Trung tâm Bảo hành  Điện Máy Xanh qua bài viết sau đây.',
+			className: 'head-title',
+		},
+		title1: {
+			content: 'Tại sao cần tìm thợ sửa máy lạnh LG chuyên nghiệp, uy tín?',
+			className: 'title',
+		},
+		content1: {
+			content: [
+				'Máy lạnh giờ đây đã trở thành phương tiện phổ biến của hầu hết mọi gia đình. Trong đó máy lạnh LG là thương hiệu được đông đảo khách hàng tin dùng. Trong quá trình sử dụng máy lạnh LG có thể phát sinh những hư hỏng nhất định. Đối với những lỗi xảy ra mà bạn không thể tự khắc phục được thì tốt nhất là bạn nên tìm đến thợ sửa máy lạnh chuyên nghiệp.',
+				'Hiện nay trên thị trường có nhiều địa chỉ cung cấp dịch vụ sửa chữa máy lạnh nói chung và máy lạnh LG nói riêng. Tuy nhiên không phải thợ sửa chữa nào cũng có trình độ chuyên môn cao và giàu kinh nghiệm trong nghề. ',
+				'Nếu bạn lựa chọn thợ không có tay nghề cao thì chất lượng sửa chữa sẽ không đảm bảo. Có thể nguyên nhân sâu xa của lỗi máy lạnh sẽ không được phát hiện chính xác hoặc chi phí sửa chữa sẽ tăng cao, hoặc nhiều chi tiết không cần thay thế nhưng lại tiến hành thay mới… Tất cả những vấn đề đó sẽ không xảy ra nếu như bạn lựa chọn được thợ giỏi chuyên môn và giàu kinh nghiệm.',
+			],
+			className: 'content',
+		},
+		picture1: {
+			imgUrl: 'https://res.cloudinary.com/danhpq17/image/upload/v1638191176/maylanh9_tg8msi.jpg',
+			className: 'img',
+		},
+		title2: {
+			content: 'Thợ chuyên sửa máy lạnh LG tại TPHCM uy tín và chuyên nghiệp hàng đầu',
+			className: 'title',
+		},
+		content2: {
+			content: [
+				'Trung tâm bảo hành Điện Máy Xanh tự hào là đơn vị sở hữu đội thợ sửa máy lạnh nói chung và máy lạnh LG nói riêng uy tín và chuyên nghiệp hàng đầu. Thợ của chúng tôi đều được đào tạo bài bản, có bằng cấp và trình độ chuyên môn cao. Đồng thời với kinh nghiệm lâu năm trong nghề, thợ của Điện Máy Xanh có thể phát hiện vấn đề của máy lạnh một cách nhanh chóng, chính xác. ',
+				'Đến với đội thợ sửa máy lạnh của Trung tâm, bạn có thể hoàn toàn yên tâm về mặt chất lượng sửa chữa. Thợ sửa chữa sẽ kiểm tra và báo lỗi rồi lên phương án sửa chữa cụ thể cho khách hàng. Chỉ khi khách hàng đồng ý, thợ mới tiến hành công việc sửa chữa máy lạnh. Nếu có bất kỳ chi tiết nào thực sự cần thay thế thợ sẽ báo cho khách và chỉ thực hiện thay mới khi được khách hàng chấp thuận.',
+			],
+			className: 'content',
+		},
+		picture2: {
+			imgUrl: 'https://res.cloudinary.com/danhpq17/image/upload/v1638191176/maylanh10_xki959.jpg',
+			className: 'img',
+		},
+		title3: {
+			content: 'Những ưu điểm nổi bật về thợ sửa máy lạnh của Trung tâm bảo hành',
+			className: 'title',
+		},
+		content3: {
+			content: [
+				'Đội thợ sửa chữa của Trung tâm bảo hành Điện Máy Xanh được đông đảo khách hàng tin tưởng lựa chọn và hài lòng. Sở dĩ chúng tôi được khách hàng đánh giá cao là bởi có nhiều ưu điểm nổi bật như sau:',
+				'Trình độ chuyên môn cao: Để trở thành thợ sửa chữa của Trung tâm bảo hành Điện Máy Xanh thì yêu cầu thợ phải có trình độ chuyên môn cao. Bên cạnh đó, trung tâm thường xuyên kiểm tra, giám sát chất lượng sửa chữa của các thợ. Trung tâm cũng tổ chức các khóa đào tạo nâng cao trình độ cho thợ sửa chữa và tạo môi trường trao đổi giữa các thợ để học hỏi kinh nghiệm của nhau. Nhờ vậy mà chất lượng của thợ sửa chữa máy lạnh LG của Trung tâm Điện Máy Xanh được đảm bảo.',
+				'Thái độ nhiệt tình, thân thiện: Thợ sửa máy lạnh LG của Trung tâm bảo hành Điện Máy Xanh luôn có thái độ phục vụ khách hàng nhiệt tình và thân thiện. Chúng tôi luôn giữ đúng chuẩn mực và cư xử lịch sự, tôn trọng khách hàng. Các vấn đề về hư hỏng sửa chữa máy lạnh sẽ được thợ trao đổi kỹ lưỡng và chi tiết để khách hàng hiểu rõ và đưa ra những quyết định lựa chọn phù hợp.',
+			],
+			className: 'content',
+		},
+		picture3: {
+			imgUrl: 'https://res.cloudinary.com/danhpq17/image/upload/v1638191176/maylanh11_c4zhvx.jpg',
+			className: 'img',
+		},
+		title4: {
+			content: 'Quy trình làm việc của thợ sửa máy lạnh LG tại TPHCM',
+			className: 'title',
+		},
+		content4: {
+			content: [
+				'Bước 1: Kiểm tra vấn đề của máy lạnh LG: Khách hàng liên hệ với trung tâm sẽ được ghi nhận thông tin, tư vấn những lỗi đơn giản có thể xử lý được. Nếu vấn đề của khách hàng cần thợ đến kiểm tra thì kỹ thuật viên sẽ đến tận nơi kiểm tra máy lạnh để phát hiện ra vấn đề.',
+				'Bước 2: Đề xuất phương án sửa chữa với khách hàng: Khi đã xác định được nguyên nhân hư hỏng, thợ kỹ thuật sẽ lên phương án sửa chữa và trao đổi với khách hàng. Báo giá công thợ và các chi tiết thay thế (nếu có).',
+				'Bước 3: Tiến hành sửa chữa: Nếu khách hàng đồng ý, thợ sẽ tiến sửa chữa vấn đề hư hỏng của máy lạnh một cách nhanh chóng',
+				'Bước 4: Bàn giao máy lạnh đã sửa chữa và nhận thanh toán: Sau khi đã sửa chữa hoàn thành, thợ sẽ kiểm tra lại toàn bộ và bàn giao lại máy lạnh cho khách hàng. Khách hàng kiểm tra nếu thấy đạt yêu cầu thì tiến hành thanh toán cho thợ sửa chữa theo thỏa thuận ban đầu.',
+			],
+			className: 'content',
+		},
+		picture4: {
+			imgUrl: 'https://res.cloudinary.com/danhpq17/image/upload/v1638191177/quytrinh_hmq6aa.png',
+			className: 'img',
+		},
+		title5: {
+			content: 'Ý kiến đánh giá của khách hàng ',
+			className: 'title',
+		},
+		content5: {
+			content: [
+				'Anh Ngô Chí Minh, Quận Gò Vấp, TPHCM: Vừa rồi máy lạnh LG của nhà tôi có vấn đề hư hỏng, tự nhiên không hoạt động được. Tôi đã gọi cho Trung tâm và trung tâm đã cử thợ đến tận nhà để xem xét cho tôi. Thợ kỹ thuật kiểm tra và phát hiện lỗi nhanh chóng và sửa chữa kịp thời giúp tôi không bị gián đoạn nhu cầu sử dụng máy lạnh. Tôi rất hài lòng về chất lượng phục vụ của thợ sửa chữa đến từ trung tâm bảo hành.',
+				'Anh Nguyễn Văn Giảng, Quận 10, TPHCM: Tôi là đối tượng khách hàng thân thiết của trung tâm. Các thiết bị nhà tôi nếu có vấn đề gì trục trặc chỉ cần tôi gọi điện là lập tức có thợ đến kiểm tra nhanh chóng. Tôi thấy rằng thợ của trung tâm có trình độ tay nghề cao, lần nào cũng khắc phục các vấn đề hư hỏng một cách nhanh chóng và chi phí lại hết sức phải chăng.',
+				'Chị Trần Thị Nguyệt, Quận 11, TPHCM: Nhà tôi dùng máy lạnh LG đã được một thời gian khá dài và tuần trước đã có chút trục trặc xảy ra. Tôi đã được cho số của trung tâm. Sau khi liên hệ đã có thợ đến tận nhà giúp tôi sửa chữa. Chú thợ làm việc rất chuyên nghiệp và niềm nở. Chi phí sửa chữa cũng hết sức nhẹ nhàng. Tôi ấn tượng với chất lượng phục vụ của thợ sửa chữa tại trung tâm bảo hành.',
+				'Anh Hoàng Quốc Anh, Quận 2: Nhà tôi mới đang có nhu cầu sửa chữa máy lạnh LG được bạn bè giới thiệu tôi biết đến Trung tâm bảo hành Điện máy xanh đơn vị chuyên cung cấp dịch vụ sửa máy lạnh LG, sau khi được sử dụng dịch vụ tôi cảm thấy rất hài lòng về thái độ phục vụ, kỹ thuật tay nghề của các bạn nhân viên rất khéo và làm rất cẩn thận tỉ mỉ, giá cả lại hợp lý, chất lượng dịch vụ tốt sau khi bảo dưỡng sửa chữa tại Trung tâm bảo hành Điện máy xanh máy giặt của tôi hoạt động tốt hơn rất nhiều.',
+			],
+			className: 'content',
+		},
+		picture5: {
+			imgUrl: '',
+			className: '',
+		},
+		title6: {
+			content:
+				'Nếu máy lạnh LG của bạn có vấn đề, hãy gọi ngay cho thợ sửa chữa chuyên nghiệp uy tín của Trung tâm Bảo hành. Bạn có thể gọi tới số điện thoại  0775811523 - 02822432939 để được hỗ trợ nhanh chóng. Ngoài ra bạn có thể truy cập vào website http://dichvusuachua-nguyenkim.com/ để tìm hiểu thêm các thông tin về dịch vụ của Trung tâm. ',
+			className: 'title',
+		},
+		content6: {
+			content: '',
+			className: '',
+		},
+		picture6: {
+			imgUrl: '',
+			className: '',
+		},
+		href: 'sua-may-lanh-lg',
+	},
+	{
+		header: {
+			content: 'SỬA MÁY LẠNH DAIKIN CHÍNH HÃNG GIÁ RẺ',
+			className: 'header',
+		},
+		headTitle: {
+			content:
+				'Bạn đang tìm kiếm một dịch vụ sửa máy lạnh Daikin tận nơi? Bạn không biết nên lựa chọn địa chỉ nào uy tín trong hàng trăm địa chỉ trên thị trường hiện nay? Trung tâm bảo hành Điện máy xanh hân hạnh đem tới cho bạn các dịch vụ chất lượng cao và chuyên nghiệp nhất hiện nay.',
+			className: 'head-title',
+		},
+		title1: {
+			content: 'Đơn vị uy tín hàng đầu',
+			className: 'title',
+		},
+		content1: {
+			content: [
+				'Trung tâm bảo hành Điện máy xanh được biết tới là một trong những đơn vị có nhiều thành tựu trong ngành sửa chữa đồ điện dân dụng hiện nay. Với lịch sử hình thành và phát triển lâu đời, đơn vị chúng tôi tự hào đem tới cho khách hàng những dịch vụ uy tín, chất lượng với giá thành rẻ.',
+				'Chuyên sửa máy lạnh Daikin tận nơi là một trong vô số những dịch vụ của công ty được khách hàng đánh giá rất cao hiện nay. Qua những điều tra tổng quát về thị trường cho thấy, nhu cầu sử  dụng và sửa chữa máy lạnh của người dân ngày càng tăng cao. Với sự phát triển của xã hội hướng đến sự thuận tiện thì việc có trong nhà một chiếc máy lạnh là điều không thể thiếu đối với hầu hết các gia đình.',
+			],
+			className: 'content',
+		},
+		picture1: {
+			imgUrl: 'https://res.cloudinary.com/danhpq17/image/upload/v1638191679/maylanh12_yn35wm.png',
+			className: 'img',
+		},
+		title2: {
+			content: 'Dịch vụ sửa chữa máy lạnh Daikin của Trung tâm',
+			className: 'title',
+		},
+		content2: {
+			content: [
+				'Trung tâm chúng tôi là thương hiệu được khách khách hàng tin tưởng sử dụng trong nhiều năm, cho tới nay công đã có một vị trí vững chắc trên thị trường và có được nhiều giải thưởng có giá trị. Đến với chúng tôi bạn không chỉ tháo gỡ được các khó khăn cho máy lạnh mà còn có cơ hội trải nghiệm các dịch mang tầm thương hiệu với các ưu thế vượt trội có thể kể tới như:',
+				'Phục vụ tận nơi: Chuyên sửa máy lạnh Panasonic tận nơi đưa ra dịch vụ với mong muốn tạo cho bạn sự thuận tiện nhất. Chúng tôi cam kết bất cứ khách hàng cần sửa chữa bất kể đồ điện dân dụng nào chỉ cần một cuộc gọi tới cho chúng tôi thì công ty sẽ cho nhân viên tới tận nơi kiểm tra. Bạn không cần tới tận cửa hàng chúng tôi để gặp trực tiếp nhân viên. Điều này sẽ cực kì thuận tiện cho những người bận rộn, tiết kiệm được đáng kể thời gian của cả đôi bên.',
+				'Chất lượng, hiệu quả: Chúng tôi cam kết cho khách hàng về chất lượng tất cả các dịch vụ mà công ty cung cấp cho khách hàng. Máy lạnh của bạn khi đã đến tay chúng tôi sẽ được sửa chữa một cách cẩn thận và kỹ lưỡng, đảm bảo đảm máy sẽ hoạt động bình thường trở lại. Nhân viên sửa chữa sẽ bắt bệnh chính xác và sửa chữa nhanh chóng không làm mất nhiều thời gian chờ đợi của khách hàng.',
+				'Chi phí rẻ: Trung tâm bảo hành Điện máy xanh mang đến dịch vụ sửa chữa máy lạnh Panasonic chuyên nghiệp với chi phí rẻ nhất trên thị trường hiện nay. Chúng tôi luôn đưa ra mức chi phí hợp lí nhất với tất cả các dịch vụ, bạn sẽ không thể bỏ qua được mức giá hấp dẫn mà Trung tâm đem tới cho bạn và cũng không thể tìm được bất kì một nơi nào có thể có mức giá như công ty mà dịch vụ vẫn đảm bảo cao nhất. Bạn có thể so sánh giá cả của Trung tâm với các đơn vị khác để thấy được ưu điểm nổi bật của chúng tôi.',
+				'Chuyên nghiệp: Chúng tôi có đội ngũ nhân viên có trình độ cao, được đào tạo theo quy trình chuẩn công nghiệp hóa, năng lực chuyên môn cao và có thâm niên làm việc lâu năm. Từng nhân viên của Trung tâm luôn thường xuyên được đào tạo định kỳ và được hướng dẫn bài bản tất cả các kỹ thuật cần thiết. Chúng tôi luôn có đội ngũ nhân viên nhiệt tình, tháo vát, linh hoạt, luôn có trách nhiệm với công việc của mình, tận tụy vì từng dịch vụ đem tới cho khách hàng',
+				'Sản phẩm chính hãng: Khi tiến hành sửa máy lạnh Panasonic, nếu thấy thực sự cần thiết phải thay thế phụ tùng mới thì thợ kỹ thuật mới đề xuất với khách hàng. Tất cả những chi tiết, phụ tùng thay thế trong quá trình sửa chữa do Trung tâm bảo hành Điện máy xanh thực hiện đều được bảo đảm bảo chính hãng, có giấy tờ rõ ràng và được lấy từ hãng 100%. Nếu bạn phát hiện ra bất cứ chi tiết nào mà nhân viên thay thế là hàng trôi nổi trên thị trường thì hãy báo ngay lại cho nhân viên tại dịch vụ chuyên sửa máy lạnh Daikin tận nơi, chúng tôi sẽ nghiêm khắc xử lí và tiến hành bồi thường cho bạn.',
+			],
+			className: 'content',
+		},
+		picture2: {
+			imgUrl: 'https://res.cloudinary.com/danhpq17/image/upload/v1638191679/maylanh13_bzqojp.jpg',
+			className: 'img',
+		},
+		title3: {
+			content: 'Những ưu điểm nổi bật về thợ sửa máy lạnh của Trung tâm bảo hành',
+			className: 'title',
+		},
+		content3: {
+			content: [
+				'Đội thợ sửa chữa của Trung tâm bảo hành Điện Máy Xanh được đông đảo khách hàng tin tưởng lựa chọn và hài lòng. Sở dĩ chúng tôi được khách hàng đánh giá cao là bởi có nhiều ưu điểm nổi bật như sau:',
+				'Trình độ chuyên môn cao: Để trở thành thợ sửa chữa của Trung tâm bảo hành Điện Máy Xanh thì yêu cầu thợ phải có trình độ chuyên môn cao. Bên cạnh đó, trung tâm thường xuyên kiểm tra, giám sát chất lượng sửa chữa của các thợ. Trung tâm cũng tổ chức các khóa đào tạo nâng cao trình độ cho thợ sửa chữa và tạo môi trường trao đổi giữa các thợ để học hỏi kinh nghiệm của nhau. Nhờ vậy mà chất lượng của thợ sửa chữa máy lạnh LG của Trung tâm Điện Máy Xanh được đảm bảo.',
+				'Thái độ nhiệt tình, thân thiện: Thợ sửa máy lạnh LG của Trung tâm bảo hành Điện Máy Xanh luôn có thái độ phục vụ khách hàng nhiệt tình và thân thiện. Chúng tôi luôn giữ đúng chuẩn mực và cư xử lịch sự, tôn trọng khách hàng. Các vấn đề về hư hỏng sửa chữa máy lạnh sẽ được thợ trao đổi kỹ lưỡng và chi tiết để khách hàng hiểu rõ và đưa ra những quyết định lựa chọn phù hợp.',
+			],
+			className: 'content',
+		},
+		picture3: {
+			imgUrl: '',
+			className: '',
+		},
+		title4: {
+			content: 'Quy trình làm việc của thợ sửa máy lạnh Daikin tại TPHCM',
+			className: 'title',
+		},
+		content4: {
+			content: [
+				'Bước 1: Kiểm tra vấn đề của máy lạnh Daikin: Khách hàng liên hệ với trung tâm sẽ được ghi nhận thông tin, tư vấn những lỗi đơn giản có thể xử lý được. Nếu vấn đề của khách hàng cần thợ đến kiểm tra thì kỹ thuật viên sẽ đến tận nơi kiểm tra máy lạnh để phát hiện ra vấn đề.',
+				'Bước 2: Đề xuất phương án sửa chữa với khách hàng: Khi đã xác định được nguyên nhân hư hỏng, thợ kỹ thuật sẽ lên phương án sửa chữa và trao đổi với khách hàng. Báo giá công thợ và các chi tiết thay thế (nếu có).',
+				'Bước 3: Tiến hành sửa chữa: Nếu khách hàng đồng ý, thợ sẽ tiến sửa chữa vấn đề hư hỏng của máy lạnh một cách nhanh chóng',
+				'Bước 4: Bàn giao máy lạnh đã sửa chữa và nhận thanh toán: Sau khi đã sửa chữa hoàn thành, thợ sẽ kiểm tra lại toàn bộ và bàn giao lại máy lạnh cho khách hàng. Khách hàng kiểm tra nếu thấy đạt yêu cầu thì tiến hành thanh toán cho thợ sửa chữa theo thỏa thuận ban đầu.',
+			],
+			className: 'content',
+		},
+		picture4: {
+			imgUrl: 'https://res.cloudinary.com/danhpq17/image/upload/v1638191177/quytrinh_hmq6aa.png',
+			className: 'img',
+		},
+		title5: {
+			content: 'Ý kiến đánh giá của khách hàng ',
+			className: 'title',
+		},
+		content5: {
+			content: [
+				'Anh Ngô Chí Minh, Quận Gò Vấp, TPHCM: Vừa rồi máy lạnh Daikin của nhà tôi có vấn đề hư hỏng, tự nhiên không hoạt động được. Tôi đã gọi cho Trung tâm và trung tâm đã cử thợ đến tận nhà để xem xét cho tôi. Thợ kỹ thuật kiểm tra và phát hiện lỗi nhanh chóng và sửa chữa kịp thời giúp tôi không bị gián đoạn nhu cầu sử dụng máy lạnh. Tôi rất hài lòng về chất lượng phục vụ của thợ sửa chữa đến từ trung tâm bảo hành.',
+				'Anh Nguyễn Văn Giảng, Quận 10, TPHCM: Tôi là đối tượng khách hàng thân thiết của trung tâm. Các thiết bị nhà tôi nếu có vấn đề gì trục trặc chỉ cần tôi gọi điện là lập tức có thợ đến kiểm tra nhanh chóng. Tôi thấy rằng thợ của trung tâm có trình độ tay nghề cao, lần nào cũng khắc phục các vấn đề hư hỏng một cách nhanh chóng và chi phí lại hết sức phải chăng.',
+				'Chị Trần Thị Nguyệt, Quận 11, TPHCM: Nhà tôi dùng máy lạnh Daikin đã được một thời gian khá dài và tuần trước đã có chút trục trặc xảy ra. Tôi đã được cho số của trung tâm. Sau khi liên hệ đã có thợ đến tận nhà giúp tôi sửa chữa. Chú thợ làm việc rất chuyên nghiệp và niềm nở. Chi phí sửa chữa cũng hết sức nhẹ nhàng. Tôi ấn tượng với chất lượng phục vụ của thợ sửa chữa tại trung tâm bảo hành.',
+				'Anh Hoàng Quốc Anh, Quận 2: Nhà tôi mới đang có nhu cầu sửa chữa máy lạnh Daikin được bạn bè giới thiệu tôi biết đến Trung tâm bảo hành Điện máy xanh đơn vị chuyên cung cấp dịch vụ sửa máy lạnh Daikin, sau khi được sử dụng dịch vụ tôi cảm thấy rất hài lòng về thái độ phục vụ, kỹ thuật tay nghề của các bạn nhân viên rất khéo và làm rất cẩn thận tỉ mỉ, giá cả lại hợp lý, chất lượng dịch vụ tốt sau khi bảo dưỡng sửa chữa tại Trung tâm bảo hành Điện máy xanh máy giặt của tôi hoạt động tốt hơn rất nhiều.',
+			],
+			className: 'content',
+		},
+		picture5: {
+			imgUrl: '',
+			className: '',
+		},
+		title6: {
+			content:
+				'Nếu máy lạnh Daikin của bạn có vấn đề, hãy gọi ngay cho thợ sửa chữa chuyên nghiệp uy tín của Trung tâm Bảo hành. Bạn có thể gọi tới số điện thoại  0775811523 - 02822432939 để được hỗ trợ nhanh chóng. Ngoài ra bạn có thể truy cập vào website http://dichvusuachua-nguyenkim.com/ để tìm hiểu thêm các thông tin về dịch vụ của Trung tâm. ',
+			className: 'title',
+		},
+		content6: {
+			content: '',
+			className: '',
+		},
+		picture6: {
+			imgUrl: '',
+			className: '',
+		},
+		href: 'sua-may-lanh-daikin',
+	},
+	{
+		header: {
+			content: 'DỊCH VỤ SỬA MÁY LẠNH ELECTROLUX TẠI NHÀ TPHCM',
+			className: 'header',
+		},
+		headTitle: {
+			content:
+				'Bạn đang cần sửa chữa máy lạnh Electrolux? Hãy liên hệ ngay với Trung tâm bảo hành Điện máy xanh, địa chỉ sửa chữa bảo dưỡng máy lạnh Electrolux hàng đầu hiện nay.',
+			className: 'head-title',
+		},
+		title1: {
+			content: 'Tại sao cần sửa chữa máy lạnh Electrolux?',
+			className: 'title',
+		},
+		content1: {
+			content:
+				'Nhu cầu sử dụng máy lạnh là không thể thiếu của mọi nhà. Electrolux là thương hiệu hàng đầu về máy lạnh và được nhiều khách hàng lựa chọn. Máy lạnh Electrolux với những đột phá về công nghệ ngày càng mang lại nhiều tiện ích nổi bật cho người dùng. Tuy nhiên, cần thường xuyên kiểm tra tình trạng của tủ để kịp thời sửa chữa bảo dưỡng nhằm đảm bảo an toàn cho người sử dụng. Đồng thời việc sửa chữa bảo dưỡng máy lạnh kịp thời sẽ giúp tăng hiệu suất làm việc và thời gian sử dụng cho động cơ. ',
+			className: 'content',
+		},
+		picture1: {
+			imgUrl: 'https://res.cloudinary.com/danhpq17/image/upload/v1638192142/maylanh14_szeo45.jpg',
+			className: 'img',
+		},
+		title2: {
+			content: 'Thực trạng dịch vụ sửa máy lạnh Electrolux hiện nay',
+			className: 'title',
+		},
+		content2: {
+			content:
+				'Xuất phát từ nhu cầu thực tế, hiện nay có nhiều đơn vị cung cấp dịch vụ sửa chữa máy lạnh Electrolux. Tuy nhiên, trong số rất nhiều cơ sở sửa chữa, khách hàng cần lựa chọn cho mình địa chỉ uy tín, chuyên nghiệp, chất lượng nhất để đảm bảo việc sửa chữa  được thực hiện hiệu quả và tiết kiệm nhất. ',
+			className: 'content',
+		},
+		picture2: {
+			imgUrl: '',
+			className: '',
+		},
+		title3: {
+			content:
+				'Giới thiệu địa chỉ cung cấp dịch vụ sửa máy lạnh Electrolux uy tín, chất lượng nhất hiện nay',
+			className: 'title',
+		},
+		content3: {
+			content: [
+				'Trung tâm bảo hành Điện máy xanh là một trong những đơn vị chuyên cung cấp dịch vụ sửa chữa máy lạnh Electrolux chính hãng. Với đội ngũ nhân viên, kỹ thuật viên lành nghề, giàu kinh nghiệm cộng với trang thiết bị hiện đại, tiên tiến, Trung tâm tự hào là đơn vị uy tín hàng đầu trong lĩnh vực sửa chữa bảo dưỡng các thiết bị điện máy hiện nay. ',
+				'Không chỉ vậy, giá dịch vụ sửa chữa của chúng tôi vô cùng hợp lý. Làm việc với Trung tâm khách hàng không phải lo ngại gì về mặt giá cả',
+			],
+			className: 'content',
+		},
+		picture3: {
+			imgUrl: '',
+			className: '',
+		},
+		title4: {
+			content: 'Dịch vụ sửa máy lạnh Electrolux của Trung tâm như thế nào?',
+			className: 'title',
+		},
+		content4: {
+			content: [
+				'Dịch vụ của chúng tôi luôn cố gắng đáp ứng tốt nhất mọi nhu cầu của khách hàng. Trung tâm được đông đảo khách hàng tin tưởng lựa chọn và phản hồi tốt về các dịch vụ mà chúng tôi cung cấp. Dưới đây là một số nét nổi bật trong dịch vụ sửa máy lạnh Electrolux của Trung tâm:',
+				'Sửa chữa tận nơi: Khi máy lạnh Electrolux của bạn có vấn đề, hãy liên hệ ngay với Trung tâm bảo hành Điện máy xanh. Trung tâm sẽ cử ngay nhân viên giàu kinh nghiệm, trình độ cao đến làm việc tận nơi. Nhân viên chúng tôi sẽ mang theo phụ tùng sửa chữa, thay thế. Nếu vấn đề máy lạnh của khách hàng có thể khắc phục, sửa chữa tại chỗ, nhân viên của chúng tôi sẽ tiến hành làm ngay. Nếu máy lạnh của khách hư hỏng nặng, cần sửa chữa lâu dài, chúng tôi sẽ hỗ trợ khách hàng vận chuyển máy lạnh về xưởng sửa chữa của Trung tâm. Tại đây, hoạt động sửa chữa máy lạnh cho khách hàng sẽ diễn ra hết sức nhanh chóng, khẩn trương, đảm bảo sửa chữa đúng bệnh và thời gian sửa chữa nhanh nhất có thể. ',
+				'Giá cả hợp lý: Với phương châm đặt uy tín lên hàng đầu, Trung tâm bảo hành Điện máy xanh cung cấp dịch vụ sửa máy lạnh Electrolux với mức giá hợp lý và tốt nhất trên thị trường hiện nay. Khi khách hàng có nhu cầu sửa tủ, nhân viên của Trung tâm sẽ tư vấn cụ thể và báo giá chính xác cho khách hàng. Ngoài các khoản tiền đã thông báo và thống nhất với khách hàng, công ty cam kết không thu thêm bất cứ khoản phí gì khác mà không có sự trao đổi, thống nhất với khách hàng từ trước. ',
+				'Phụ tùng chính hãng: Với bề dày hoạt động lâu năm trong lĩnh vực cung cấp, sửa chữa các thiết bị điện tử, điện lạnh, đồ gia dụng…, Trung tâm bảo hành Điện máy xanh cam kết về chất lượng dịch vụ của đơn vị. Các phụ tùng dùng để sửa chữa bảo dưỡng máy lạnh của Trung tâm đảm bảo đều là chính hãng, có thông tin cụ thể về hãng sản xuất, nơi sản xuất, các thông số kỹ thuật… ',
+				'Đội ngũ thợ lành nghề: Trung tâm bảo hành Điện máy xanh sở hữu một đội ngũ thợ lành nghề, giàu kinh nghiệm, được đào tạo bài bản. Lựa chọn chúng tôi để sửa máy lạnh, khách hàng có thể tin tưởng tuyệt đối vào tay nghề của đội ngũ thợ Trung tâm. Các thợ sửa chữa của Trung tâm với trình độ chuyên môn kỹ thuật tốt sẽ nhanh chóng bắt đúng bệnh và sửa chữa chính xác cho máy lạnh của khách hàng. ',
+				'Trang thiết bị hiện đại: Trung tâm bảo hành Điện máy xanh được trang bị các phương tiện kỹ thuật, trang thiết bị tiên tiến, hiện đại. Chính vì vậy việc sửa chữa máy lạnh và các thiết bị khác được thực hiện một cách nhanh chóng và hiệu quả. ',
+				'Phạm vi hoạt động rộng khắp: Trung tâm bảo hành Điện máy xanh cung cấp dịch vụ sửa máy lạnh Electrolux tận nơi rộng khắp các quận, huyện trên địa bàn thành phố Hồ Chí Minh. Kể cả ở các quận trung tâm như Quận 1, Quận 2, quận 3… Các quận khác như Tân Phú, Gò Vấp, Bình Tân… Kể cả ở các huyện như Củ Chi, Hóc Môn, Cần Giờ… Bất cứ khách hàng ở đâu, liên hệ với chúng tôi sẽ được cung cấp dịch vụ sửa chữa tại nhà. ',
+				'Làm việc 24/7: Chúng tôi làm việc tất cả các ngày trong tuần. Vì vậy bất cứ lúc nào máy lạnh của bạn có vấn đề đều có thể gọi ngay đường dây nóng. Nhân viên sẽ tiếp nhận thông tin và cử kỹ thuật viên đến ngay để kiểm tra, sửa chữa máy lạnh cho khách. Hiểu được nhu cầu cần thiết trong việc sử dụng máy lạnh của mọi gia đình nên chúng tôi luôn cố gắng khắc phục vấn đề nhanh nhất cho khách. ',
+			],
+			className: 'content',
+		},
+		picture4: {
+			imgUrl: 'https://res.cloudinary.com/danhpq17/image/upload/v1638192141/maylanh15_agdxst.jpg',
+			className: 'img',
+		},
+		title5: {
+			content: 'Ý kiến đánh giá của khách hàng ',
+			className: 'title',
+		},
+		content5: {
+			content: [
+				'Anh Ngô Chí Minh, Quận Gò Vấp, TPHCM: Vừa rồi máy lạnh Electrolux của nhà tôi có vấn đề hư hỏng, tự nhiên không hoạt động được. Tôi đã gọi cho Trung tâm và trung tâm đã cử thợ đến tận nhà để xem xét cho tôi. Thợ kỹ thuật kiểm tra và phát hiện lỗi nhanh chóng và sửa chữa kịp thời giúp tôi không bị gián đoạn nhu cầu sử dụng máy lạnh. Tôi rất hài lòng về chất lượng phục vụ của thợ sửa chữa đến từ trung tâm bảo hành.',
+				'Anh Nguyễn Văn Giảng, Quận 10, TPHCM: Tôi là đối tượng khách hàng thân thiết của trung tâm. Các thiết bị nhà tôi nếu có vấn đề gì trục trặc chỉ cần tôi gọi điện là lập tức có thợ đến kiểm tra nhanh chóng. Tôi thấy rằng thợ của trung tâm có trình độ tay nghề cao, lần nào cũng khắc phục các vấn đề hư hỏng một cách nhanh chóng và chi phí lại hết sức phải chăng.',
+				'Chị Trần Thị Nguyệt, Quận 11, TPHCM: Nhà tôi dùng máy lạnh Electrolux đã được một thời gian khá dài và tuần trước đã có chút trục trặc xảy ra. Tôi đã được cho số của trung tâm. Sau khi liên hệ đã có thợ đến tận nhà giúp tôi sửa chữa. Chú thợ làm việc rất chuyên nghiệp và niềm nở. Chi phí sửa chữa cũng hết sức nhẹ nhàng. Tôi ấn tượng với chất lượng phục vụ của thợ sửa chữa tại trung tâm bảo hành.',
+				'Anh Hoàng Quốc Anh, Quận 2: Nhà tôi mới đang có nhu cầu sửa chữa máy lạnh Electrolux được bạn bè giới thiệu tôi biết đến Trung tâm bảo hành Điện máy xanh đơn vị chuyên cung cấp dịch vụ sửa máy lạnh Electrolux, sau khi được sử dụng dịch vụ tôi cảm thấy rất hài lòng về thái độ phục vụ, kỹ thuật tay nghề của các bạn nhân viên rất khéo và làm rất cẩn thận tỉ mỉ, giá cả lại hợp lý, chất lượng dịch vụ tốt sau khi bảo dưỡng sửa chữa tại Trung tâm bảo hành Điện máy xanh máy giặt của tôi hoạt động tốt hơn rất nhiều.',
+			],
+			className: 'content',
+		},
+		picture5: {
+			imgUrl: '',
+			className: '',
+		},
+		title6: {
+			content:
+				'Nếu máy lạnh Electrolux của bạn có vấn đề, hãy gọi ngay cho thợ sửa chữa chuyên nghiệp uy tín của Trung tâm Bảo hành. Bạn có thể gọi tới số điện thoại  0775811523 - 02822432939 để được hỗ trợ nhanh chóng. Ngoài ra bạn có thể truy cập vào website http://dichvusuachua-nguyenkim.com/ để tìm hiểu thêm các thông tin về dịch vụ của Trung tâm. ',
+			className: 'title',
+		},
+		content6: {
+			content: '',
+			className: '',
+		},
+		picture6: {
+			imgUrl: '',
+			className: '',
+		},
+		href: 'sua-may-lanh-electrolux',
 	},
 ]

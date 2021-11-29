@@ -151,4 +151,34 @@ export const listServices = [
 		icon: faCheck,
 		href: 'sua-tivi-quan-tan-binh',
 	},
+	{
+		content: 'Sửa máy lạnh Toshiba tại nhà',
+		icon: faCheck,
+		href: 'sua-may-lanh-toshiba-tai-nha',
+	},
+	{
+		content: 'Sửa máy lạnh TCL giá rẻ',
+		icon: faCheck,
+		href: 'sua-may-lanh-tcl',
+	},
+	{
+		content: 'Sửa máy lạnh Electronux chính hãng',
+		icon: faCheck,
+		href: 'sua-may-lanh-electrolux',
+	},
+	{
+		content: 'Sửa máy lạnh Daikin giá rẻ',
+		icon: faCheck,
+		href: 'sua-may-lanh-daikin',
+	},
+	{
+		content: 'Sửa máy lạnh LG tại nhà',
+		icon: faCheck,
+		href: 'sua-may-lanh-lg',
+	},
+	{
+		content: 'Sửa máy lạnh Panasonic chính hãng',
+		icon: faCheck,
+		href: 'sua-may-lanh-panasonic',
+	},
 ]

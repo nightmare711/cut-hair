@@ -6,7 +6,7 @@ export const listPost = [
 		},
 		headTitle: {
 			content:
-				'Dịch vụ sữa chữa máy lạnh tại nhà Nguyễn Kim với đội ngũ nhân viên chuyên sửa máy lạnh với 10 năm kinh nghiệm và sự uy tín caủa người dùng.',
+				'Dịch vụ sữa chữa máy lạnh tại nhà của chúng tôi với đội ngũ nhân viên chuyên sửa máy lạnh với 10 năm kinh nghiệm và sự uy tín caủa người dùng.',
 			className: 'head-title',
 		},
 		title1: {
@@ -35,7 +35,7 @@ export const listPost = [
 			className: 'img',
 		},
 		title2: {
-			content: '2. Dịch vụ sửa máy lạnh Nguyễn Kim có ưu điểm gì nổi bật?',
+			content: '2. Dịch vụ sửa máy lạnh của chúng tôi có ưu điểm gì nổi bật?',
 			className: 'title',
 		},
 		content2: {
@@ -43,10 +43,10 @@ export const listPost = [
 				'Đội ngũ thợ sửa máy lạnh tại nhà của Limosa được đào tạo bài bản về kỹ năng và chuyên môn.',
 				'Quy trình sửa chữa máy lạnh chuyên nghiệp.',
 				'Chính sách bảo hành linh kiện, phụ tùng máy lạnh dài hạn tới 12 tháng.',
-				'Nguyễn Kim cam kết thay thế linh kiện máy lạnh chính hãng 100%.',
+				'Chúng tôi cam kết thay thế linh kiện máy lạnh chính hãng 100%.',
 				'Đề xuất phương án và giúp khách hàng sửa máy lạnh giá rẻ để tối ưu chi phí và thời gian nhất.',
-				'Ưu đãi tới 15% dành cho người giới thiệu dịch vụ sửa máy lạnh Nguyễn Kim.',
-				'Nguyễn Kim cam kết có đội ngũ nhân viên tư vấn nhiệt tình, chuyên nghiệp..',
+				'Ưu đãi tới 15% dành cho người giới thiệu dịch vụ sửa máy lạnh của chúng tôi.',
+				'Chúng tôi cam kết có đội ngũ nhân viên tư vấn nhiệt tình, chuyên nghiệp..',
 				'Hỗ trợ dịch vụ sửa máy lạnh tại nhà 24/24.',
 				'Được khách hàng bầu chọn là nơi cung cấp dịch vụ sửa máy lạnh uy tín hàng đầu tại TP.HCM.',
 				'Với hệ thống nhiều chi nhánh Limosa hoàn toàn có thể cung cấp cho bạn một dịch vụ sửa máy lạnh gần đây, gần nhất nơi bạn.',
@@ -58,7 +58,7 @@ export const listPost = [
 			className: '',
 		},
 		title3: {
-			content: '3. Các dịch vụ sửa máy lạnh tại Nguyễn Kim',
+			content: '3. Các dịch vụ sửa máy lạnh',
 			className: 'title',
 		},
 		content3: {
@@ -80,7 +80,7 @@ export const listPost = [
 			className: '',
 		},
 		title4: {
-			content: '4. Quy trình sửa máy lạnh 24/24 tại Nguyễn Kim uy tín, chuyên nghiệp như thế nào?',
+			content: '4. Quy trình sửa máy lạnh 24/24 tại  uy tín, chuyên nghiệp như thế nào?',
 			className: 'title',
 		},
 		content4: {
@@ -117,10 +117,10 @@ export const listPost = [
 		content6: {
 			content: [
 				'Dịch vụ vệ sinh điều hòa tại nhà cam kết phục vụ quý khách hàng nhanh chóng chỉ trong vòng 30 phút kể từ khi tiếp nhận thông tin.',
-				'Limosa hỗ trợ quý khách hàng ở mọi quận huyện tại TPHCM. Bất cứ lúc nào bạn cần, hãy liên hệ Nguyễn Kim, chúng tôi sẵn sàng hỗ trợ bạn kể cả ngày chủ nhật, ngày lễ, ngoài giờ làm việc.',
-				'Kỹ thuật, thợ vệ sinh máy lạnh giá rẻ tại Nguyễn Kim là những người có chuyên môn và kinh nghiệm lâu năm nên luôn có những giải pháp tối ưu nhất giúp khách hàng tối ưu chi phí và thời gian.',
-				'Nguyễn Kim vệ sinh điều hòa hầu hết các hãng: Panasonic, Reetech, Mitsubishi, Daikin, Toshiba, Hitachi….',
-				'Nguyễn Kim cam kết bảng giá vệ sinh máy lạnh 24/24 luôn được công khai, minh bạch nên không có tình trạng hét giá hay báo giá sai đến khách hàng.',
+				'Limosa hỗ trợ quý khách hàng ở mọi quận huyện tại TPHCM. Bất cứ lúc nào bạn cần, hãy liên hệ , chúng tôi sẵn sàng hỗ trợ bạn kể cả ngày chủ nhật, ngày lễ, ngoài giờ làm việc.',
+				'Kỹ thuật, thợ vệ sinh máy lạnh giá rẻ tại là những người có chuyên môn và kinh nghiệm lâu năm nên luôn có những giải pháp tối ưu nhất giúp khách hàng tối ưu chi phí và thời gian.',
+				'Vệ sinh điều hòa hầu hết các hãng: Panasonic, Reetech, Mitsubishi, Daikin, Toshiba, Hitachi….',
+				'Cam kết bảng giá vệ sinh máy lạnh 24/24 luôn được công khai, minh bạch nên không có tình trạng hét giá hay báo giá sai đến khách hàng.',
 				'Với hệ thống nhiều chi nhánh, Limosa hoàn toàn có thể mang đển một dịch vụ vệ sinh máy lạnh gần đây, gần nhất nơi bạn sống.',
 			],
 			className: 'content',
@@ -138,7 +138,7 @@ export const listPost = [
 		},
 		headTitle: {
 			content:
-				'Bạn đang tìm kiếm một đơn vị sửa tivi tại nhà chuyên nghiệp, uy tín chất lượng ,giá rẻ tại Hồ Chí Minh? Đừng ngần ngại, hãy đến với chúng tôi. Dịch vụ sửa chữa Nguyễn Kim – chuyên Sửa tivi của các hãng: SONY.SAMSUNG, LG, PANASONIC, SHARP, TCL, …',
+				'Bạn đang tìm kiếm một đơn vị sửa tivi tại nhà chuyên nghiệp, uy tín chất lượng ,giá rẻ tại Hồ Chí Minh? Đừng ngần ngại, hãy đến với chúng tôi. Dịch vụ sửa chữa của chúng tôi – chuyên Sửa tivi của các hãng: SONY.SAMSUNG, LG, PANASONIC, SHARP, TCL, …',
 			className: 'head-title',
 		},
 		title1: {
@@ -147,7 +147,7 @@ export const listPost = [
 		},
 		content1: {
 			content:
-				'Bạn đang tìm kiếm một đơn vị sửa tivi tại nhà chuyên nghiệp, uy tín chất lượng ,giá rẻ tại Hồ Chí Minh? Đừng ngần ngại, hãy đến với chúng tôi. Dịch vụ sửa chữa Nguyễn Kim – chuyên Sửa tivi của các hãng: SONY.SAMSUNG, LG, PANASONIC, SHARP, TCL, …',
+				'Bạn đang tìm kiếm một đơn vị sửa tivi tại nhà chuyên nghiệp, uy tín chất lượng ,giá rẻ tại Hồ Chí Minh? Đừng ngần ngại, hãy đến với chúng tôi. Dịch vụ sửa chữa của chúng tôi – chuyên Sửa tivi của các hãng: SONY.SAMSUNG, LG, PANASONIC, SHARP, TCL, …',
 			className: 'content',
 		},
 		picture1: {
@@ -250,7 +250,7 @@ export const listPost = [
 		},
 		headTitle: {
 			content:
-				'Dịch vụ Nguyễn Kim chuyên sửa máy giặt tận nhà tại TP.HCM với đội ngũ nhân viên chuyên sua may giat với 10 năm kinh nghiệm.',
+				'Dịch vụ của chúng tôi chuyên sửa máy giặt tận nhà tại TP.HCM với đội ngũ nhân viên chuyên sua may giat với 10 năm kinh nghiệm.',
 			className: 'head-title',
 		},
 		title1: {
@@ -268,9 +268,9 @@ export const listPost = [
 				'Máy giặt báo lỗi ở màn hình và không hoạt động',
 				'Khi đang giặt, máy rung lắc mạnh',
 				'Sửa máy giặt bị chạm điện',
-				'DỊCH VỤ Nguyễn Kim - Chuyên bảo trì, vệ sinh, sữa chữa tủ lạnh tận nhà',
+				'DỊCH VỤ  - Chuyên bảo trì, vệ sinh, sữa chữa tủ lạnh tận nhà',
 				'Hotline: 0775811523 ',
-				'Phòng dịch vụ khách hàng Nguyễn Kim.',
+				'Phòng dịch vụ khách hàng .',
 			],
 			className: 'content',
 		},
@@ -293,7 +293,7 @@ export const listPost = [
 				'Ngoài ra quy khách còn được hưởng một chế độ chăm sóc khách hàng cực kì chu đáo.',
 				'Khi máy giặt cửa ngang, cửa đứng của quý khách bị các bệnh như trên hãy liên hệ ngay với chúng tôi để được sử dụng dịch vụ tốt nhất.',
 				'Ngoài ra chúng tôi còn bảo hành, bảo dưỡng máy giặt chính hãng của: Electrolux, LG, SamSung, Hitachi, Toshiba, Sanyo, Panasonic …',
-				'SỬA MÁY GIẶT TẬN NHÀ – KHÔNG NGẠI XA – KHỎI LO VỀ GIÁ CHỈ CÓ Ở Nguyễn Kim',
+				'SỬA MÁY GIẶT TẬN NHÀ – KHÔNG NGẠI XA – KHỎI LO VỀ GIÁ',
 			],
 			className: 'content',
 		},
@@ -365,7 +365,7 @@ export const listPost = [
 		},
 		headTitle: {
 			content:
-				'Dịch vụ Nguyễn Kim chuyên vệ sinh máy lạnh tận nhà tại TP.HCM với đội ngũ nhân viên chuyên vệ sinh máy lạnh với nhiều năm trong nghề, lịch sự, sạch sẽ khi làm tại nha.',
+				'Dịch vụ  chuyên vệ sinh máy lạnh tận nhà tại TP.HCM với đội ngũ nhân viên chuyên vệ sinh máy lạnh với nhiều năm trong nghề, lịch sự, sạch sẽ khi làm tại nha.',
 			className: 'head-title',
 		},
 		title1: {
@@ -437,7 +437,7 @@ export const listPost = [
 				'Lắp vỏ máy',
 				'Kiểm tra lương gas hao hụt',
 				'Kiểm tra thiết bị điện, phịch cắm điện tiếp xúc, thông mạch.',
-				'DỊCH VỤ Nguyễn Kim - Chuyên bảo trì, vệ sinh, sửa chữa máy lạnh tận nhà cho hệ thống siêu thị Nguyễn Kim. Hotline:   0775811523',
+				'DỊCH VỤ  - Chuyên bảo trì, vệ sinh, sửa chữa máy lạnh tận nhà cho hệ thống siêu thị . Hotline:   0775811523',
 			],
 			className: 'content',
 		},
@@ -478,7 +478,7 @@ export const listPost = [
 		},
 		headTitle: {
 			content:
-				'Dịch vụ Nguyễn Kim chuyên sửa tủ lạnh tại nhà ở tất cả các Quận TP.HCM với đội ngũ nhân viên chuyên nghiêp, lịch sự 10 năm kinh nghiệm sữa chữa tại nhà.',
+				'Dịch vụ  chuyên sửa tủ lạnh tại nhà ở tất cả các Quận TP.HCM với đội ngũ nhân viên chuyên nghiêp, lịch sự 10 năm kinh nghiệm sữa chữa tại nhà.',
 			className: 'head-title',
 		},
 		title1: {
@@ -509,7 +509,7 @@ export const listPost = [
 		},
 		content2: {
 			content: [
-				'Nhân viên Nguyễn Kim được trang bị kiến thức tốt và có kinh nghiệm lâu năm trong việc sửa tủ lạnh tại nhà',
+				'Nhân viên  được trang bị kiến thức tốt và có kinh nghiệm lâu năm trong việc sửa tủ lạnh tại nhà',
 				'Nhanh chóng có mặt tại địa điểm yêu cầu của khách hàng sau 30 phút gọi',
 				'Đưa ra các giải pháp hợp lý và phù hợp nhất giúp khách hàng tiết kiệm tối đa chi phí sửa tủ lạnh',
 				'Nhanh nhẹn, vui vẻ và làm việc với tinh thần trách nhiệm cao',
@@ -601,7 +601,7 @@ export const listPost = [
 		},
 		headTitle: {
 			content:
-				'Trong quá trình sử dụng các gia đình cũng không thể tránh được các hư hỏng của quạt điều hòa và quạt hơi nước. Để tìm được một địa chỉ sửa quạt điều hòa và quạt hơi nước uy tín tại TP.HCM là điều không dễ. Hiểu được điều này Nguyễn Kim chúng tôi đã đầu tư trang thiết bị, máy móc và đội ngũ kỹ thuật viên nhiều năm kinh nghiệm để phục vụ quý khách tại thị trường Tp. Hồ Chí Minh.',
+				'Trong quá trình sử dụng các gia đình cũng không thể tránh được các hư hỏng của quạt điều hòa và quạt hơi nước. Để tìm được một địa chỉ sửa quạt điều hòa và quạt hơi nước uy tín tại TP.HCM là điều không dễ. Hiểu được điều này  chúng tôi đã đầu tư trang thiết bị, máy móc và đội ngũ kỹ thuật viên nhiều năm kinh nghiệm để phục vụ quý khách tại thị trường Tp. Hồ Chí Minh.',
 			className: 'head-title',
 		},
 		title1: {
@@ -624,7 +624,7 @@ export const listPost = [
 			className: 'img',
 		},
 		title2: {
-			content: '2. Nguyễn Kim - Đơn vị sửa chữa quạt hơi nước uy tín tại TP.HCM',
+			content: '2.Đơn vị sửa chữa quạt hơi nước uy tín tại TP.HCM',
 			className: 'title',
 		},
 		content2: {
