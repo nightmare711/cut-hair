@@ -1,5 +1,5 @@
 import React from 'react'
-import Logo from 'assets/LOGO.jpeg'
+// import Logo from 'assets/LOGO.jpeg'
 import HomeIcon from '@material-ui/icons/Home'
 import PhoneIcon from '@material-ui/icons/Phone'
 import EmailIcon from '@material-ui/icons/Email'
@@ -14,9 +14,9 @@ export const Footer = () => {
 	return (
 		<div className='footer'>
 			<div className='footer-content footer-1'>
-				<img src={Logo} alt='Logo' />
+				{/* <img src={Logo} alt='Logo' /> */}
 				<ul className='list-content'>
-					<li className='content'>TRUNG TÂM BẢO HÀNH NGUYỄN KIM</li>
+					<li className='content'>TRUNG TÂM BẢO HÀNH</li>
 					<li className='content'>
 						<HomeIcon />
 						Trụ sở chính : 179B Lý Thường Kiệt, phường 8, Quận Tân Bình

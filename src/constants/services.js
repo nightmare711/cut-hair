@@ -181,4 +181,9 @@ export const listServices = [
 		icon: faCheck,
 		href: 'sua-may-lanh-panasonic',
 	},
+	{
+		content: 'Sửa máy hút bụi',
+		icon: faCheck,
+		href: 'sua-may-hut-bui',
+	},
 ]

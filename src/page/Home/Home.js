@@ -28,7 +28,7 @@ export const Home = () => {
 								<span className='title'>Dịch Vụ Sửa Chữa + Bảo Hành</span>
 								<span>
 									Với phương châm “ Sản phẩm tốt chưa đủ, phải là dịch vụ tốt”, đến với TRUNG TÂM
-									NGUYỄN KIM quý..
+									chúng tôi quý..
 								</span>
 							</div>
 						</div>
@@ -41,7 +41,7 @@ export const Home = () => {
 								<span className='title'>Dịch Vụ Sửa Chữa + Bảo Hành</span>
 								<span>
 									Với phương châm “ Sản phẩm tốt chưa đủ, phải là dịch vụ tốt”, đến với TRUNG TÂM
-									NGUYỄN KIM quý..
+									chúng tôi quý..
 								</span>
 							</div>
 						</div>
@@ -54,7 +54,7 @@ export const Home = () => {
 								<span className='title'>Dịch Vụ Sửa Chữa + Bảo Hành</span>
 								<span>
 									Với phương châm “ Sản phẩm tốt chưa đủ, phải là dịch vụ tốt”, đến với TRUNG TÂM
-									NGUYỄN KIM quý..
+									chúng tôi quý..
 								</span>
 							</div>
 						</div>
@@ -67,7 +67,7 @@ export const Home = () => {
 								<span className='title'>Dịch Vụ Sửa Chữa + Bảo Hành</span>
 								<span>
 									Với phương châm “ Sản phẩm tốt chưa đủ, phải là dịch vụ tốt”, đến với TRUNG TÂM
-									NGUYỄN KIM quý..
+									chúng tôi quý..
 								</span>
 							</div>
 						</div>
@@ -76,7 +76,7 @@ export const Home = () => {
 			</div>
 			<div className='container-banner'>
 				<img
-					src='https://res.cloudinary.com/danhpq17/image/upload/v1636716306/bannerNK2.1_hckvgk.jpg'
+					src='https://res.cloudinary.com/danhpq17/image/upload/v1638720475/bannerService_iggpkg.png'
 					alt='Banner'
 					className='banner-2'
 				/>
@@ -130,8 +130,8 @@ export const Home = () => {
 			<div className='home-intro'>
 				<h1>Giới thiệu về công ty</h1>
 				<p>
-					Trung tâm dịch vụ sửa chữa và bảo hành Nguyễn Kim được ủy quyền linh phụ kiện và kỹ thuật
-					của các hãng điện tử TOSHIBA, LG, PANASONIC, SAMSUNG, SANYO, DAIKIN, REETECH…
+					Trung tâm dịch vụ sửa chữa và bảo hành được ủy quyền linh phụ kiện và kỹ thuật của các
+					hãng điện tử TOSHIBA, LG, PANASONIC, SAMSUNG, SANYO, DAIKIN, REETECH…
 				</p>
 				<p>
 					Chuyên sửa chữa <b>máy lạnh, tủ lạnh, máy giặt, tivi </b> tận nhà Cho các hộ
@@ -139,11 +139,11 @@ export const Home = () => {
 					kỹ thuật đông và tận tình sẽ có mặt để chăm sóc và hỗ trợ khách hàng tại các Quận Thành
 					Phố Hồ Chí Minh.
 				</p>
-				<img
+				{/* <img
 					src='https://res.cloudinary.com/danhpq17/image/upload/v1636716339/gioithieu_wgu19l.png'
 					alt='quality'
 					className='img-quality'
-				/>
+				/> */}
 			</div>
 		</div>
 	)

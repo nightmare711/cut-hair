@@ -37,7 +37,7 @@ export const Post = ({ list }) => {
 					: null}
 				<div className='post-footer'>
 					<h2>
-						<b>Sửa chữa Nguyễn Kim</b>
+						<b>Trung tâm bảo hành</b>
 					</h2>
 					<span>
 						<b>Trụ sở chính: </b>179B Lý Thường Kiệt, phường 8, Quận Tân Bình
@@ -55,10 +55,10 @@ export const Post = ({ list }) => {
 						<b>Điện thoại:</b> 02822432939
 					</span>
 					<span>
-						<b>E-mail:</b> trungtambaohanh-nguyenkim@gmail.com
+						<b>E-mail:</b> dichvusuachua-nguyenkim.com@gmail.com
 					</span>
 					<span>
-						<b>Website: </b> trungtambaohanh-nguyenkim.com
+						<b>Website: </b> dichvusuachua-nguyenkim.com
 					</span>
 				</div>
 			</div>
