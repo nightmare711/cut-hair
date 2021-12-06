@@ -913,4 +913,173 @@ export const listPost = [
 		},
 		href: 'sua-lo-vi-song',
 	},
+	{
+		header: {
+			content: 'Sửa máy hút bụi',
+			className: 'header',
+		},
+		headTitle: {
+			content:
+				'Nhờ những công dụng hoàn hảo mà hiện nay máy hút bụi được con người sử dụng rộng rãi. Máy hút bụi giúp chúng ta tiết kiệm thời gian trong việc dọn dẹp nhà cửa, giúp không gian luôn sạch sẽ. Nhu cầu sử dụng máy hút bụi tăng cao, chính vì thế dịch vụ sửa máy hút bụi cũng phát triển. Vậy sửa chữa máy hút bụi bao gồm những bước nào? Địa điểm nào sửa chữa máy hút bụi uy tín? Nếu thắc mắc thì các bạn đừng bỏ qua bài viết sau nhé.',
+			className: 'head-title',
+		},
+		title1: {
+			content: 'Chuyên sửa sửa tất cả các loại máy hút bụi trên thị trường',
+			className: 'title',
+		},
+		content1: {
+			content: [
+				'Sửa Máy hút bụi Hitachi',
+				'Sửa Máy hút bụi Electrolux',
+				'Sửa Máy hút bụi Panasonic',
+				'Sửa Máy hút bụi Samsung',
+				'Sửa Máy hút bụi Toshiba',
+				'Sửa Máy hút bụi Midea',
+				'Sửa Máy hút bụi Dyson',
+				'Sửa Máy hút bụi Xiaomi',
+				'Sửa Máy hút bụi Philips',
+				'Sửa Máy hút bụi Bosch',
+				'Sửa Máy hút bụi Bluestone',
+			],
+			className: 'content',
+		},
+		picture1: {
+			imgUrl: 'https://res.cloudinary.com/danhpq17/image/upload/v1638722376/mayhutbui1_ou5tnb.jpg',
+			className: 'img',
+		},
+		title2: {
+			content: 'Máy hút bụi hút yếu',
+			className: 'title',
+		},
+		content2: {
+			content: [
+				'NGUYÊN NHÂN',
+				'Do tiếp xúc thân máy với các ống inox, bàn hút bụi, ống nhún không bền chặt.',
+				'Bộ phận lọc bụi, túi bụi bị bẩn do không thường xuyên vệ sinh cũng là nguyên nhân khiến máy hút bụi bị yếu.',
+				'Motor máy bị nóng hoặc cháy do chạy quá công suất.',
+				'CÁCH KHẮC PHỤC',
+				'Đối với trường hợp này, bạn nên vệ sinh đầu máy và tầng lọc sau mỗi lần sử dụng để đảm bảo cho thiết bị hoạt động tốt nhất.',
+				'Vặn chặt lại các ốc vít liên kết giữa các bộ phận ống inox, ống nhún, bàn hút bụi. Đồng thời cần lưu ý không nên để máy hút bụi hoạt động trong nhiều giờ liên tục nhé. Như vậy có thể làm giảm tuổi thọ nhanh chóng của thiết bị.',
+				'Nếu không tự tháo lắp vệ sinh và khắc phục, bạn có thể liên hệ với dịch vụ sửa đồ điện gia dụng của chúng tôi để được đến kiểm tra và sửa chữa nhé.',
+			],
+			className: 'content',
+		},
+		picture2: {
+			imgUrl: 'https://res.cloudinary.com/danhpq17/image/upload/v1638722996/hutbui2_hk3occ.jpg',
+			className: 'img',
+		},
+		title3: {
+			content: 'Máy hút bụi bị cháy',
+			className: 'title',
+		},
+		content3: {
+			content: [
+				'NGUYÊN NHÂN',
+				'Sử dụng máy hút bụi không đúng cách.',
+				'Đầu máy, túi lọc không thường xuyên vệ sinh làm cho motor bị bám bẩn nhiều, lâu ngày tạo nên sự ma sát lớn khi vận hành gây ra cháy motor.',
+				'Trục motor bị kẹt làm tải tăng lên dẫn đến tăng nhiệt ở các cuộn dây điện từ.',
+				'Nguồn điện chập chờn không ổn định làm cho tần số điện áp thay đổi liên tục.',
+				'Động cơ máy có chất lượng kém, công suất yếu và dễ bị cháy khi làm việc quá tải.',
+				'CÁCH KHẮC PHỤC',
+				'Khi máy hút bụi bị cháy, bạn không nên tự ý sửa chữa mà tốt nhất nên tìm một thợ kỹ thuật giỏi để kiểm tra. Từ đó, bắt đúng bệnh khiến thiết bị dẫn đến hỏng hóc và đưa ra cách giải quyết.',
+				'Nếu không tự tháo lắp vệ sinh và khắc phục, bạn có thể liên hệ với dịch vụ sửa đồ điện gia dụng của chúng tôi để được đến kiểm tra và sửa chữa nhé.',
+			],
+			className: 'content',
+		},
+		picture3: {
+			imgUrl: 'https://res.cloudinary.com/danhpq17/image/upload/v1638760238/hutbui4_xknmfi.jpg',
+			className: 'img',
+		},
+		title4: {
+			content: 'Máy hút bụi bị nóng',
+			className: 'title',
+		},
+		content4: {
+			content: [
+				'Máy hút bụi có động cơ motor hoạt động với công suất khá lớn với tốc độ vòng quay cao. Khi các motor này làm việc liên tục đến quá tải sẽ khiến máy hút bụi dễ bị nóng, nhiệt độ tăng lên rất nhanh.',
+				'NGUYÊN NHÂN',
+				'Bộ lọc máy bị tắc hoặc bị bẩn.',
+				'Vành đai máy hút bụi bị vỡ.',
+				'Xuất hiện vật lạ ở bất kỳ bộ phận nào bên trong máy.',
+				'Động cơ tản nhiệt kém.',
+				'Thiết bị sử dụng quá tải trong thời gian dài.',
+				'Lực ma sát của các motor tăng lên tạo ra số vòng quay lớn.',
+				'CÁCH KHẮC PHỤC',
+				'Đối với trường hợp bộ lọc máy bị tắc hoặc bị bẩn: Bạn có thể dùng một vài miếng vải ẩm để làm sạch bộ lọc. Sau đó để máy hút bụi thật khô trước khi lắp chúng lại.',
+				'Khi vành đai bị vỡ: Bạn cần thay thế vành đai mới để thiết bị hoạt động trở lại.',
+				'Nếu thấy các bộ phận bên trong có vật cản, bạn cần tháo rời các bộ phận và lấy ra vật cản đó.',
+				'Nếu không tự tháo lắp vệ sinh và khắc phục, bạn có thể liên hệ với dịch vụ sửa đồ điện gia dụng của chúng tôi để được đến kiểm tra và sửa chữa nhé.',
+			],
+			className: 'content',
+		},
+		picture4: {
+			imgUrl: 'https://res.cloudinary.com/danhpq17/image/upload/v1638760673/hutbui5_uwjh0l.jpg',
+			className: 'img',
+		},
+		title5: {
+			content: 'Máy hút bụi kêu to',
+			className: 'title',
+		},
+		content5: {
+			content: [
+				'Thông thường, máy hút bụi khi làm việc sẽ phát ra tiếng kêu nhỏ. Tiếng kêu này xuất phát từ các động cơ điện, quạt gió. Tuy nhiên, khi phát hiện ra thiết bị có tiếng kêu lạ hoặc kêu to bạn cần kiểm tra chúng.',
+				'NGUYÊN NHÂN',
+				'Chổi than máy hút bụi bị ăn mòn tạo ra tiếng kêu lớn khi hoạt động.',
+				'Tấm mút làm giảm tiếng ồn bị hỏng.',
+				'Có vật cản trong quạt thông gió.',
+				'Đường hút máy hút bụi bị cản.',
+				'Trục quay bị khô dầu.',
+				'Ổ góp bị ăn mòn.',
+				'Bạt đạn không hoạt động.',
+				'CÁCH KHẮC PHỤC',
+				'Đối với trường hợp máy hút bụi kêu to, bạn cần kiểm tra xem nguyên nhân là do đâu. Nếu tấm mút bị hỏng thì cần thay mới tấm mút. Nếu trục quay bị khô dầu thì cần bơm dầu để thiết bị hoạt động tốt nhất. Đồng thời bạn cũng cần bảo dưỡng các bộ phận như chổi than, ổ góp để thiết bị hoạt động trơn tru hơn.',
+				'Nếu không tự tháo lắp vệ sinh và khắc phục, bạn có thể liên hệ với dịch vụ sửa đồ điện gia dụng của chúng tôi để được đến kiểm tra và sửa chữa nhé.',
+			],
+			className: 'content',
+		},
+		picture5: {
+			imgUrl: 'https://res.cloudinary.com/danhpq17/image/upload/v1638759858/hutbui3_lopdge.jpg',
+			className: 'img',
+		},
+		title6: {
+			content: 'Máy hút bụi không chạy',
+			className: 'title',
+		},
+		content6: {
+			content: [
+				'Máy hút bụi không chạy là một lỗi khá phổ biến và hay gặp nhất ở thiết bị này.',
+				'NGUYÊN NHÂN',
+				'Bị lỏng phích cắm.',
+				'Dây điện bị đứt.',
+				'Các động cơ bên trong máy bị hỏng, cháy không thể hoạt động.',
+				'Cầu chì nhiệt, rơ le bị cháy.',
+				'CÁCH KHẮC PHỤC',
+				'Để khắc phục được lỗi này, bạn nên kiểm tra tổng thể máy hút bụi để tìm ra nguyên nhân khiến máy không hoạt động. Từ đó, đưa ra giải pháp phù hợp cho các nguyên nhân đó. Nếu phích cắm bị lỏng thì đơn giản chỉ cần cắm chặt phích cắm lại là được.',
+				'Còn khi dây dẫn bị đứt, cầu chì bị cháy thì cách duy nhất đó chính là thay mới.',
+				'Nếu không tự tháo lắp vệ sinh và khắc phục, bạn có thể liên hệ với dịch vụ sửa đồ điện gia dụng của chúng tôi để được đến kiểm tra và sửa chữa nhé.',
+			],
+			className: 'content',
+		},
+		picture6: {
+			imgUrl: '',
+			className: '',
+		},
+		title7: {
+			content: 'Dịch vụ sửa máy hút bụi tại nhà TPHCM',
+			className: 'title',
+		},
+		content7: {
+			content: [
+				'Hiện nay, nhu cầu sử dụng máy hút bụi ngày càng tăng cao. Chính vì thế các dịch vụ sửa chữa máy hút bụi rất phát triển. Bạn đang tìm kiếm một địa điểm sửa chữa máy hút bụi chất lượng mà giá rẻ ? Bạn đang băn khoăn trong rất nhiều địa điểm không biết nên chọn địa điểm nào?',
+				'Nếu bạn muốn tiết kiệm thời gian tìm kiếm thì có thể tham khảo ngay dịch vụ sửa chữa robot hút bụi, máy hút bụi tại nhà của chúng tôi. Một trong những cái tên sáng giá nhất trong các địa điểm sửa chữa tại TPHCM.',
+				'Trung tâm chúng tôi nhận sửa tất cả các thiết bị đồ gia dụng ở tất cả các quận 1, quận 2, quận 3, quận 4, quận 5, quận 6, quận 7, quận 8, quận 10, quận 11, quận 12, quận Tân Bình, quận Phú Nhuận, quận Bình Thạnh, quận Tân Phú, thành phố Thủ Đức ở TPHCM. Nếu thiết bị của bạn gặp bất kỳ vấn đề gì có thể liên hệ ngay để được kiểm tra.',
+			],
+			className: 'content',
+		},
+		picture7: {
+			imgUrl: 'https://res.cloudinary.com/danhpq17/image/upload/v1638761701/hubui6_lqdkv5.jpg',
+			className: 'img',
+		},
+		href: 'sua-may-hut-bui',
+	},
 ]

@@ -14,7 +14,10 @@ export const Footer = () => {
 	return (
 		<div className='footer'>
 			<div className='footer-content footer-1'>
-				{/* <img src={Logo} alt='Logo' /> */}
+				<img
+					src='https://res.cloudinary.com/danhpq17/image/upload/v1638785569/logo3_xc4ebj.png'
+					alt='Logo'
+				/>
 				<ul className='list-content'>
 					<li className='content'>TRUNG TÂM BẢO HÀNH</li>
 					<li className='content'>

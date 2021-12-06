@@ -55,7 +55,7 @@ export const Navbar = () => {
 					</Link>
 				</li>
 				{listPost
-					.filter((post, index) => index <= 6)
+					.filter((post, index) => index <= 10)
 					.map((post, index) => (
 						<li className='item'>
 							<Link key={index} to={`/services/${post.href}`}>

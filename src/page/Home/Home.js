@@ -4,11 +4,11 @@ import './Home.css'
 export const Home = () => {
 	return (
 		<div className='home-page'>
-			<img
+			{/* <img
 				className='banner'
 				src='https://res.cloudinary.com/danhpq17/image/upload/v1635668962/banner1_xmicf8.jpg'
 				alt='Banner'
-			/>
+			/> */}
 			<div className='container-flex'>
 				<div className='left-side'>
 					<h1>VÌ SAO CHỌN CHÚNG TÔI</h1>
@@ -25,7 +25,7 @@ export const Home = () => {
 								alt='support'
 							/>
 							<div className='content'>
-								<span className='title'>Dịch Vụ Sửa Chữa + Bảo Hành</span>
+								<span className='title'>Dịch Vụ Sửa Chữa</span>
 								<span>
 									Với phương châm “ Sản phẩm tốt chưa đủ, phải là dịch vụ tốt”, đến với TRUNG TÂM
 									chúng tôi quý..
@@ -38,7 +38,7 @@ export const Home = () => {
 								alt='support'
 							/>
 							<div className='content'>
-								<span className='title'>Dịch Vụ Sửa Chữa + Bảo Hành</span>
+								<span className='title'>Dịch Vụ Bảo Hành</span>
 								<span>
 									Với phương châm “ Sản phẩm tốt chưa đủ, phải là dịch vụ tốt”, đến với TRUNG TÂM
 									chúng tôi quý..
@@ -51,7 +51,7 @@ export const Home = () => {
 								alt='support'
 							/>
 							<div className='content'>
-								<span className='title'>Dịch Vụ Sửa Chữa + Bảo Hành</span>
+								<span className='title'>Dịch Vụ Vệ Sinh</span>
 								<span>
 									Với phương châm “ Sản phẩm tốt chưa đủ, phải là dịch vụ tốt”, đến với TRUNG TÂM
 									chúng tôi quý..
@@ -64,7 +64,7 @@ export const Home = () => {
 								alt='support'
 							/>
 							<div className='content'>
-								<span className='title'>Dịch Vụ Sửa Chữa + Bảo Hành</span>
+								<span className='title'>Dịch Vụ Hỗ Trợ tại nhà</span>
 								<span>
 									Với phương châm “ Sản phẩm tốt chưa đủ, phải là dịch vụ tốt”, đến với TRUNG TÂM
 									chúng tôi quý..
