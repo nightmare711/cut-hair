@@ -30,11 +30,11 @@ export const Footer = () => {
 					</li>
 					<li className='content'>
 						<EmailIcon />
-						trungtambaohanhnguyenkim@gmail.com
+						dichvusuachua-nguyenkim.com@gmail.com
 					</li>
 					<li className='content'>
 						<PublicIcon />
-						trungtambaohanhnguyenkim.com
+						dichvusuachua-nguyenkim.com
 					</li>
 					<li className='content'>
 						<LocationOn />
